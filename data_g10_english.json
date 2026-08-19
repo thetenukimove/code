@@ -1,0 +1,224 @@
+[
+  {
+    "id": "g10_e_1",
+    "grade": "10",
+    "subject": "english",
+    "fullTitle": "Unit 1: Advanced Prose Analysis & Critical Reading",
+    "loDesc": "Reads complex prose texts critically to analyze authorial voice, deduce implicit subtext, evaluate character arcs, and master high-level contextual vocabulary.",
+    "pdfPage": 29,
+    "docPage": 14,
+    "pdfUrl": "https://ncert.nic.in/pdf/notice/learning_outcomes.pdf#page=29",
+    "hookAction": "SHOW",
+    "hookDemo": "Display two short literary excerpts describing a trial scene: one written with detached legal objectivity, the other written with emotional bias.",
+    "hookAsk": "How does an author's narrative point of view shape reader sympathy and moral judgment?",
+    "streamTitle": "Contextual Vocabulary & Tone Identification",
+    "streamDo": "Observe 5 highlighted advanced vocabulary words within a 200-word literary passage.",
+    "streamTask": "Match given contextual vocabulary words with their correct synonyms and identify the tone of the passage (Irony, Sarcasm, Nostalgia, Melancholy).",
+    "mountainTitle": "Character Arc Analysis & Textual Proof",
+    "mountainTask": "Read a given story excerpt, analyze the protagonist's moral transformation in a 120-word paragraph, and cite 2 pieces of textual evidence.",
+    "skyTitle": "Comparative Prose Synthesis Paragraph",
+    "skyTask": "Synthesize how two different short stories present the conflict between 'Individual Ambition vs Social Duty' in a 150-word analytical essay.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Narrative Perspective", "Implicit Subtext", "Character Arc", "Irony / Sarcasm", "Nostalgia / Melancholy"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Confusing a narrator's subjective personal opinion with the author's overall objective message or theme.",
+          "correctionTrigger": "Ask: 'Is the first-person narrator reliable, or is the author using irony to show the narrator's flaws?'"
+        }
+      ],
+      "crossCurricularLinks": [
+        "Ethics & Philosophy: Moral Dilemmas (Evaluating individual ambition vs civic responsibility in literary prose)"
+      ]
+    },
+    "metaSscCode": "E1001",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "Secondary English LO [NCERT Secondary LO Document p. 14]",
+    "metaNcertDesc": "Reads prose critically to analyze character transformations, authorial style, and thematic subtext.",
+    "metaNishthaText": "NISHTHA Pedagogy Note: Organize socratic circle discussions to evaluate character motives."
+  },
+  {
+    "id": "g10_e_2",
+    "grade": "10",
+    "subject": "english",
+    "fullTitle": "Unit 2: Poetic Structure, Devices & Critical Appreciation",
+    "loDesc": "Analyzes complex poetic structures, evaluates literary devices (Oxymoron, Paradox, Symbolism, Irony, Transferred Epithet, Metaphor), and drafts comprehensive appreciations.",
+    "pdfPage": 29,
+    "docPage": 14,
+    "pdfUrl": "https://ncert.nic.in/pdf/notice/learning_outcomes.pdf#page=29",
+    "hookAction": "SHOW",
+    "hookDemo": "Recite two famous poetic phrases: 'deafening silence' and 'sleepless night'.",
+    "hookAsk": "What is the difference between an Oxymoron (contradictory terms paired) and a Transferred Epithet (adjective shifted to another noun)?",
+    "streamTitle": "Advanced Figure of Speech Sorting",
+    "streamDo": "Observe lines from prescribed Grade 10 poems.",
+    "streamTask": "Classify given poem lines under Symbolism, Oxymoron, Paradox, Irony, or Transferred Epithet.",
+    "mountainTitle": "Structured Critical Appreciation Writing",
+    "mountainTask": "Write a 5-point critical appreciation of a prescribed poem covering: Title, Poet, Rhyme Scheme, Figures of Speech, and Central Philosophical Theme.",
+    "skyTitle": "Symbolic Stanza Composition",
+    "skyTask": "Compose an original 4-line stanza on 'Time' incorporating an ABAB rhyme scheme, one Symbolism, and one Oxymoron.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Oxymoron", "Transferred Epithet", "Paradox", "Poetic Symbolism", "Philosophical Theme"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Confusing Transferred Epithet with Personification (e.g. assuming 'sleepless night' means the night itself is alive and awake).",
+          "correctionTrigger": "Ask: 'Who is actually sleepless—the person or the night?' The adjective 'sleepless' is transferred from person to night."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Aesthetics & Philosophy: Symbolic Imagery (Decoding abstract philosophical undertones in poetic verse)"
+      ]
+    },
+    "metaSscCode": "E1002",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "Secondary English LO [NCERT Secondary LO Document p. 14]",
+    "metaNcertDesc": "Appreciates advanced poetic forms, complex literary devices, and philosophical undertones.",
+    "metaNishthaText": "NISHTHA Pedagogy Note: Use poetry slam recitations to explore meter and cadence."
+  },
+  {
+    "id": "g10_e_3",
+    "grade": "10",
+    "subject": "english",
+    "fullTitle": "Unit 3: Functional Grammar: Transformations & Clauses",
+    "loDesc": "Transforms sentences (Simple, Compound, Complex; Degrees of Comparison; Affirmative/Negative), applies Clause synthesis, and masters Subject-Verb Concord in formal writing.",
+    "pdfPage": 29,
+    "docPage": 14,
+    "pdfUrl": "https://ncert.nic.in/pdf/notice/learning_outcomes.pdf#page=29",
+    "hookAction": "DEMO",
+    "hookDemo": "Display a simple sentence: 'In spite of being poor, he is honest.'",
+    "hookAsk": "How do we convert this into a Compound sentence using 'but' and a Complex sentence using 'although'?",
+    "streamTitle": "Sentence Transformation Practice",
+    "streamDo": "Observe 4 simple sentences with prepositions.",
+    "streamTask": "Transform given simple sentences into compound and complex sentence structures without changing meaning.",
+    "mountainTitle": "Degrees of Comparison Transformation",
+    "mountainTask": "Transform the sentence 'Iron is more useful than any other metal' into Positive and Superlative degrees of comparison.",
+    "skyTitle": "Complex Clause Synthesis Paragraph",
+    "skyTask": "Synthesize 6 short choppy sentences into a single cohesive 3-sentence paragraph using relative clauses and subordinating conjunctions.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Simple / Compound / Complex", "Subordinating Conjunction", "Coordinating Conjunction", "Degrees of Comparison", "Clause Synthesis"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Altering the core meaning of a sentence when converting from Positive to Comparative/Superlative degree.",
+          "correctionTrigger": "Ask: 'Does \"Iron is the most useful metal\" mean the same as \"No other metal is as useful as iron\"?' Maintain precise meaning balance."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Linguistic Logic & Syntax: Structural Editing (Synthesizing complex clause relationships for academic writing)"
+      ]
+    },
+    "metaSscCode": "E1003",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "Secondary English LO [NCERT Secondary LO Document p. 14]",
+    "metaNcertDesc": "Transforms sentence structures, synthesizes clauses, and applies subject-verb concord in context.",
+    "metaNishthaText": "NISHTHA Pedagogy Note: Use sentence-combining games to build structural fluency."
+  },
+  {
+    "id": "g10_e_4",
+    "grade": "10",
+    "subject": "english",
+    "fullTitle": "Unit 4: Formal Correspondence: Editorial & Municipal Complaints",
+    "loDesc": "Composes formal letters to newspaper editors, civic authorities, and business managers regarding social, environmental, and consumer issues following standard block layouts.",
+    "pdfPage": 29,
+    "docPage": 14,
+    "pdfUrl": "https://ncert.nic.in/pdf/notice/learning_outcomes.pdf#page=29",
+    "hookAction": "SHOW",
+    "hookDemo": "Display a formal letter to an Editor side by side with a Consumer Court complaint letter.",
+    "hookAsk": "What structural elements differ in tone, reference numbers, and call to action between editorial and consumer complaints?",
+    "streamTitle": "Formal Letter Register & Vocabulary Sorting",
+    "streamDo": "Observe mixed phrases: 'I want you to fix this ASAP', 'I am writing to draw your kind attention to...', 'Thanks a lot', 'Yours faithfully'.",
+    "streamTask": "Classify phrases into Appropriate Formal Register versus Inappropriate Informal Phrasing.",
+    "mountainTitle": "Letter to the Editor Composition",
+    "mountainTask": "Write a formal letter (120-150 words) to the Editor of a national daily raising concern over reckless driving and inadequate traffic enforcement near school zones.",
+    "skyTitle": "Formal Business Complaint Drafting",
+    "skyTask": "Draft a formal letter of complaint (120-150 words) to the Store Manager regarding a defective laptop purchased recently, demanding replacement under warranty.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Editorial Correspondence", "Formal Register", "Consumer Redressal", "Reference Number", "Block Format Layout"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Demanding direct municipal action from a newspaper Editor instead of asking the Editor to publish the issue to draw public authority attention.",
+          "correctionTrigger": "Ask: 'Can a newspaper editor fix road potholes directly, or do they publish your letter to alert municipal officers?'"
+        }
+      ],
+      "crossCurricularLinks": [
+        "Civics & Consumer Protection: Legal Redressal (Drafting formal consumer complaint letters citing warranty terms and consumer rights)"
+      ]
+    },
+    "metaSscCode": "E1004",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "Secondary English LO [NCERT Secondary LO Document p. 14]",
+    "metaNcertDesc": "Writes formal letters, editorial letters, and business complaint letters adhering to standard block conventions.",
+    "metaNishthaText": "NISHTHA Pedagogy Note: Use real local civic problems from newspapers as authentic letter prompts."
+  },
+  {
+    "id": "g10_e_5",
+    "grade": "10",
+    "subject": "english",
+    "fullTitle": "Unit 5: Creative Writing: Narrative & Analytical Paragraphs",
+    "loDesc": "Drafts analytical paragraphs based on given data charts/graphs and writes original creative narratives with well-developed plots, character motivations, and resolutions.",
+    "pdfPage": 29,
+    "docPage": 14,
+    "pdfUrl": "https://ncert.nic.in/pdf/notice/learning_outcomes.pdf#page=29",
+    "hookAction": "SHOW",
+    "hookDemo": "Display a pie chart showing reading habits among teenagers across 3 genres (Fiction 45%, Non-fiction 30%, Comics 25%).",
+    "hookAsk": "How do we write an objective analytical paragraph summarizing key data trends without injecting personal bias?",
+    "streamTitle": "Analytical Vocabulary Classification",
+    "streamDo": "Observe data trend phrases: 'Increased sharply', 'Remained steady', 'In stark contrast to', 'Peak value'.",
+    "streamTask": "Classify phrases under Comparison, Trend Description, or Data Highlighting categories.",
+    "mountainTitle": "Analytical Paragraph Writing from Graph",
+    "mountainTask": "Write a 120-word analytical paragraph summarizing data trends from a given bar graph showing annual energy consumption across sectors.",
+    "skyTitle": "Creative Story Composition with Climax",
+    "skyTask": "Write an original short story (150-200 words) based on the opening prompt: 'The old key fit perfectly into the rusted lock, but what lay inside was completely unexpected...', incorporating dialogue and a clear climax.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Analytical Paragraph", "Data Visualization", "Trend Phrases", "Climax & Resolution", "Objective Synthesis"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Injecting personal opinions or speculative reasons ('Teenagers read fiction because comics are boring') into an analytical paragraph based on data graphs.",
+          "correctionTrigger": "Ask: 'Is that speculative opinion stated in the graph, or are you inferring beyond the provided data?' Stick strictly to graph facts."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Statistics & Data Science: Data Interpretation (Summarizing statistical bar charts and pie graphs into concise prose)"
+      ]
+    },
+    "metaSscCode": "E1005",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "Secondary English LO [NCERT Secondary LO Document p. 14]",
+    "metaNcertDesc": "Writes analytical paragraphs from data visualizers and composes creative narratives using rich plots.",
+    "metaNishthaText": "NISHTHA Pedagogy Note: Practice interpreting bar charts and pie graphs verbally before drafting analytical paragraphs."
+  },
+  {
+    "id": "g10_e_6",
+    "grade": "10",
+    "subject": "english",
+    "fullTitle": "Unit 6: Persuasive Writing: Speeches & Debate Motions",
+    "loDesc": "Drafts persuasive speeches for public assemblies and structures rigorous debate arguments (FOR/AGAINST) on contemporary socio-economic and scientific topics.",
+    "pdfPage": 29,
+    "docPage": 14,
+    "pdfUrl": "https://ncert.nic.in/pdf/notice/learning_outcomes.pdf#page=29",
+    "hookAction": "SHOW",
+    "hookDemo": "Display a debate motion: 'Online education can completely replace traditional classroom schooling.'",
+    "hookAsk": "What rhetorical strategies (facts, emotional appeal, logical reasoning) make a debate speaker persuasive?",
+    "streamTitle": "Rhetorical Device Identification",
+    "streamDo": "Observe speech excerpts using Rhetorical Questions, Repetition, Rule of Three, and Direct Address.",
+    "streamTask": "Identify rhetorical devices used in given speech excerpts on your worksheet.",
+    "mountainTitle": "Assembly Speech Composition",
+    "mountainTask": "Write a 150-word persuasive speech on 'Sustainable Living: The Imperative Choice for Youth' to be delivered in morning assembly.",
+    "skyTitle": "Debate Speech Drafting (FOR/AGAINST)",
+    "skyTask": "Compose a 150-word debate speech arguing FOR or AGAINST the motion: 'Automated AI tools will benefit human creativity rather than destroy it', including a strong rebuttal.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Persuasive Speech", "Debate Motion", "Rule of Three", "Rhetorical Question", "Refutation / Rebuttal"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Presenting both FOR and AGAINST arguments within a single debate speech instead of taking a decisive, well-supported stance on one side.",
+          "correctionTrigger": "Ask: 'Are you assigned to argue FOR or AGAINST the motion?' Stick firmly to one side while refuting the opposite."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Social Sciences & Policy: Parliamentary Debate (Constructing persuasive arguments and evidence-based policy speeches)"
+      ]
+    },
+    "metaSscCode": "E1006",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "Secondary English LO [NCERT Secondary LO Document p. 14]",
+    "metaNcertDesc": "Drafts persuasive speeches and debate arguments using logical structure and rhetorical devices.",
+    "metaNishthaText": "NISHTHA Pedagogy Note: Conduct mock parliamentary debates in class to build public speaking confidence."
+  }
+]

@@ -1,0 +1,705 @@
+[
+  {
+    "id": "g8_s_1",
+    "grade": "8",
+    "subject": "science",
+    "fullTitle": "Chapter 1: Living World and Classification of Microbes",
+    "loDesc": "Classifies micro-organisms (Bacteria, Protozoa, Fungi, Algae, Viruses) using Whittaker's Five Kingdom system and investigates their characteristics.",
+    "pdfPage": 110,
+    "docPage": 92,
+    "pdfUrl": "https://ncert.nic.in/pdf/publication/otherpublications/tilops101.pdf#page=110",
+    "hookAction": "SHOW",
+    "hookDemo": "Display a diagram of Robert Whittaker's 5 Kingdom classification chart alongside a bacterial cell structure diagram.",
+    "hookAsk": "Why are viruses kept at the margin of living and non-living, outside traditional cellular kingdom classification?",
+    "streamTitle": "Five Kingdom Hierarchy Sorting",
+    "streamDo": "Observe 5 organism categories (Monera, Protista, Fungi, Plantae, Animalia).",
+    "streamTask": "Classify Amoeba, Paramecium, Rhizopus, and Lactobacillus into their correct Whittaker Kingdom.",
+    "mountainTitle": "Microbe Size Comparison & Characteristics",
+    "mountainTask": "Construct a comparison table listing size ranges (micrometers to nanometers) and structural features for Bacteria, Protozoa, Fungi, Algae, and Viruses.",
+    "skyTitle": "Bacteriophage Structure Analysis",
+    "skyTask": "Draw a schematic diagram of a Bacteriophage virus and explain how viruses replicate inside host cells.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Prokaryote / Eukaryote", "Whittaker's 5 Kingdoms", "Bacteriophage", "Acellular", "Micrometer / Nanometer"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Students often classify viruses as living cellular organisms belonging to Kingdom Monera alongside bacteria.",
+          "correctionTrigger": "Ask: 'Can a virus perform metabolism or reproduce outside a host cell?' Highlight their acellular nature at the margin of life."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Mathematics: Scale & Scientific Notation (Converting micrometer µm and nanometer nm dimensions to exponential standard form)"
+      ]
+    },
+    "metaSscCode": "S801",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "SC0801 [NCERT LO Manual tilops101.pdf p. 92]",
+    "metaNcertDesc": "Classifies microbes and understands cellular organization across Whittaker's kingdoms.",
+    "metaNishthaText": "NISHTHA Module 8: Conduct slide preparations of stagnant water to observe live protozoa under a microscope."
+  },
+  {
+    "id": "g8_s_2",
+    "grade": "8",
+    "subject": "science",
+    "fullTitle": "Chapter 2: Health and Diseases",
+    "loDesc": "Differentiates infectious vs non-infectious diseases; explains transmission, prevention, and treatment of Dengue, Malaria, Tuberculosis, Diabetes, and Heart Disease.",
+    "pdfPage": 110,
+    "docPage": 92,
+    "pdfUrl": "https://ncert.nic.in/pdf/publication/otherpublications/tilops101.pdf#page=110",
+    "hookAction": "SHOW",
+    "hookDemo": "Display poster charts detailing Aedes aegypti and Anopheles mosquito breeding cycles.",
+    "hookAsk": "Why does preventing stagnant water accumulation directly stop the spread of Dengue and Malaria in urban neighborhoods?",
+    "streamTitle": "Infectious vs Non-Infectious Disease Sorting",
+    "streamDo": "Observe 6 medical conditions (Tuberculosis, Diabetes, Dengue, Cancer, Swine Flu, Heart Disease).",
+    "streamTask": "Classify diseases into Infectious (Pathogen-driven) or Non-Infectious (Lifestyle/Genetic) categories.",
+    "mountainTitle": "Vector & Pathogen Matching Table",
+    "mountainTask": "Match Dengue, Malaria, Swine Flu, and Rabies with their specific pathogen virus/protozoa and animal vectors.",
+    "skyTitle": "Generic Medicine vs Branded Medicine Analysis",
+    "skyTask": "Explain the significance of Generic Medicines (Pradhan Mantri Bhartiya Janaushadhi Pariyojana) in affordable healthcare.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Pathogen", "Vector", "Infectious vs Non-Infectious", "Generic Medicine", "Insulin"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Believing mosquitoes directly create disease pathogens inside their bodies rather than acting merely as biological vectors.",
+          "correctionTrigger": "Ask: 'Is the mosquito itself the disease pathogen or just the carrier transport mechanism?'"
+        }
+      ],
+      "crossCurricularLinks": [
+        "Social Studies & Public Policy: Affordable Healthcare (Evaluating Jan Aushadhi generic drug accessibility and public health programs)"
+      ]
+    },
+    "metaSscCode": "S802",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "SC0802 [NCERT LO Manual tilops101.pdf p. 92]",
+    "metaNcertDesc": "Understands infectious disease transmission vectors, lifestyle risks, and preventive medicine.",
+    "metaNishthaText": "NISHTHA Module 10: Conduct school community health surveys tracking mosquito breeding spots."
+  },
+  {
+    "id": "g8_s_3",
+    "grade": "8",
+    "subject": "science",
+    "fullTitle": "Chapter 3: Force and Pressure",
+    "loDesc": "Investigates contact and non-contact forces, balanced and unbalanced forces, inertia (rest, motion, direction), atmospheric pressure, fluid pressure, and Archimedes Principle.",
+    "pdfPage": 110,
+    "docPage": 92,
+    "pdfUrl": "https://ncert.nic.in/pdf/publication/otherpublications/tilops101.pdf#page=110",
+    "hookAction": "DEMO",
+    "hookDemo": "Press a sharp pencil tip against one finger and the flat eraser end against another with equal pushing force.",
+    "hookAsk": "Which tip creates greater pressure on your skin, and how does contact surface area modify the force effect?",
+    "streamTitle": "Contact vs Non-Contact Force Sorting",
+    "streamDo": "Observe 5 physical interactions (Frictional force, Electrostatic force, Magnetic force, Pushing a cart, Gravitational pull).",
+    "streamTask": "Classify each force interaction into Contact Force or Non-Contact Force.",
+    "mountainTitle": "Pressure Calculation & Fluid Depth Relation",
+    "mountainTask": "Calculate Pressure (P = F/A) for a 100 N force acting over 2 m², and explain why liquid pressure increases with depth.",
+    "skyTitle": "Archimedes Principle & Buoyancy Prototype",
+    "skyTask": "Explain why a heavy steel ship floats on seawater while a tiny solid steel nail sinks, using Buoyant Force and Archimedes Principle.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Contact vs Non-Contact Force", "Pressure (P = F/A)", "Inertia", "Buoyant Force", "Archimedes Principle"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Treating Force and Pressure as identical physical concepts, ignoring the role of surface area.",
+          "correctionTrigger": "Ask: 'Why do sharp knives cut easier than dull ones even when pushed with the exact same hand force?'"
+        }
+      ],
+      "crossCurricularLinks": [
+        "Marine Engineering: Naval Architecture (Applying buoyancy and hull displacement volume calculations to ship design)"
+      ]
+    },
+    "metaSscCode": "S803",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "SC0804 [NCERT LO Manual tilops101.pdf p. 92]",
+    "metaNcertDesc": "Calculates pressure and investigates fluid force dynamics, inertia, and buoyancy.",
+    "metaNishthaText": "NISHTHA Module 8: Conduct hands-on syringe hydrostatic pressure experiments before introducing formulas."
+  },
+  {
+    "id": "g8_s_4",
+    "grade": "8",
+    "subject": "science",
+    "fullTitle": "Chapter 4: Current Electricity and Magnetism",
+    "loDesc": "Constructs simple electric circuits, defines potential difference (Volts), understands dry cells, lead-acid cells, Ni-Cd cells, and investigates magnetic effects of electric current.",
+    "pdfPage": 110,
+    "docPage": 92,
+    "pdfUrl": "https://ncert.nic.in/pdf/publication/otherpublications/tilops101.pdf#page=110",
+    "hookAction": "DEMO",
+    "hookDemo": "Place a magnetic compass needle beneath an insulated copper wire connected to a 1.5V battery cell switch.",
+    "hookAsk": "Why does the compass needle deflect instantly the moment electric current flows through the circuit wire?",
+    "streamTitle": "Electric Circuit Component Matching",
+    "streamDo": "Observe schematic circuit symbols (Cell, Key, Bulb, Ammeter, Voltmeter, Resistor).",
+    "streamTask": "Match given circuit symbols with their component names and operational functions.",
+    "mountainTitle": "Electromagnet Construction Protocol",
+    "mountainTask": "Write step-by-step instructions to construct a working electromagnet using an iron nail, insulated copper wire, and a dry cell.",
+    "skyTitle": "Electric Bell Circuit Mechanism Analysis",
+    "skyTask": "Draw an electric bell circuit diagram and trace how current flow activates the striker repeatedly via magnetic induction.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Potential Difference (Volt)", "Electromagnet", "Lead-Acid Cell", "Magnetic Induction", "Circuit Diagram"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Believing electric current gets 'used up' or consumed as it flows through a light bulb or component.",
+          "correctionTrigger": "Ask: 'Does an ammeter read the exact same current before and after passing through a bulb?' Explain charge conservation."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Electrical Engineering: Power Systems (Understanding battery chemistry and industrial electromagnet applications)"
+      ]
+    },
+    "metaSscCode": "S804",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "SC0805 [NCERT LO Manual tilops101.pdf p. 92]",
+    "metaNcertDesc": "Constructs electric circuits and investigates magnetic fields produced by electric currents.",
+    "metaNishthaText": "NISHTHA Module 8: Provide battery-and-wire kits for students to assemble electromagnets in pairs."
+  },
+  {
+    "id": "g8_s_5",
+    "grade": "8",
+    "subject": "science",
+    "fullTitle": "Chapter 5: Inside the Atom",
+    "loDesc": "Traces historical atomic models (Dalton, Thomson, Rutherford, Bohr) and identifies subatomic particles (protons, neutrons, electrons), atomic number (Z), and mass number (A).",
+    "pdfPage": 110,
+    "docPage": 92,
+    "pdfUrl": "https://ncert.nic.in/pdf/publication/otherpublications/tilops101.pdf#page=110",
+    "hookAction": "SHOW",
+    "hookDemo": "Display Rutherford's gold foil alpha-particle scattering experiment diagram alongside Bohr's planetary atomic model.",
+    "hookAsk": "Why did most alpha particles pass straight through the gold foil, and what did this reveal about atomic empty space?",
+    "streamTitle": "Subatomic Particle Sorting",
+    "streamDo": "Observe subatomic particles: Proton, Neutron, Electron.",
+    "streamTask": "Classify subatomic particles by electrical charge (+1, 0, -1), mass, and location (Nucleus vs Shells).",
+    "mountainTitle": "Atomic Notation & Electronic Configuration",
+    "mountainTask": "Given Sodium (Atomic Number Z=11, Mass Number A=23), calculate the number of protons, neutrons, electrons, and write shell configuration (K, L, M).",
+    "skyTitle": "Isotopes & Isobars Synthesis",
+    "skyTask": "Differentiate Isotopes (same Z, different A) from Isobars (different Z, same A) using Carbon-12/Carbon-14 and Hydrogen isotopes as examples.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Subatomic Particles", "Atomic Number (Z)", "Mass Number (A)", "Electronic Configuration", "Isotopes vs Isobars"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Assuming electrons orbit the nucleus in fixed physical wire tracks rather than energy shells.",
+          "correctionTrigger": "Ask: 'How do planetary orbits differ from electron energy levels?' Introduce Bohr shell energy levels."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Nuclear Chemistry & Archaeology: Radiocarbon Dating (Using Carbon-14 isotopes to determine historical artifact age)"
+      ]
+    },
+    "metaSscCode": "S805",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "SC0806 [NCERT LO Manual tilops101.pdf p. 92]",
+    "metaNcertDesc": "Understands atomic models, subatomic particle distributions, and electronic configurations.",
+    "metaNishthaText": "NISHTHA Module 8: Use clay balls and wire loops to build 3D atomic shell models in class."
+  },
+  {
+    "id": "g8_s_6",
+    "grade": "8",
+    "subject": "science",
+    "fullTitle": "Chapter 6: Composition of Matter",
+    "loDesc": "Classifies matter states based on intermolecular forces; differentiates elements, compounds, and mixtures; understands valency and molecular formulas.",
+    "pdfPage": 110,
+    "docPage": 92,
+    "pdfUrl": "https://ncert.nic.in/pdf/publication/otherpublications/tilops101.pdf#page=92",
+    "hookAction": "SHOW",
+    "hookDemo": "Display samples of solid ice, liquid water, and steam in sealed flasks.",
+    "hookAsk": "How do intermolecular distance and intermolecular force of attraction change as matter shifts between states?",
+    "streamTitle": "Homogeneous vs Heterogeneous Sorting",
+    "streamDo": "Observe mixtures: Salt solution, Sand in water, Brass alloy, Air, Oil in water.",
+    "streamTask": "Classify mixtures into Homogeneous Solutions or Heterogeneous Suspensions/Colloids.",
+    "mountainTitle": "Valency Cross-Over Formula Writing",
+    "mountainTask": "Write chemical formulas for Magnesium Chloride and Aluminium Oxide using the cross-over method for valency numbers.",
+    "skyTitle": "Solution, Suspension & Colloid Comparison",
+    "skyTask": "Construct a comparison table contrasting Solution, Suspension, and Colloid based on particle size, Tyndall effect, and filterability.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Intermolecular Force", "Valency Cross-Over", "Homogeneous / Heterogeneous", "Tyndall Effect", "Colloid"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Confusing Colloids with true Solutions because both can appear visually uniform to the naked eye.",
+          "correctionTrigger": "Ask: 'Why does a laser beam show a light path through milk-water (colloid) but not through salt-water (solution)?'"
+        }
+      ],
+      "crossCurricularLinks": [
+        "Optics & Physics: Tyndall Light Scattering (Explaining why the sky looks blue and headlight beams show dust particles)"
+      ]
+    },
+    "metaSscCode": "S806",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "SC0807 [NCERT LO Manual tilops101.pdf p. 92]",
+    "metaNcertDesc": "Differentiates homogeneous and heterogeneous matter and determines chemical valencies.",
+    "metaNishthaText": "NISHTHA Module 8: Conduct Tyndall effect tests using laser pointers shone through milk-water mixtures."
+  },
+  {
+    "id": "g8_s_7",
+    "grade": "8",
+    "subject": "science",
+    "fullTitle": "Chapter 7: Metals and Non-metals",
+    "loDesc": "Compares physical properties (malleability, ductility, sonority, conductivity) and chemical properties of metals vs non-metals; understands corrosion and noble metals.",
+    "pdfPage": 110,
+    "docPage": 92,
+    "pdfUrl": "https://ncert.nic.in/pdf/publication/otherpublications/tilops101.pdf#page=110",
+    "hookAction": "DEMO",
+    "hookDemo": "Hammer a copper wire flat into a thin foil, then attempt to hammer a piece of charcoal rod.",
+    "hookAsk": "Why does the copper wire flatten into a sheet (malleable) while the charcoal shatters into powder (brittle)?",
+    "streamTitle": "Physical Property Classification",
+    "streamDo": "Observe properties: Malleability, Ductility, Sonority, High Density, Brittleness.",
+    "streamTask": "Classify physical properties into Metals vs Non-Metals, noting exceptions like Mercury and Graphite.",
+    "mountainTitle": "Metal Reaction with Acids & Oxygen",
+    "mountainTask": "Write word equations for reaction of Magnesium with Oxygen (Mg + O2) and Zinc with Dilute Hydrochloric Acid.",
+    "skyTitle": "Corrosion & Noble Metal Uses Analysis",
+    "skyTask": "Explain how green coating forms on copper and red rust forms on iron, listing 3 methods to prevent metal corrosion.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Malleability", "Ductility", "Sonority", "Corrosion", "Noble Metal"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Assuming ALL metals are hard solids at room temperature and non-metals never conduct electricity.",
+          "correctionTrigger": "Ask: 'What state is Mercury metal in at room temperature? Can Graphite carbon conduct electricity?' Highlight exceptions."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Metallurgy & Materials Science: Corrosion Prevention (Understanding electroplating, galvanization, and alloy formation)"
+      ]
+    },
+    "metaSscCode": "S807",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "SC0808 [NCERT LO Manual tilops101.pdf p. 92]",
+    "metaNcertDesc": "Investigates physical and chemical properties of metals and non-metals.",
+    "metaNishthaText": "NISHTHA Module 8: Conduct conductivity circuit testing using metallic and non-metallic objects."
+  },
+  {
+    "id": "g8_s_8",
+    "grade": "8",
+    "subject": "science",
+    "fullTitle": "Chapter 8: Pollution",
+    "loDesc": "Analyzes causes, effects, and prevention of Air, Water, and Soil pollution; investigates Acid Rain and Greenhouse Effect mechanisms.",
+    "pdfPage": 110,
+    "docPage": 92,
+    "pdfUrl": "https://ncert.nic.in/pdf/publication/otherpublications/tilops101.pdf#page=110",
+    "hookAction": "SHOW",
+    "hookDemo": "Display a schematic diagram of the Greenhouse Effect trapping solar heat radiation in Earth's atmosphere.",
+    "hookAsk": "Why does excessive Carbon Dioxide and Methane emissions lead to global warming and climate shift?",
+    "streamTitle": "Pollutant Classification Practice",
+    "streamDo": "Observe pollutants: Smoke, Plastic, Sewage, Heavy Metals, Agricultural Runoff, Industrial Effluents.",
+    "streamTask": "Classify pollutants into Air, Water, or Soil pollution sources.",
+    "mountainTitle": "Acid Rain Formation Explanation",
+    "mountainTask": "Explain how SO2 and NO2 gases react with atmospheric moisture to form Acid Rain, listing 2 effects on soil and marble monuments.",
+    "skyTitle": "Pollution Control Action Plan",
+    "skyTask": "Formulate a community action plan to clean a local polluted water body and reduce single-use plastic runoff.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Greenhouse Effect", "Acid Rain (SO2/NO2)", "Biodegradable vs Non-biodegradable", "Eutrophication"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Confusing the Greenhouse Effect (heat trapping) with Ozone Layer Depletion (UV protection).",
+          "correctionTrigger": "Ask: 'Which process acts like a heat blanket, and which shields against dangerous solar radiation?'"
+        }
+      ],
+      "crossCurricularLinks": [
+        "Environmental Economics & Ecology: Climate Policy (Analyzing carbon footprints and community water conservation)"
+      ]
+    },
+    "metaSscCode": "S808",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "SC0809 [NCERT LO Manual tilops101.pdf p. 92]",
+    "metaNcertDesc": "Analyzes environmental pollution causes, climate impact, and mitigation protocols.",
+    "metaNishthaText": "NISHTHA Module 10: Conduct local water pH testing using indicator strips."
+  },
+  {
+    "id": "g8_s_9",
+    "grade": "8",
+    "subject": "science",
+    "fullTitle": "Chapter 9: Disaster Management",
+    "loDesc": "Outlines safety protocols for Earthquakes (causes, Richter scale, Seismometer) and Fire management (types of fire, extinguishers, emergency first-aid).",
+    "pdfPage": 110,
+    "docPage": 92,
+    "pdfUrl": "https://ncert.nic.in/pdf/publication/otherpublications/tilops101.pdf#page=110",
+    "hookAction": "SHOW",
+    "hookDemo": "Display a diagram of a Seismometer recording seismic P-waves and S-waves on a drum.",
+    "hookAsk": "How does a Seismometer measure earthquake intensity on the open-ended Richter Scale?",
+    "streamTitle": "Fire Class & Extinguisher Matching",
+    "streamDo": "Observe fire types: Class A (Wood/Paper), Class B (Liquids), Class C (Gaseous), Class D (Metals), Class E (Electrical).",
+    "streamTask": "Match fire categories with their correct extinguishing agents (Water, CO2, Dry Powder).",
+    "mountainTitle": "Earthquake Precaution Rules",
+    "mountainTask": "List 4 essential safety actions to take immediately when indoors during an active earthquake (Drop, Cover, Hold).",
+    "skyTitle": "School Fire Drill Protocol Design",
+    "skyTask": "Design a school fire evacuation protocol mapping emergency exits, assembly zones, and first-aid roles.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Seismometer", "Richter Scale", "Fire Classes (A-E)", "CO2 Fire Extinguisher", "Seismic Focus"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Attempting to extinguish electrical fires or oil fires using liquid water.",
+          "correctionTrigger": "Ask: 'What happens when water conducts electricity or makes burning oil float and spread?' Emphasize CO2 extinguishers."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Geology & Safety Engineering: Structural Resilience (Understanding fault line mechanics and fire safety building codes)"
+      ]
+    },
+    "metaSscCode": "S809",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "SC0810 [NCERT LO Manual tilops101.pdf p. 92]",
+    "metaNcertDesc": "Applies disaster management safety protocols for earthquakes and fires.",
+    "metaNishthaText": "NISHTHA Module 10: Organize practical school fire extinguisher usage demonstrations."
+  },
+  {
+    "id": "g8_s_10",
+    "grade": "8",
+    "subject": "science",
+    "fullTitle": "Chapter 10: Cell and Cell Organelles",
+    "loDesc": "Identifies microscopic structures of plant and animal cells and analyzes organelle functions (Nucleus, ER, Golgi Apparatus, Lysosomes, Mitochondria, Vacuoles, Plastids).",
+    "pdfPage": 110,
+    "docPage": 92,
+    "pdfUrl": "https://ncert.nic.in/pdf/publication/otherpublications/tilops101.pdf#page=110",
+    "hookAction": "SHOW",
+    "hookDemo": "Display a stained onion-peel slide under a microscope alongside a cheek cell diagram.",
+    "hookAsk": "Why do plant cells have a rigid outer cell wall while animal cells have only a flexible plasma membrane?",
+    "streamTitle": "Organelle Function Matching",
+    "streamDo": "Observe cell organelles: Mitochondria, Chloroplast, Lysosome, Golgi Complex, Nucleus.",
+    "streamTask": "Match each organelle with its cell function (Powerhouse, Photosynthesis, Suicide bags, Secretion, Control center).",
+    "mountainTitle": "Plant vs Animal Cell Comparison",
+    "mountainTask": "Construct a 3-column Venn diagram comparing Plant and Animal cells based on Cell Wall, Plastids, and Vacuole sizes.",
+    "skyTitle": "Mitochondria & ATP Energy Synthesis",
+    "skyTask": "Explain why Mitochondria are termed the 'Powerhouse of the Cell' and describe ATP energy currency generation.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Cell Wall vs Plasma Membrane", "Mitochondria & ATP", "Lysosome", "Golgi Complex", "Plastids / Chloroplast"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Thinking animal cells contain cell walls or that plant cells do not have mitochondria.",
+          "correctionTrigger": "Ask: 'Where do plant cells synthesize ATP energy at night when sunlight isn't present?' Highlight mitochondria in both."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Biochemistry: Cellular Energetics (Understanding ATP chemical bonds and metabolic respiration cycles)"
+      ]
+    },
+    "metaSscCode": "S810",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "SC0811 [NCERT LO Manual tilops101.pdf p. 92]",
+    "metaNcertDesc": "Observes microscopic cell organelle structures and compares plant vs animal cell organization.",
+    "metaNishthaText": "NISHTHA Module 8: Conduct onion-peel microscope slide preparation sessions in class."
+  },
+  {
+    "id": "g8_s_11",
+    "grade": "8",
+    "subject": "science",
+    "fullTitle": "Chapter 11: Human Body and Organ System",
+    "loDesc": "Explains human Respiratory System (nasal cavity, lungs, alveoli) and Circulatory System (blood components, blood vessels, heart structure, blood groups).",
+    "pdfPage": 110,
+    "docPage": 92,
+    "pdfUrl": "https://ncert.nic.in/pdf/publication/otherpublications/tilops101.pdf#page=110",
+    "hookAction": "SHOW",
+    "hookDemo": "Display a working plastic bell-jar model of lungs with a rubber diaphragm at the bottom.",
+    "hookAsk": "How does pulling down the diaphragm rubber sheet create negative pressure to inflate the inner balloon lungs?",
+    "streamTitle": "Blood Component Classification",
+    "streamDo": "Observe blood constituents: RBCs, WBCs, Platelets, Plasma.",
+    "streamTask": "Match blood constituents with their primary functions (O2 transport, Immunity, Clotting, Nutrient carrying).",
+    "mountainTitle": "Artery vs Vein Comparison",
+    "mountainTask": "Construct a 3-point comparison table contrasting Arteries and Veins based on wall thickness, direction of flow, and valves.",
+    "skyTitle": "ABO Blood Grouping & Donation Rules",
+    "skyTask": "Explain ABO blood groups (A, B, AB, O) and Rh factor, stating why Blood Group O is Universal Donor and AB is Universal Recipient.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Alveoli", "Diaphragm", "Artery vs Vein", "RBC / WBC / Platelets", "ABO Blood Groups"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Assuming arteries ALWAYS carry oxygenated blood and veins ALWAYS carry deoxygenated blood.",
+          "correctionTrigger": "Ask: 'Which exception artery carries deoxygenated blood from the heart to the lungs?' Introduce Pulmonary Artery."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Medicine & Health Science: Transfusion Safety (Analyzing blood antigen compatibility and Rh agglutination rules)"
+      ]
+    },
+    "metaSscCode": "S811",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "SC0812 [NCERT LO Manual tilops101.pdf p. 92]",
+    "metaNcertDesc": "Explains human respiratory and circulatory physiological systems.",
+    "metaNishthaText": "NISHTHA Module 8: Measure and record student resting vs post-exercise pulse rates."
+  },
+  {
+    "id": "g8_s_12",
+    "grade": "8",
+    "subject": "science",
+    "fullTitle": "Chapter 12: Introduction to Acid and Base",
+    "loDesc": "Identifies acids, bases, and neutral substances using natural indicators (litmus, turmeric, red cabbage) and synthetic indicators (phenolphthalein, methyl orange); understands neutralization.",
+    "pdfPage": 110,
+    "docPage": 92,
+    "pdfUrl": "https://ncert.nic.in/pdf/publication/otherpublications/tilops101.pdf#page=110",
+    "hookAction": "DEMO",
+    "hookDemo": "Dip red and blue litmus paper strips into lemon juice, soap solution, and pure water.",
+    "hookAsk": "Why does lemon juice turn blue litmus red while soap solution turns red litmus blue?",
+    "streamTitle": "Indicator Color Change Matching",
+    "streamDo": "Observe indicators: Red Litmus, Blue Litmus, Phenolphthalein, Methyl Orange.",
+    "streamTask": "Record expected color changes when indicators are added to Acid vs Base solutions.",
+    "mountainTitle": "Neutralization Reaction Equation",
+    "mountainTask": "Write the word equation for neutralization (Acid + Base -> Salt + Water) using Hydrochloric acid and Sodium Hydroxide.",
+    "skyTitle": "Daily Life Neutralization Applications",
+    "skyTask": "Explain how antacid tablets relieve stomach acidity and why slaked lime is added to acidic soil in farming.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Acid vs Base", "Litmus Paper", "Synthetic Indicator", "Neutralization", "Antacid"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Believing that neutralization reactions destroy atoms or eliminate the liquid solution entirely.",
+          "correctionTrigger": "Ask: 'When HCl reacts with NaOH, what new salt compound and liquid molecules are formed?' Show Salt + Water product."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Soil Chemistry & Agronomy: pH Management (Adjusting soil alkalinity/acidity for optimal crop nutrient absorption)"
+      ]
+    },
+    "metaSscCode": "S812",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "SC0813 [NCERT LO Manual tilops101.pdf p. 92]",
+    "metaNcertDesc": "Identifies acids, bases, and neutral substances using indicators and understands neutralization.",
+    "metaNishthaText": "NISHTHA Module 8: Prepare natural indicator papers using turmeric extract in class."
+  },
+  {
+    "id": "g8_s_13",
+    "grade": "8",
+    "subject": "science",
+    "fullTitle": "Chapter 13: Chemical Change and Chemical Bond",
+    "loDesc": "Differentiates natural vs man-made chemical changes; understands word equations, reactants, products, ionic bonding, and covalent bonding.",
+    "pdfPage": 110,
+    "docPage": 92,
+    "pdfUrl": "https://ncert.nic.in/pdf/publication/otherpublications/tilops101.pdf#page=110",
+    "hookAction": "SHOW",
+    "hookDemo": "Display electronic transfer diagram of NaCl (Ionic) alongside electron sharing diagram of H2O (Covalent).",
+    "hookAsk": "What is the difference between completely transferring electrons versus sharing electron pairs between atoms?",
+    "streamTitle": "Chemical Change Word Equation Practice",
+    "streamDo": "Observe chemical reactions (Respiration, Photosynthesis, Combustion of coal).",
+    "streamTask": "Identify Reactants and Products for 3 given chemical reaction statements.",
+    "mountainTitle": "Ionic vs Covalent Bonding Comparison",
+    "mountainTask": "Differentiate Ionic Bonds (electrostatic attraction) from Covalent Bonds (electron pair sharing) using NaCl and H2 examples.",
+    "skyTitle": "Chemical Equation Balancing Logic",
+    "skyTask": "Write word equations and balanced chemical formulas for photosynthesis (CO2 + H2O -> Glucose + O2).",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Reactants & Products", "Ionic Bond", "Covalent Bond", "Electron Transfer vs Sharing", "Valency"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Assuming covalent bonding involves transfer of charged ions rather than mutual sharing of electron pairs.",
+          "correctionTrigger": "Ask: 'Do two non-metal hydrogen atoms strip electrons from each other or share a pair between them?'"
+        }
+      ],
+      "crossCurricularLinks": [
+        "Chemical Engineering: Molecular Design (Connecting bonding structures to melting points and electrical conductivity)"
+      ]
+    },
+    "metaSscCode": "S813",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "SC0814 [NCERT LO Manual tilops101.pdf p. 92]",
+    "metaNcertDesc": "Understands chemical bonding mechanisms and writes word equations.",
+    "metaNishthaText": "NISHTHA Module 8: Use atomic shell dot-diagrams to illustrate electron transfers."
+  },
+  {
+    "id": "g8_s_14",
+    "grade": "8",
+    "subject": "science",
+    "fullTitle": "Chapter 14: Measurement and Effects of Heat",
+    "loDesc": "Differentiates Heat energy (Joules) vs Temperature (Celsius/Kelvin); understands construction of thermometers, specific heat capacity, and thermal expansion.",
+    "pdfPage": 110,
+    "docPage": 92,
+    "pdfUrl": "https://ncert.nic.in/pdf/publication/otherpublications/tilops101.pdf#page=110",
+    "hookAction": "DEMO",
+    "hookDemo": "Display a clinical mercury thermometer alongside a digital infrared thermometer.",
+    "hookAsk": "Why does a clinical thermometer have a slight constriction bend in its capillary tube near the bulb?",
+    "streamTitle": "Temperature Scale Conversions",
+    "streamDo": "Observe conversion formulas: K = C + 273.15.",
+    "streamTask": "Convert 37°C (normal human body temp) and 100°C (water boiling point) into Kelvin values.",
+    "mountainTitle": "Specific Heat Capacity Explanation",
+    "mountainTask": "Explain why water is used as a coolant in car radiators based on its high specific heat capacity.",
+    "skyTitle": "Thermal Expansion Calculation in Railway Tracks",
+    "skyTask": "Explain why small expansion gaps are left between railway steel tracks and calculate linear expansion effects.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Heat (Joule) vs Temperature (Kelvin)", "Clinical Thermometer", "Specific Heat Capacity", "Thermal Linear Expansion"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Treating Heat and Temperature as identical terms, e.g. assuming a small cup of boiling water has more heat than a warm ocean.",
+          "correctionTrigger": "Ask: 'Does total thermal energy depend on particle mass as well as average kinetic speed?'"
+        }
+      ],
+      "crossCurricularLinks": [
+        "Civil Engineering: Infrastructure Expansion (Designing gap joints in steel railway tracks and concrete bridges)"
+      ]
+    },
+    "metaSscCode": "S814",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "SC0815 [NCERT LO Manual tilops101.pdf p. 92]",
+    "metaNcertDesc": "Measures temperature, calculates heat transfer, and investigates thermal expansion.",
+    "metaNishthaText": "NISHTHA Module 8: Provide laboratory thermometers for students to measure hot and cold water samples."
+  },
+  {
+    "id": "g8_s_15",
+    "grade": "8",
+    "subject": "science",
+    "fullTitle": "Chapter 15: Sound",
+    "loDesc": "Explains sound generation by human larynx (vocal cords), sound propagation through media, pitch, frequency (Hertz), loudness (Decibels), and noise pollution.",
+    "pdfPage": 110,
+    "docPage": 92,
+    "pdfUrl": "https://ncert.nic.in/pdf/publication/otherpublications/tilops101.pdf#page=110",
+    "hookAction": "DEMO",
+    "hookDemo": "Place a ringing electric bell inside an airtight glass jar connected to a vacuum pump.",
+    "hookAsk": "Why does the sound of the bell grow fainter as air is pumped out, vanishing completely in a full vacuum?",
+    "streamTitle": "Audible Range Classification",
+    "streamDo": "Observe frequency ranges: Below 20 Hz, 20 Hz to 20,000 Hz, Above 20,000 Hz.",
+    "streamTask": "Classify frequency ranges into Infrasonic, Audible (Human Range), or Ultrasonic sound.",
+    "mountainTitle": "Human Larynx Function Explanation",
+    "mountainTask": "Explain how air forced from lungs through vocal cords in the larynx produces human speech sounds.",
+    "skyTitle": "Ultrasonic Applications in SONAR & Medical Imaging",
+    "skyTask": "Explain how ultrasonic waves are utilized in SONAR ocean depth measurement and medical echocardiography.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Human Larynx", "Audible Range (20Hz-20kHz)", "Infrasonic / Ultrasonic", "Decibel (dB)", "SONAR"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Believing sound waves can travel through empty vacuum space like light rays do.",
+          "correctionTrigger": "Ask: 'Can mechanical compression waves vibrate when there are no air molecules present?' Show bell-jar experiment."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Acoustics & Medical Diagnostics: Sonography & SONAR (Calculating ocean depths and medical tissue reflections via sound speed)"
+      ]
+    },
+    "metaSscCode": "S815",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "SC0816 [NCERT LO Manual tilops101.pdf p. 92]",
+    "metaNcertDesc": "Explains sound propagation media, human larynx anatomy, and ultrasonic applications.",
+    "metaNishthaText": "NISHTHA Module 8: Conduct bell-jar vacuum demonstrations for sound wave media requirements."
+  },
+  {
+    "id": "g8_s_16",
+    "grade": "8",
+    "subject": "science",
+    "fullTitle": "Chapter 16: Reflection of Light",
+    "loDesc": "Verifies laws of reflection (angle of incidence = angle of reflection), regular vs irregular reflection, periscope construction, and kaleidoscope multiple reflections.",
+    "pdfPage": 110,
+    "docPage": 92,
+    "pdfUrl": "https://ncert.nic.in/pdf/publication/otherpublications/tilops101.pdf#page=110",
+    "hookAction": "DEMO",
+    "hookDemo": "Shine a laser pointer onto a flat plane mirror fixed on a protractor paper sheet.",
+    "hookAsk": "How does the angle of reflection (r) change when we increase the angle of incidence (i) from 30° to 60°?",
+    "streamTitle": "Reflection Term Matching",
+    "streamDo": "Observe optical ray terms: Incident Ray, Reflected Ray, Normal, Angle of Incidence, Angle of Reflection.",
+    "streamTask": "Match ray terms with their correct geometric positions on a reflection ray diagram.",
+    "mountainTitle": "Laws of Reflection Proof",
+    "mountainTask": "State the two Laws of Reflection and calculate angle of reflection if incident ray makes an angle of 35° with the normal.",
+    "skyTitle": "Periscope & Kaleidoscope Optics Synthesis",
+    "skyTask": "Explain how 2 plane mirrors inclined at 45° in a periscope allow viewing objects above line-of-sight.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Normal Line", "Angle of Incidence (i)", "Angle of Reflection (r)", "Regular vs Irregular Reflection", "Periscope"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Measuring the angle of incidence from the mirror surface rather than from the 90° normal line.",
+          "correctionTrigger": "Ask: 'Where is the imaginary 90° normal line drawn?' Remind that angles i and r are measured from the Normal."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Optical Engineering & Defense: Submarine Periscopes (Designing 45° mirror layouts for indirect field-of-view viewing)"
+      ]
+    },
+    "metaSscCode": "S816",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "SC0817 [NCERT LO Manual tilops101.pdf p. 92]",
+    "metaNcertDesc": "Verifies laws of reflection and constructs optical instruments using multiple reflection.",
+    "metaNishthaText": "NISHTHA Module 8: Use protractor sheets and laser pins to measure reflection angles in class."
+  },
+  {
+    "id": "g8_s_17",
+    "grade": "8",
+    "subject": "science",
+    "fullTitle": "Chapter 17: Man made Materials",
+    "loDesc": "Classifies synthetic materials (Plastic, Thermocol, Glass, Rubber, Synthetic Fibers) and evaluates their environmental degradation times and recycling protocols.",
+    "pdfPage": 110,
+    "docPage": 92,
+    "pdfUrl": "https://ncert.nic.in/pdf/publication/otherpublications/tilops101.pdf#page=110",
+    "hookAction": "SHOW",
+    "hookDemo": "Display samples of Thermosetting plastic (Bakelite switch) alongside Thermoplastic (PVC pipe).",
+    "hookAsk": "Why does a PVC pipe melt and soften upon reheating, whereas a Bakelite electric switch retains its rigid shape?",
+    "streamTitle": "Thermoplastic vs Thermosetting Sorting",
+    "streamDo": "Observe plastic items: Polythene bag, Bakelite handle, PVC tube, Melamine dish.",
+    "streamTask": "Classify items into Thermoplastics (re-moldable) or Thermosetting plastics (permanently set).",
+    "mountainTitle": "Types of Glass & Specific Uses",
+    "mountainTask": "Construct a table listing 4 types of glass (Silica, Borosilicate, Lead, Alkali) and their industrial/laboratory uses.",
+    "skyTitle": "Thermocol Environmental Hazard Analysis",
+    "skyTask": "Analyze environmental risks of non-biodegradable Thermocol (Polystyrene) and propose eco-friendly packaging alternatives.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Thermoplastic vs Thermosetting", "Bakelite / PVC", "Borosilicate Glass", "Polystyrene (Thermocol)"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Assuming all plastic types can be melted down and re-molded repeatedly into new shapes.",
+          "correctionTrigger": "Ask: 'What happens if you reheat a Bakelite electrical switch?' Distinguish thermoplastics from thermosets."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Materials Science & Ecology: Polymer Recycling (Categorizing resin identification codes and eco-friendly substitutes)"
+      ]
+    },
+    "metaSscCode": "S817",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "SC0818 [NCERT LO Manual tilops101.pdf p. 92]",
+    "metaNcertDesc": "Analyzes synthetic materials, glass compositions, and plastic degradation impacts.",
+    "metaNishthaText": "NISHTHA Module 10: Conduct eco-friendly material substitution workshops."
+  },
+  {
+    "id": "g8_s_18",
+    "grade": "8",
+    "subject": "science",
+    "fullTitle": "Chapter 18: Ecosystems",
+    "loDesc": "Analyzes biotic and abiotic components of ecosystems, energy flow, food webs, and ecosystem degradation caused by human interference.",
+    "pdfPage": 110,
+    "docPage": 92,
+    "pdfUrl": "https://ncert.nic.in/pdf/publication/otherpublications/tilops101.pdf#page=110",
+    "hookAction": "SHOW",
+    "hookDemo": "Display a poster diagram of a grassland food web showing interconnected producers, herbivores, carnivores, and decomposers.",
+    "hookAsk": "What happens to the entire ecosystem population if all top predators (like tigers) disappear from the food web?",
+    "streamTitle": "Biotic vs Abiotic Sorting",
+    "streamDo": "Observe ecosystem factors: Sunlight, Plants, Water, Soil, Bacteria, Deer, Temperature.",
+    "streamTask": "Classify factors into Biotic (Living) or Abiotic (Non-living) components.",
+    "mountainTitle": "Producers, Consumers & Decomposers Table",
+    "mountainTask": "Construct a 4-tier ecosystem table listing Producers, Primary Consumers, Secondary Consumers, and Decomposers for a pond ecosystem.",
+    "skyTitle": "Human Impact on Ecosystem Balance",
+    "skyTask": "Explain how deforestation and dam construction disrupt natural river ecosystems and cause bio-magnification.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Biotic / Abiotic", "Food Web", "Trophic Level", "Decomposer", "Bio-magnification"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Viewing energy flow in a food chain as a cyclic loop where energy cycles back to plants.",
+          "correctionTrigger": "Ask: 'Can heat energy dissipated at higher trophic levels return to the Sun?' Show unidirectional flow."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Ecology & Wildlife Conservation: Biodiversity Protection (Analyzing trophic cascades and top-predator conservation)"
+      ]
+    },
+    "metaSscCode": "S818",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "SC0819 [NCERT LO Manual tilops101.pdf p. 92]",
+    "metaNcertDesc": "Explains ecosystem components, food webs, and anthropogenic environmental impacts.",
+    "metaNishthaText": "NISHTHA Module 10: Use yarn web activities in class to illustrate ecosystem interlinkages."
+  },
+  {
+    "id": "g8_s_19",
+    "grade": "8",
+    "subject": "science",
+    "fullTitle": "Chapter 19: Life Cycle of Stars",
+    "loDesc": "Explains properties of stars (mass, temperature, luminosity), star formation in nebulae, and stellar evolution stages (Red Giant, Supernova, White Dwarf, Neutron Star, Black Hole).",
+    "pdfPage": 110,
+    "docPage": 92,
+    "pdfUrl": "https://ncert.nic.in/pdf/publication/otherpublications/tilops101.pdf#page=110",
+    "hookAction": "SHOW",
+    "hookDemo": "Display a stellar evolution flowchart tracing Sun-sized stars vs massive stars after the Red Giant phase.",
+    "hookAsk": "Why do massive stars end their lives in a violent Supernova explosion while smaller stars shrink quietly into White Dwarfs?",
+    "streamTitle": "Stellar Evolution Stage Matching",
+    "streamDo": "Observe evolutionary stages: Nebula, Protostar, Red Giant, Supernova, White Dwarf, Black Hole.",
+    "streamTask": "Match stellar evolution stage names with their physical descriptions on your worksheet.",
+    "mountainTitle": "Nuclear Fusion in Star Cores",
+    "mountainTask": "Explain how hydrogen fusion into helium in a star's core releases immense thermal and light energy.",
+    "skyTitle": "Chandrasekhar Limit & Black Hole Mechanics",
+    "skyTask": "Explain the Chandrasekhar Limit (1.4 Solar Masses) determining whether a dying star collapses into a White Dwarf, Neutron Star, or Black Hole.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Nebula", "Protostar", "Red Giant", "Supernova", "Chandrasekhar Limit (1.4 M_sun)"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Believing all dying stars collapse into vacuum Black Holes regardless of their original mass.",
+          "correctionTrigger": "Ask: 'What is the Chandrasekhar Limit threshold?' Explain why Sun-sized stars end as White Dwarfs."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Astrophysics & Nuclear Physics: Stellar Nucleosynthesis (Tracing heavy element formation during supernova explosions)"
+      ]
+    },
+    "metaSscCode": "S819",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "SC0820 [NCERT LO Manual tilops101.pdf p. 92]",
+    "metaNcertDesc": "Understands star life cycles, nuclear fusion, and astronomical evolutionary stages.",
+    "metaNishthaText": "NISHTHA Module 8: Use planetarium visits or sky-map software to illustrate stellar life stages."
+  }
+]

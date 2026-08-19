@@ -1,0 +1,261 @@
+[
+  {
+    "id": "g9_m1_1",
+    "grade": "9",
+    "subject": "math1",
+    "fullTitle": "Chapter 1: Sets",
+    "loDesc": "Understands set notation (Listing and Rule method), types of sets, subset relations, universal set, complement of a set, and applies Venn diagrams to solve real-world group problems.",
+    "pdfPage": 91,
+    "docPage": 76,
+    "pdfUrl": "https://ncert.nic.in/pdf/notice/learning_outcomes.pdf#page=91",
+    "hookAction": "SHOW",
+    "hookDemo": "Display two overlapping hula hoops on the floor labeled 'Cricket Players' and 'Football Players'.",
+    "hookAsk": "Where do students who play BOTH sports stand, and what set operation describes the overlapping region?",
+    "streamTitle": "Listing vs Rule Method Sorting",
+    "streamDo": "Observe sets written in set-builder notation: A = {x | x is a prime number less than 10}.",
+    "streamTask": "Convert 4 given set-builder expressions into roster listing form.",
+    "mountainTitle": "Venn Diagram Set Operations",
+    "mountainTask": "Given Universal Set U = {1 to 10}, A = {2, 4, 6, 8}, and B = {4, 6, 9, 10}, draw a Venn diagram and list Union (A U B) and Intersection (A n B).",
+    "skyTitle": "Inclusion-Exclusion Principle Synthesis",
+    "skyTask": "In a class of 50 students, 30 play cricket, 25 play football, and 10 play both. Use formula n(A U B) = n(A) + n(B) - n(A n B) to find how many play neither sport.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Roster Method", "Set-Builder Notation", "Universal Set", "Intersection (∩)", "Complement (A')"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Counting overlapping elements twice when calculating the total cardinality of a set union n(A ∪ B).",
+          "correctionTrigger": "Ask: 'If a student plays both sports, did you count them in Cricket AND in Football?' Show why subtracting n(A ∩ B) prevents double-counting."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Computer Science: Boolean Logic (Mapping set union/intersection to OR/AND database query operations)"
+      ]
+    },
+    "metaSscCode": "M901",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "Secondary Mathematics LO [NCERT Secondary LO Document p. 76]",
+    "metaNcertDesc": "Understands sets, set operations, and applies Venn diagrams to contextual problems.",
+    "metaNishthaText": "NISHTHA Module 6: Use physical hoop overlays on the floor to introduce union and intersection regions."
+  },
+  {
+    "id": "g9_m1_2",
+    "grade": "9",
+    "subject": "math1",
+    "fullTitle": "Chapter 2: Real Numbers",
+    "loDesc": "Classifies rational and irrational numbers, proves irrationality of sqrt(2), performs operations on surds (simplification, comparison, addition, multiplication), and rationalizes denominators.",
+    "pdfPage": 91,
+    "docPage": 76,
+    "pdfUrl": "https://ncert.nic.in/pdf/notice/learning_outcomes.pdf#page=91",
+    "hookAction": "SHOW",
+    "hookDemo": "Display non-terminating decimals: 0.333... (recurring) vs 1.4142135... (non-recurring).",
+    "hookAsk": "Why can 0.333... be written as 1/3 in p/q form while 1.4142135... cannot be converted into p/q form?",
+    "streamTitle": "Rational vs Irrational Sorting",
+    "streamDo": "Observe numbers: 22/7, pi, sqrt(9), sqrt(7), 0.1212...",
+    "streamTask": "Classify given real numbers into Rational (p/q form) or Irrational categories.",
+    "mountainTitle": "Surd Simplification & Comparison",
+    "mountainTask": "Compare surds 4*sqrt(3) and 3*sqrt(5) by expressing both as pure surds under a single radical sign.",
+    "skyTitle": "Denominator Rationalization Challenge",
+    "skyTask": "Rationalize the binomial surd denominator of 1 / (sqrt(5) - sqrt(3)) by multiplying with its conjugate pair.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Surd", "Conjugate Pair", "Rationalizing Factor", "Non-Terminating Non-Recurring"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Believing that 22/7 is the exact irrational value of π rather than a rational approximation.",
+          "correctionTrigger": "Ask: 'Is 22/7 a fraction of two integers p/q?' Point out that π is non-terminating and non-recurring."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Physics & Engineering: Diagonal Vector Measures (Calculating irrational hyp-length distances in structural design)"
+      ]
+    },
+    "metaSscCode": "M902",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "Secondary Mathematics LO [NCERT Secondary LO Document p. 76]",
+    "metaNcertDesc": "Explores real numbers, surds, and rationalizes denominators.",
+    "metaNishthaText": "NISHTHA Module 6: Use number line geometric constructions to locate square root positions."
+  },
+  {
+    "id": "g9_m1_3",
+    "grade": "9",
+    "subject": "math1",
+    "fullTitle": "Chapter 3: Polynomials",
+    "loDesc": "Identifies degree of polynomials, performs arithmetic operations, evaluates polynomial values, applies Remainder Theorem and Factor Theorem, and factorizes cubic expressions.",
+    "pdfPage": 91,
+    "docPage": 76,
+    "pdfUrl": "https://ncert.nic.in/pdf/notice/learning_outcomes.pdf#page=91",
+    "hookAction": "SHOW",
+    "hookDemo": "Write expressions on the board: 3x^2 + 2x - 5 vs 4x^(1/2) + 3.",
+    "hookAsk": "Why is 4x^(1/2) + 3 NOT classified as an algebraic polynomial?",
+    "streamTitle": "Polynomial Degree & Type Sorting",
+    "streamDo": "Observe algebraic expressions: 5x^3, 2x + 1, x^2 - 4x + 4, 7.",
+    "streamTask": "Identify the degree and classify given polynomials as Monomial, Binomial, or Trinomial.",
+    "mountainTitle": "Factor Theorem Application",
+    "mountainTask": "Use Factor Theorem to determine if (x - 2) is a factor of polynomial P(x) = x^3 - 3x^2 + 4x - 4.",
+    "skyTitle": "Synthetic Division & Value Finding",
+    "skyTask": "Divide (2x^4 - 3x^3 + 4x - 5) by (x - 2) using Synthetic Division method and state Quotient and Remainder.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Degree of Polynomial", "Synthetic Division", "Factor Theorem", "Remainder Theorem"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Treating expressions with fractional or negative exponents as polynomials.",
+          "correctionTrigger": "Ask: 'Is the exponent of variable x a non-negative whole number?' Re-evaluate definition bounds."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Physics: Trajectory Modeling (Evaluating polynomial equations for displacement and projectile motion)"
+      ]
+    },
+    "metaSscCode": "M903",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "Secondary Mathematics LO [NCERT Secondary LO Document p. 76]",
+    "metaNcertDesc": "Performs operations on polynomials and applies Remainder and Factor theorems.",
+    "metaNishthaText": "NISHTHA Module 6: Use synthetic division grids to streamline long division steps."
+  },
+  {
+    "id": "g9_m1_4",
+    "grade": "9",
+    "subject": "math1",
+    "fullTitle": "Chapter 4: Ratio and Proportion",
+    "loDesc": "Applies properties of ratios (Invertendo, Alternando, Componendo, Dividendo, Componendo-Dividendo) and solves continued proportion word problems.",
+    "pdfPage": 91,
+    "docPage": 76,
+    "pdfUrl": "https://ncert.nic.in/pdf/notice/learning_outcomes.pdf#page=91",
+    "hookAction": "SHOW",
+    "hookDemo": "Display ratio equation a/b = c/d alongside (a+b)/(a-b) = (c+d)/(c-d).",
+    "hookAsk": "How does applying Componendo-Dividendo allow us to solve complex fraction equations instantly?",
+    "streamTitle": "Theorem on Equal Ratios Matching",
+    "streamDo": "Observe ratio transformations: b/a = d/c, a/c = b/d, (a+b)/b = (c+d)/d.",
+    "streamTask": "Match given transformed ratios with correct property names (Invertendo, Alternando, Componendo, Dividendo).",
+    "mountainTitle": "Componendo-Dividendo Calculation",
+    "mountainTask": "If (sqrt(x+5) + sqrt(x-5)) / (sqrt(x+5) - sqrt(x-5)) = 3, find the value of x using Componendo-Dividendo.",
+    "skyTitle": "Continued Proportion & K-Method Proof",
+    "skyTask": "If a, b, c are in continued proportion (a/b = b/c = k), prove that (a + b)^2 / (b + c)^2 = a / c.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Continued Proportion", "Componendo-Dividendo", "K-Method", "Mean Proportional"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Confusing Alternando (a/c = b/d) with Invertendo (b/a = d/c) during step-by-step ratio transformations.",
+          "correctionTrigger": "Ask: 'Did you swap the inner terms diagonally or invert both fraction numerators and denominators?'"
+        }
+      ],
+      "crossCurricularLinks": [
+        "Chemistry: Solution Concentration (Scaling mixture ratios and chemical reagent proportions)"
+      ]
+    },
+    "metaSscCode": "M904",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "Secondary Mathematics LO [NCERT Secondary LO Document p. 76]",
+    "metaNcertDesc": "Applies properties of ratios and proportion to solve algebraic equations.",
+    "metaNishthaText": "NISHTHA Module 6: Use tabular ratio scaling activities to build intuitive understanding."
+  },
+  {
+    "id": "g9_m1_5",
+    "grade": "9",
+    "subject": "math1",
+    "fullTitle": "Chapter 5: Linear Equations in Two Variables",
+    "loDesc": "Solves simultaneous linear equations using Elimination method and Substitution method; formulates linear equations to solve word problems involving age, numbers, and geometry.",
+    "pdfPage": 91,
+    "docPage": 76,
+    "pdfUrl": "https://ncert.nic.in/pdf/notice/learning_outcomes.pdf#page=91",
+    "hookAction": "DEMO",
+    "hookDemo": "Set up a balance problem: '2 apples and 3 oranges cost Rs 35, while 3 apples and 2 oranges cost Rs 40.'",
+    "hookAsk": "How do we form two algebraic equations with variables x and y to find the individual price of one apple?",
+    "streamTitle": "Solution Verification Practice",
+    "streamDo": "Observe linear equation 2x + 3y = 12 and ordered pairs (3, 2), (0, 4), (2, 2).",
+    "streamTask": "Verify which given ordered pair (x, y) satisfies the linear equation.",
+    "mountainTitle": "Elimination Method Solving",
+    "mountainTask": "Solve the system of simultaneous equations 3x + 2y = 11 and 2x - y = 5 using the elimination method.",
+    "skyTitle": "Two-Digit Number Word Problem",
+    "skyTask": "The sum of a two-digit number and the number obtained by reversing its digits is 99. If the digits differ by 3, find the original number.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Simultaneous Equations", "Elimination Method", "Substitution Method", "Ordered Pair (x, y)"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Representing a two-digit number algebraically as '10x + y' vs incorrectly writing it as 'xy' (multiplication).",
+          "correctionTrigger": "Ask: 'Is 35 equal to 3×5 or 10(3) + 5?' Stress place-value expansion for digits."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Economics: Cost & Price Modeling (Setting up simultaneous supply-demand and unit pricing systems)"
+      ]
+    },
+    "metaSscCode": "M905",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "Secondary Mathematics LO [NCERT Secondary LO Document p. 76]",
+    "metaNcertDesc": "Solves pairs of linear equations in two variables algebraically.",
+    "metaNishthaText": "NISHTHA Module 6: Use elimination grid charts to align variable coefficients visually."
+  },
+  {
+    "id": "g9_m1_6",
+    "grade": "9",
+    "subject": "math1",
+    "fullTitle": "Chapter 6: Financial Planning",
+    "loDesc": "Understands savings, investments (Fixed Deposit, Mutual Funds, Shares, SIP), Income Tax structure, taxable income calculation, and tax slab applications.",
+    "pdfPage": 91,
+    "docPage": 76,
+    "pdfUrl": "https://ncert.nic.in/pdf/notice/learning_outcomes.pdf#page=91",
+    "hookAction": "SHOW",
+    "hookDemo": "Display a sample Salary Slip showing Gross Salary, PF Deduction, LIC Premium, and Net Taxable Income.",
+    "hookAsk": "How do investments under Section 80C reduce a citizen's total taxable income?",
+    "streamTitle": "Investment Channel Classification",
+    "streamDo": "Observe financial options: Fixed Deposit, Public Provident Fund (PPF), Mutual Fund SIP, Real Estate, Shares.",
+    "streamTask": "Classify investments into Low Risk / Guaranteed Return versus Market Linked / High Risk categories.",
+    "mountainTitle": "Taxable Income & Deductions Calculation",
+    "mountainTask": "An individual earns Rs 8,00,000 annually and invests Rs 1,50,000 in PPF (80C). Calculate net taxable income.",
+    "skyTitle": "Income Tax Slab Computation",
+    "skyTask": "Calculate the total Income Tax payable for a senior citizen (60-80 yrs) with a taxable income of Rs 6,50,000 using standard board tax slabs.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Gross Salary", "Section 80C Deductions", "Taxable Income", "Income Tax Slabs"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Applying tax slab percentages to the entire gross salary instead of applying progressive rates only to income falling within each slab.",
+          "correctionTrigger": "Ask: 'Do you pay 20% on your entire income or only on the portion exceeding the lower threshold?'"
+        }
+      ],
+      "crossCurricularLinks": [
+        "Civics & Personal Finance: Civic Duties (Understanding income tax structures and personal financial literacy)"
+      ]
+    },
+    "metaSscCode": "M906",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "Secondary Mathematics LO [NCERT Secondary LO Document p. 76]",
+    "metaNcertDesc": "Applies financial literacy concepts including investment planning and income tax.",
+    "metaNishthaText": "NISHTHA Module 6: Use authentic tax slab tables and salary slips for practical calculations."
+  },
+  {
+    "id": "g9_m1_7",
+    "grade": "9",
+    "subject": "math1",
+    "fullTitle": "Chapter 7: Statistics",
+    "loDesc": "Constructs grouped frequency distribution tables (inclusive and exclusive classes), draws Histograms and Frequency Polygons, and calculates Mean, Median, and Mode.",
+    "pdfPage": 91,
+    "docPage": 76,
+    "pdfUrl": "https://ncert.nic.in/pdf/notice/learning_outcomes.pdf#page=91",
+    "hookAction": "SHOW",
+    "hookDemo": "Display a bar graph alongside a histogram on the board.",
+    "hookAsk": "Why do bars in a histogram touch each other continuously without spaces, unlike a standard bar graph?",
+    "streamTitle": "Class Interval Parameter Sorting",
+    "streamDo": "Observe class interval 10-20.",
+    "streamTask": "Identify Lower Class Limit, Upper Class Limit, Class Width, and Class Mark (Midpoint) for given intervals.",
+    "mountainTitle": "Grouped Mean Calculation (Direct Method)",
+    "mountainTask": "Calculate the mean mark for 40 students from a grouped frequency table using formula Mean = (sum f_i * x_i) / N.",
+    "skyTitle": "Histogram to Frequency Polygon Construction",
+    "skyTask": "Explain how to construct a Frequency Polygon directly from the midpoints of top edges of a Histogram.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Inclusive/Exclusive Classes", "Class Mark", "Histogram", "Frequency Polygon"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Plotting a histogram directly from inclusive class intervals (e.g. 1-10, 11-20) without converting them into continuous exclusive classes (0.5-10.5, 10.5-20.5).",
+          "correctionTrigger": "Ask: 'Where would a value of 10.5 be plotted if there is a gap between 10 and 11?' Convert to continuous bounds."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Demographics & Meteorology: Data Visualization (Representing continuous environmental survey data via histograms)"
+      ]
+    },
+    "metaSscCode": "M907",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "Secondary Mathematics LO [NCERT Secondary LO Document p. 76]",
+    "metaNcertDesc": "Constructs histograms, frequency polygons, and calculates measures of central tendency.",
+    "metaNishthaText": "NISHTHA Module 6: Use graph paper overlays to connect histogram midpoints into polygons."
+  }
+]

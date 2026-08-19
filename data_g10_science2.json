@@ -1,0 +1,372 @@
+[
+  {
+    "id": "g10_s2_1",
+    "grade": "10",
+    "subject": "science2",
+    "fullTitle": "Chapter 1: Heredity and Evolution",
+    "loDesc": "Explains Central Dogma of Molecular Biology (Transcription, Translation, Translocation), evidence of evolution (Morphological, Anatomical, Vestigial organs, Paleontological, Connecting links, Embryological), and theories of evolution (Darwinism and Lamarckism).",
+    "pdfPage": 55,
+    "docPage": 40,
+    "pdfUrl": "https://ncert.nic.in/pdf/notice/learning_outcomes.pdf#page=55",
+    "hookAction": "SHOW",
+    "hookDemo": "Display anatomical forelimb bone structures of Human arm, Cat leg, Whale flipper, and Bat wing side by side.",
+    "hookAsk": "Why do these forelimbs have completely different external functions yet show identical underlying bone arrangements?",
+    "streamTitle": "Evolutionary Evidence Classification",
+    "streamDo": "Observe evolutionary evidences: Appendix, Peripatus, Fossils, Homologous forelimbs, Embryo stages.",
+    "streamTask": "Classify evidences under Anatomical, Vestigial, Connecting Link, or Paleontological categories.",
+    "mountainTitle": "Central Dogma Mechanism Tracing",
+    "mountainTask": "Explain the step-by-step protein synthesis process: Transcription (DNA to mRNA in nucleus), Translation (tRNA decoding at ribosome), and Translocation (ribosome movement).",
+    "skyTitle": "Darwin's Natural Selection vs Lamarckism Analysis",
+    "skyTask": "Critique Lamarck's theory of 'Inheritance of Acquired Characters' using examples and explain why Darwin's 'Survival of the Fittest' gained scientific acceptance.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Central Dogma", "Transcription & Translation", "Homologous vs Analogous Organs", "Vestigial Organs", "Natural Selection"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Confusing Lamarck's 'inheritance of acquired traits' (e.g. stretching neck creates longer necks in offspring) with Darwin's 'natural selection' on pre-existing variations.",
+          "correctionTrigger": "Ask: 'If a weightlifter builds large muscles, do their children automatically inherit big muscles?' Disprove Lamarckian physical acquisition."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Paleontology & Archaeology: Carbon Dating (Using Carbon-14 radioactive decay to determine age of paleontological fossils)"
+      ]
+    },
+    "metaSscCode": "S1011",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "Secondary Science LO [NCERT Secondary LO Document p. 40]",
+    "metaNcertDesc": "Traces protein synthesis mechanisms and evaluates structural evidences supporting biological evolution.",
+    "metaNishthaText": "NISHTHA Module 8: Use codon wheel charts to simulate mRNA-to-amino-acid translation activities."
+  },
+  {
+    "id": "g10_s2_2",
+    "grade": "10",
+    "subject": "science2",
+    "fullTitle": "Chapter 2: Life Processes in Living Organisms Part 1",
+    "loDesc": "Analyzes cellular respiration (Glycolysis, Krebs Cycle, Electron Transfer Chain), energy yield from carbohydrates, proteins, and lipids, and compares Mitosis vs Meiosis cell division stages.",
+    "pdfPage": 55,
+    "docPage": 40,
+    "pdfUrl": "https://ncert.nic.in/pdf/notice/learning_outcomes.pdf#page=55",
+    "hookAction": "SHOW",
+    "hookDemo": "Display microscope slides showing onion root tip cells undergoing Mitosis stages (Prophase, Metaphase, Anaphase, Telophase).",
+    "hookAsk": "In which stage do equatorial chromosome alignment and spindle fiber attachments become clearly visible under a microscope?",
+    "streamTitle": "Cellular Respiration Pathway Sorting",
+    "streamDo": "Observe respiration phases: Glycolysis (Cytoplasm), Krebs Cycle (Mitochondria), ETC Reaction (Mitochondria).",
+    "streamTask": "Match respiration phases with their specific cellular locations and ATP yield outputs.",
+    "mountainTitle": "Mitosis vs Meiosis Comparison",
+    "mountainTask": "Construct a 4-point comparison table contrasting Mitosis (somatic cells, 2n -> 2n) and Meiosis (germ cells, 2n -> 1n, genetic crossing over).",
+    "skyTitle": "Anaerobic Respiration & Fermentation Analysis",
+    "skyTask": "Trace glucose breakdown when oxygen is deficient in muscle cells (lactic acid accumulation) versus yeast fermentation (ethanol + CO2 generation).",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Glycolysis", "TCA / Krebs Cycle", "Mitosis (2n → 2n)", "Meiosis (2n → 1n)", "Recombination / Crossing Over"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Thinking that cellular respiration occurs only in animal cells while plant cells undergo only photosynthesis.",
+          "correctionTrigger": "Ask: 'How do plant cells generate ATP energy at night when there is no light for photosynthesis?'"
+        }
+      ],
+      "crossCurricularLinks": [
+        "Biochemistry & Exercise Physiology: Metabolic Pathways (Tracing aerobic vs anaerobic ATP yield during athletic exertion)"
+      ]
+    },
+    "metaSscCode": "S1012",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "Secondary Science LO [NCERT Secondary LO Document p. 40]",
+    "metaNcertDesc": "Explains aerobic/anaerobic respiration pathways and compares mitotic and meiotic cell division.",
+    "metaNishthaText": "NISHTHA Module 8: Prepare temporary slides of onion root tips to observe mitosis stages in class."
+  },
+  {
+    "id": "g10_s2_3",
+    "grade": "10",
+    "subject": "science2",
+    "fullTitle": "Chapter 3: Life Processes in Living Organisms Part 2",
+    "loDesc": "Investigates asexual reproduction (Binary Fission, Multiple Fission, Fragmentation, Regeneration, Budding, Vegetative Propagation, Spore Formation) and sexual reproduction in plants (flower anatomy, pollination, fertilization) and humans (male/female reproductive systems, menstrual cycle, IVF).",
+    "pdfPage": 55,
+    "docPage": 40,
+    "pdfUrl": "https://ncert.nic.in/pdf/notice/learning_outcomes.pdf#page=55",
+    "hookAction": "DEMO",
+    "hookDemo": "Dissect a Hibiscus flower on the demonstration table to expose Sepals, Petals, Stamens (Anther/Filament), and Carpel (Stigma/Style/Ovary).",
+    "hookAsk": "How does pollen tube growth through the style deliver male gametes into the ovary for double fertilization?",
+    "streamTitle": "Asexual Reproduction Mode Matching",
+    "streamDo": "Observe organisms: Amoeba, Hydra, Spirogyra, Planaria, Bryophyllum, Mucor.",
+    "streamTask": "Match organisms with their asexual reproduction mode (Binary Fission, Budding, Fragmentation, Regeneration, Vegetative Propagation, Spore Formation).",
+    "mountainTitle": "Human Menstrual Cycle Phase Tracing",
+    "mountainTask": "Explain four phases of the human 28-day menstrual cycle, detailing hormonal controls (FSH, LH, Estrogen, Progesterone) and uterine wall changes.",
+    "skyTitle": "Modern Reproductive Technologies Analysis",
+    "skyTask": "Explain clinical principles behind Assisted Reproductive Technologies: In Vitro Fertilization (IVF), Surrogacy, and Sperm Banking.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Double Fertilization", "Binary vs Multiple Fission", "Menstrual Cycle Hormones (FSH/LH)", "IVF & Surrogacy"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Confusing pollination (transfer of pollen to stigma) with fertilization (fusion of male and female gametes).",
+          "correctionTrigger": "Ask: 'Is seed formation complete when pollen lands on stigma, or when male gamete fuses with ovule inside ovary?'"
+        }
+      ],
+      "crossCurricularLinks": [
+        "Endocrinology & Reproductive Medicine: Reproductive Health (Tracing hormonal feedback in menstrual cycles and IVF ART technologies)"
+      ]
+    },
+    "metaSscCode": "S1013",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "Secondary Science LO [NCERT Secondary LO Document p. 40]",
+    "metaNcertDesc": "Investigates modes of asexual/sexual reproduction in plants and humans, and modern reproductive technologies.",
+    "metaNishthaText": "NISHTHA Module 8: Conduct flower dissection lab practicals for all students."
+  },
+  {
+    "id": "g10_s2_4",
+    "grade": "10",
+    "subject": "science2",
+    "fullTitle": "Chapter 4: Environmental Management",
+    "loDesc": "Analyzes ecosystem factors, environmental conservation necessity, biodiversity hotspots, sacred groves, and roles of organizations/laws in environmental protection.",
+    "pdfPage": 55,
+    "docPage": 40,
+    "pdfUrl": "https://ncert.nic.in/pdf/notice/learning_outcomes.pdf#page=55",
+    "hookAction": "SHOW",
+    "hookDemo": "Display a map showing India's Western Ghats biodiversity hotspot alongside pictures of Traditional Sacred Groves (Devrai).",
+    "hookAsk": "How have indigenous cultural traditions like Sacred Groves protected forest biodiversity for centuries?",
+    "streamTitle": "Threatened Species Category Classification",
+    "streamDo": "Observe animal species: Tiger, Lion-tailed Macaque, Lesser Florican, Giant Squirrel (Shekru).",
+    "streamTask": "Classify species into Endangered, Rare, Vulnerable, or Indeterminate threatened categories.",
+    "mountainTitle": "Ecosystem Balance & Conservation Necessity",
+    "mountainTask": "List 4 primary causes of environmental degradation and state why environmental conservation is a collective social responsibility.",
+    "skyTitle": "Jadav Payeng 'Forest Man of India' Case Study",
+    "skyTask": "Analyze the personal environmental contribution of Jadav Payeng in creating a 1,360-acre man-made forest, illustrating individual impact.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Biodiversity Hotspot", "Sacred Groves (Devrai)", "Endangered vs Vulnerable Species", "Conservation Laws"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Believing that environmental protection is solely the responsibility of government agencies rather than individual citizens.",
+          "correctionTrigger": "Ask: 'How did a single individual, Jadav Payeng, plant an entire forest?' Highlight individual environmental stewardship."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Environmental Law & Anthropology: Indigenous Conservation (Studying legal bio-reserve protections and traditional Sacred Groves)"
+      ]
+    },
+    "metaSscCode": "S1014",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "Secondary Science LO [NCERT Secondary LO Document p. 40]",
+    "metaNcertDesc": "Analyzes ecosystem factors, biodiversity conservation, sacred groves, and environmental protection laws.",
+    "metaNishthaText": "NISHTHA Module 10: Organize local biodiversity documentation drives in school neighborhoods."
+  },
+  {
+    "id": "g10_s2_5",
+    "grade": "10",
+    "subject": "science2",
+    "fullTitle": "Chapter 5: Towards Green Energy",
+    "loDesc": "Evaluates thermal, nuclear, hydroelectric, wind, and solar power generation mechanisms, comparing environmental impacts of fossil fuels versus eco-friendly renewable energy.",
+    "pdfPage": 55,
+    "docPage": 40,
+    "pdfUrl": "https://ncert.nic.in/pdf/notice/learning_outcomes.pdf#page=55",
+    "hookAction": "SHOW",
+    "hookDemo": "Display schematic flowcharts of a Thermal Power Plant vs a Solar Photovoltaic Power Plant.",
+    "hookAsk": "Why does thermal power generation release harmful CO2 and SO2 pollutants, whereas solar photovoltaic generation produces clean zero-emission electricity?",
+    "streamTitle": "Energy Source Classification",
+    "streamDo": "Observe energy generation types: Coal, Uranium, Water reservoir, Wind turbine, Solar PV panel, Natural Gas.",
+    "streamTask": "Classify power plants into Fossil Fuel Based vs Green Renewable Energy categories.",
+    "mountainTitle": "Nuclear Power Plant Fission Reaction",
+    "mountainTask": "Explain Uranium-235 nuclear fission chain reaction, detailing reactor core components, moderators, and radioactive waste disposal risks.",
+    "skyTitle": "Hydroelectric Plant Efficiency & Ecological Impact Analysis",
+    "skyTask": "Explain energy transformations in a Hydroelectric plant (Potential -> Kinetic -> Mechanical -> Electrical) and debate ecological pros vs cons of large dam reservoirs.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Photovoltaic Cell", "Nuclear Fission (U-235)", "Turbine Generator", "Green / Renewable Energy"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Assuming hydroelectric power generation is 100% eco-friendly without any environmental or social drawbacks.",
+          "correctionTrigger": "Ask: 'What happens to submerged forests and displaced communities when large dams are built?' Discuss reservoir ecological impacts."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Power Engineering & Environmental Economics: Energy Grid Transition (Comparing fossil fuel thermal emissions with solar/wind grid integration)"
+      ]
+    },
+    "metaSscCode": "S1015",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "Secondary Science LO [NCERT Secondary LO Document p. 40]",
+    "metaNcertDesc": "Evaluates power generation technologies, energy conversions, and environmental impacts of energy sources.",
+    "metaNishthaText": "NISHTHA Module 8: Use small solar cell panels and toy motor fans for hands-on photovoltaic generation tests."
+  },
+  {
+    "id": "g10_s2_6",
+    "grade": "10",
+    "subject": "science2",
+    "fullTitle": "Chapter 6: Animal Classification",
+    "loDesc": "Classifies kingdom Animalia based on body symmetry, germ layers, coelom, and body segmentation across 10 non-chordate phyla (Porifera to Hemichordata) and Chordata subphyla/classes.",
+    "pdfPage": 55,
+    "docPage": 40,
+    "pdfUrl": "https://ncert.nic.in/pdf/notice/learning_outcomes.pdf#page=55",
+    "hookAction": "SHOW",
+    "hookDemo": "Display preserved laboratory specimens: Sponge (Porifera), Jellyfish (Cnidaria), Tapeworm (Platyhelminthes), Earthworm (Annelida), Starfish (Echinodermata).",
+    "hookAsk": "How do body symmetry (Radial vs Bilateral) and presence of a true body cavity (Eucoelomate) differentiate these phyla?",
+    "streamTitle": "Phylum Characteristic Matching",
+    "streamDo": "Observe unique characteristics: Ostia/Osculum, Cnidocytes, Jointed appendages, Water vascular system, Notochord.",
+    "streamTask": "Match unique features with their corresponding animal phylum (Porifera, Cnidaria, Arthropoda, Echinodermata, Chordata).",
+    "mountainTitle": "Non-Chordates vs Chordates Comparison",
+    "mountainTask": "Construct a 4-point comparison table contrasting Non-Chordates and Chordates based on Notochord, Nerve Cord, Pharyngeal Gill Slits, and Heart position.",
+    "skyTitle": "Vertebrata Class Identification Scheme",
+    "skyTask": "Differentiate Vertebrate classes (Cyclostomata, Pisces, Amphibia, Reptilia, Aves, Mammalia) using respiration organ, skin covering, and heart chamber criteria.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Eucoelomate vs Acoelomate", "Radial vs Bilateral Symmetry", "Diploblastic / Triploblastic", "Notochord", "Pharyngeal Gill Slits"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Confusing Notochord (dorsal supporting rod in chordates) with Nerve Cord (central nervous system structure).",
+          "correctionTrigger": "Ask: 'Which rod provides structural skeletal support, and which one transmits nerve impulses?'"
+        }
+      ],
+      "crossCurricularLinks": [
+        "Taxonomy & Evolutionary Biology: Comparative Anatomy (Systematizing animal phyla based on germ layers and body cavity evolution)"
+      ]
+    },
+    "metaSscCode": "S1016",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "Secondary Science LO [NCERT Secondary LO Document p. 40]",
+    "metaNcertDesc": "Classifies animal kingdom phyla based on germ layers, symmetry, coelom, and chordate features.",
+    "metaNishthaText": "NISHTHA Module 8: Use preserved museum specimens for hands-on animal taxonomy identification."
+  },
+  {
+    "id": "g10_s2_7",
+    "grade": "10",
+    "subject": "science2",
+    "fullTitle": "Chapter 7: Introduction to Microbiology",
+    "loDesc": "Investigates industrial microbiology applications: Applied Microbiology, Dairy Products (Cheese, Yogurt, Probiotics), Bread making, Vinegar production, Microbial Enzymes, and Bioremediation.",
+    "pdfPage": 55,
+    "docPage": 40,
+    "pdfUrl": "https://ncert.nic.in/pdf/notice/learning_outcomes.pdf#page=55",
+    "hookAction": "SHOW",
+    "hookDemo": "Display commercial probiotic drink bottles alongside a laboratory fermentation vessel diagram.",
+    "hookAsk": "Why are live beneficial bacterial strains (Lactobacillus acidophilus) added to probiotic foods, and how do they improve gut health?",
+    "streamTitle": "Microbial Industrial Application Matching",
+    "streamDo": "Observe products/processes: Yogurt, Cheese, Vinegar (Acetic acid), Xanthan gum, Oil spill cleanup.",
+    "streamTask": "Match products with their specific microbe strains (Lactobacillus bulgaricus, Acetobacter, Pseudomonas).",
+    "mountainTitle": "Commercial Vinegar Production Steps",
+    "mountainTask": "Explain the two-stage microbial production of Vinegar: Ethanol production by Yeast fermentation followed by Acetic Acid conversion by Acetobacter.",
+    "skyTitle": "Microbial Bioremediation Analysis",
+    "skyTask": "Explain how Hydrocarbonoclastic Bacteria (HCB like Alcanivorax) clean ocean crude oil spills and how microbes treat sewage waste.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Applied Microbiology", "Probiotics", "Microbial Fermentation", "Bioremediation", "Hydrocarbonoclastic Bacteria"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Believing all industrial food processing involving bacteria produces spoiled or unsafe products.",
+          "correctionTrigger": "Ask: 'What turns milk into yogurt or produces cheese?' Highlight controlled beneficial fermentation."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Industrial Biotechnology & Environmental Engineering: Pollution Cleanup (Using hydrocarbonoclastic bacteria to digest ocean oil spills)"
+      ]
+    },
+    "metaSscCode": "S1017",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "Secondary Science LO [NCERT Secondary LO Document p. 40]",
+    "metaNcertDesc": "Investigates applied microbiology in food production, industrial enzymes, and environmental bioremediation.",
+    "metaNishthaText": "NISHTHA Module 8: Conduct curd and yogurt preparation observations in school science labs."
+  },
+  {
+    "id": "g10_s2_8",
+    "grade": "10",
+    "subject": "science2",
+    "fullTitle": "Chapter 8: Cell Biology and Biotechnology",
+    "loDesc": "Understands Cytology, Stem Cells (Embryonic and Adult stem cells, Stem Cell Banking), Biotechnology applications in Agriculture (Bt Cotton, Golden Rice), Medicine (Insulin, Vaccines, Gene Therapy), and Organ Donation ethics.",
+    "pdfPage": 55,
+    "docPage": 40,
+    "pdfUrl": "https://ncert.nic.in/pdf/notice/learning_outcomes.pdf#page=55",
+    "hookAction": "SHOW",
+    "hookDemo": "Display a schematic diagram of a pluripotent Stem Cell differentiating into Muscle, Blood, Nerve, and Liver cells.",
+    "hookAsk": "What makes stem cells uniquely valuable in regenerative medicine and organ transplant therapies?",
+    "streamTitle": "Biotechnology Product Classification",
+    "streamDo": "Observe innovations: Bt Cotton, Golden Rice (Vitamin A rich), Humulin (Recombinant Insulin), Edible Vaccines, Interferon.",
+    "streamTask": "Classify innovations into Agricultural Biotechnology vs Medical Biotechnology applications.",
+    "mountainTitle": "Stem Cell Types & Preservation Explanation",
+    "mountainTask": "Differentiate Embryonic Stem Cells from Adult Stem Cells (bone marrow, umbilical cord blood) and explain stem cell banking preservation.",
+    "skyTitle": "Genetically Modified Crops (GM Crops) Debate",
+    "skyTask": "Analyze bio-engineering principles of Bt Cotton (Bacillus thuringiensis toxin gene) and evaluate environmental risks vs yield benefits of GM crops.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Stem Cells (Pluripotent)", "Stem Cell Banking", "Recombinant DNA", "GM Crops (Bt Cotton)", "Organ Donation Ethics"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Confusing embryonic stem cells (pluripotent - can form any tissue) with adult stem cells (multipotent - limited tissue types).",
+          "correctionTrigger": "Ask: 'Which stem cell type can differentiate into ALL 220+ human body cell types?' Highlight embryonic pluripotency."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Bioethics & Agricultural Engineering: Recombinant Technology (Evaluating genetic engineering in Bt Cotton and organ transplantation ethics)"
+      ]
+    },
+    "metaSscCode": "S1018",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "Secondary Science LO [NCERT Secondary LO Document p. 40]",
+    "metaNcertDesc": "Understands cytology, stem cell potency, recombinant DNA biotechnology, and ethical organ donation.",
+    "metaNishthaText": "NISHTHA Module 8: Organize student seminars on stem cell banking and organ donation awareness."
+  },
+  {
+    "id": "g10_s2_9",
+    "grade": "10",
+    "subject": "science2",
+    "fullTitle": "Chapter 9: Social Health",
+    "loDesc": "Analyzes factors affecting social health, digital addiction risks (excessive smartphone use, cyberbullying, online gaming), stress management techniques, and government support initiatives.",
+    "pdfPage": 55,
+    "docPage": 40,
+    "pdfUrl": "https://ncert.nic.in/pdf/notice/learning_outcomes.pdf#page=55",
+    "hookAction": "SHOW",
+    "hookDemo": "Display a infographic chart showing physical, mental, and social health dimensions.",
+    "hookAsk": "How does excessive continuous smartphone screen usage cause physical eye strain, sleep disruption, and social isolation?",
+    "streamTitle": "Social Health Hazard Sorting",
+    "streamDo": "Observe habits: Physical exercise, Excessive selfie taking, Cyberbullying, Hobbies/Music, Liquor consumption.",
+    "streamTask": "Classify habits into Positive Social Health Factors vs Harmful Addictive Behaviors.",
+    "mountainTitle": "Digital Addiction & Cyber Crime Awareness",
+    "mountainTask": "List 4 physical and psychological risks associated with gaming addiction and explain cyber crime prevention measures.",
+    "skyTitle": "Community Stress Management Strategy Design",
+    "skyTask": "Formulate a practical student stress management routine combining Laughter clubs, Outdoor sports, Expressive arts, and Counseling support.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Social Health", "Digital Addiction / Nomophobia", "Cyberbullying", "Stress Management", "Peer Pressure"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Viewing health as purely physical fitness, ignoring mental health and social relationships.",
+          "correctionTrigger": "Ask: 'Can a physically fit person be unhealthy if they suffer from severe social isolation or digital addiction?'"
+        }
+      ],
+      "crossCurricularLinks": [
+        "Psychology & Cyber Security: Digital Wellness (Developing healthy screen-time limits and recognizing online cyber threats)"
+      ]
+    },
+    "metaSscCode": "S1019",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "Secondary Science LO [NCERT Secondary LO Document p. 40]",
+    "metaNcertDesc": "Analyzes social health indicators, digital addiction hazards, cyber security, and stress management.",
+    "metaNishthaText": "NISHTHA Module 10: Conduct interactive workshops on digital detox and cyber safety."
+  },
+  {
+    "id": "g10_s2_10",
+    "grade": "10",
+    "subject": "science2",
+    "fullTitle": "Chapter 10: Disaster Management",
+    "loDesc": "Classifies disasters, analyzes disaster management cycle (Pre-disaster phase vs Post-disaster phase), first-aid protocols (CPR, bandaging, transport of victims), and emergency response organization.",
+    "pdfPage": 55,
+    "docPage": 40,
+    "pdfUrl": "https://ncert.nic.in/pdf/notice/learning_outcomes.pdf#page=55",
+    "hookAction": "SHOW",
+    "hookDemo": "Display a diagram of the Disaster Management Cycle: Preparation -> Redemption -> Preparedness -> Response -> Resurgence -> Rehabilitation.",
+    "hookAsk": "Why is Pre-disaster management planning (preparedness and mock drills) more effective in saving lives than Post-disaster relief work alone?",
+    "streamTitle": "Disaster Category Sorting",
+    "streamDo": "Observe events: Tsunami, Cyclones, Forest Fires, Nuclear Accidents, Pandemics, Terrorism.",
+    "streamTask": "Classify disaster events into Geological, Biological, Climate-related, or Man-made categories.",
+    "mountainTitle": "Victim Transport & First Aid Techniques",
+    "mountainTask": "Describe 4 emergency patient transport methods (Cradle method, Human crutch, Stretcher, Chair method) and list essential kit supplies.",
+    "skyTitle": "Mock Drill Protocol Design & Execution",
+    "skyTask": "Design a step-by-step school mock drill procedure for earthquake emergency evacuation, detailing warning signals, assembly points, and rescue squad roles.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Disaster Management Cycle", "Pre-Disaster Preparedness", "Post-Disaster Rehabilitation", "CPR First-Aid", "Mock Drill"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Focusing disaster management efforts entirely on post-disaster rescue and relief while neglecting pre-disaster planning.",
+          "correctionTrigger": "Ask: 'Which phase prevents casualties BEFORE a disaster strikes?' Emphasize pre-disaster preparedness and mock drills."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Public Safety & Civic Administration: Emergency Preparedness (Executing school evacuation drills and first-aid victim transport)"
+      ]
+    },
+    "metaSscCode": "S1020",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "Secondary Science LO [NCERT Secondary LO Document p. 40]",
+    "metaNcertDesc": "Applies disaster management cycles, emergency first-aid protocols, and mock drill execution.",
+    "metaNishthaText": "NISHTHA Module 10: Conduct practical CPR and stretcher transport simulations during school disaster drills."
+  }
+]

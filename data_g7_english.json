@@ -1,0 +1,187 @@
+[
+  {
+    "id": "g7_e_1",
+    "grade": "7",
+    "subject": "english",
+    "fullTitle": "Unit 1: Prose Reading & Vocabulary Development",
+    "loDesc": "Reads short stories and informative prose aloud with appropriate pronunciation, pause, and intonation; identifies vocabulary in context (synonyms, antonyms, prefixes, suffixes).",
+    "pdfPage": 50,
+    "docPage": 32,
+    "pdfUrl": "https://ncert.nic.in/pdf/publication/otherpublications/tilops101.pdf#page=50",
+    "hookAction": "SHOW",
+    "hookDemo": "Display a short 3-sentence excerpt with all punctuation marks (commas, full stops, capitals) removed.",
+    "hookAsk": "How does removing punctuation alter the natural rhythm and meaning when we read the text aloud?",
+    "streamTitle": "Parts of Speech & Antonym Matching",
+    "streamDo": "Observe highlighted words in a given 100-word prose excerpt.",
+    "streamTask": "Identify Nouns, Verbs, and Adjectives from given sentences and write antonyms for 4 key vocabulary words.",
+    "mountainTitle": "Inference & Contextual Meaning",
+    "mountainTask": "Read a given 150-word story excerpt and write 2 structured answers inferring the main character's motives.",
+    "skyTitle": "Vocabulary Transformation Challenge",
+    "skyTask": "Form 5 new nouns from given verbs by adding suffixes (-tion, -ment, -ness) and use them in original sentences.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Parts of Speech", "Contextual Clues", "Prefix & Suffix", "Intonation", "Antonym"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Students assume that adding a suffix changes only the word form without altering its grammatical function (e.g. confusing 'excite' with 'excitement').",
+          "correctionTrigger": "Ask: 'Can you say \"He felt very excite\" or do you need the noun form \"excitement\"?' Demonstrate noun derivation."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Social Studies: Historical Biographies (Reading informational prose and inferring historical character motivations)"
+      ]
+    },
+    "metaSscCode": "E701",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "E701 [NCERT LO Manual tilops101.pdf p. 32]",
+    "metaNcertDesc": "Reads stories critically, applies grammar rules, and builds context vocabulary.",
+    "metaNishthaText": "NISHTHA Pedagogy Note: Encourage reading circles to practice conversational stress and intonation."
+  },
+  {
+    "id": "g7_e_2",
+    "grade": "7",
+    "subject": "english",
+    "fullTitle": "Unit 2: Poetic Structure & Appreciation",
+    "loDesc": "Recites poems with expression and rhythm; identifies poetic devices (rhyme scheme, alliteration, simile, metaphor), and writes brief poetic appreciations.",
+    "pdfPage": 50,
+    "docPage": 32,
+    "pdfUrl": "https://ncert.nic.in/pdf/publication/otherpublications/tilops101.pdf#page=50",
+    "hookAction": "SHOW",
+    "hookDemo": "Recite two lines: 'The rain falls softly on the street' vs 'Pitter-patter falls the pitter-patter rain'.",
+    "hookAsk": "Which line uses sound repetition to create a stronger musical rhythm in your mind?",
+    "streamTitle": "Rhyme Scheme & Simile Identification",
+    "streamDo": "Observe line-ending words across a 4-line poem stanza.",
+    "streamTask": "Identify the rhyme scheme (e.g. ABAB) and locate a Simile in the given stanza.",
+    "mountainTitle": "Poetic Appreciation Writing",
+    "mountainTask": "Write a 5-point appreciation of a prescribed poem covering: Title, Poet, Rhyme Scheme, Favorite Line, and Central Theme.",
+    "skyTitle": "Original Stanza Composition",
+    "skyTask": "Compose an original 4-line stanza on 'Nature' or 'Friendship' using an AABB rhyme scheme and one Alliteration.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Rhyme Scheme", "Simile", "Metaphor", "Alliteration", "Stanza"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Confusing Simile with Metaphor, assuming any descriptive comparison using 'like' or 'as' is a metaphor.",
+          "correctionTrigger": "Ask: 'Does the line use explicit comparison words like \"as smooth as\" or direct identification like \"life is a highway\"?'"
+        }
+      ],
+      "crossCurricularLinks": [
+        "Music & Performing Arts: Rhythm & Meter (Connecting poetic stanza cadence to musical beat patterns)"
+      ]
+    },
+    "metaSscCode": "E702",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "E702 [NCERT LO Manual tilops101.pdf p. 32]",
+    "metaNcertDesc": "Appreciates poetic structure, figures of speech, rhythm, and literary expressions.",
+    "metaNishthaText": "NISHTHA Pedagogy Note: Use choral recitations to help students feel poetic cadence and meter."
+  },
+  {
+    "id": "g7_e_3",
+    "grade": "7",
+    "subject": "english",
+    "fullTitle": "Unit 3: Grammar in Context: Tenses & Voice",
+    "loDesc": "Applies correct tense forms (Simple, Continuous, Perfect) and converts sentences between Active and Passive voice in meaningful context.",
+    "pdfPage": 50,
+    "docPage": 32,
+    "pdfUrl": "https://ncert.nic.in/pdf/publication/otherpublications/tilops101.pdf#page=50",
+    "hookAction": "DEMO",
+    "hookDemo": "Display two sentences: 'The student solved the puzzle' vs 'The puzzle was solved by the student'.",
+    "hookAsk": "How does shifting focus from the actor to the action alter sentence formality?",
+    "streamTitle": "Active vs Passive Voice Transformation",
+    "streamDo": "Observe subject-verb-object structures in 4 given active voice sentences.",
+    "streamTask": "Transform 4 active voice sentences into passive voice without changing the tense.",
+    "mountainTitle": "Tense Consistency Editing",
+    "mountainTask": "Correct 5 tense errors in a given short narrative passage to maintain past tense consistency.",
+    "skyTitle": "Grammatical Paragraph Rewriting",
+    "skyTask": "Rewrite a given active-voice news report excerpt entirely in passive voice to give it an official objective register.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Active Voice", "Passive Voice", "Subject-Verb Agreement", "Tense Consistency", "Transitive Verb"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Students attempt to convert active sentences with intransitive verbs (e.g., 'He slept early') into passive voice.",
+          "correctionTrigger": "Ask: 'What object received the action in this sentence?' If there is no object, passive transformation is impossible."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Science & Journalism: Lab Report Writing (Using formal passive voice to state objective scientific procedures)"
+      ]
+    },
+    "metaSscCode": "E703",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "E703 [NCERT LO Manual tilops101.pdf p. 32]",
+    "metaNcertDesc": "Uses grammar structures including tenses and active/passive voice in context.",
+    "metaNishthaText": "NISHTHA Pedagogy Note: Use daily news headlines to demonstrate real-world passive voice usage."
+  },
+  {
+    "id": "g7_e_4",
+    "grade": "7",
+    "subject": "english",
+    "fullTitle": "Unit 4: Functional Writing: Letters & Notices",
+    "loDesc": "Drafts informal letters to friends and family and composes formal notices for school noticeboards following correct layouts.",
+    "pdfPage": 50,
+    "docPage": 32,
+    "pdfUrl": "https://ncert.nic.in/pdf/publication/otherpublications/tilops101.pdf#page=50",
+    "hookAction": "SHOW",
+    "hookDemo": "Display an unformatted draft letter lacking address, date, salutation, and sign-off.",
+    "hookAsk": "Where should the sender's address and date be placed to make this letter look properly structured?",
+    "streamTitle": "Format Element Identification",
+    "streamDo": "Observe layout sections of a notice layout (Header, Date, Title, Body, Signature).",
+    "streamTask": "Match Given layout blocks to their correct positions on a blank notice template.",
+    "mountainTitle": "Informal Letter Composition",
+    "mountainTask": "Write an informal letter (80-100 words) to your cousin inviting them to visit your village during festival holidays.",
+    "skyTitle": "School Notice Drafting",
+    "skyTask": "Draft an official notice (50 words) announcing a 'Classroom Cleanliness Competition', detailing date, time, and judging criteria.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Salutation", "Notice Header", "Informal Register", "Sign-off", "Layout Template"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Mixing formal business letter salutations (e.g. 'Respected Sir') into informal personal letters to family members.",
+          "correctionTrigger": "Ask: 'Are you writing to an official or a relative?' Match register tone to audience intimacy."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Civics & Administration: Community Communication (Drafting public notices and official school announcements)"
+      ]
+    },
+    "metaSscCode": "E704",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "E704 [NCERT LO Manual tilops101.pdf p. 32]",
+    "metaNcertDesc": "Writes functional prose including informal letters and school notices.",
+    "metaNishthaText": "NISHTHA Pedagogy Note: Use peer layout checks to ensure all functional formatting rules are met."
+  },
+  {
+    "id": "g7_e_5",
+    "grade": "7",
+    "subject": "english",
+    "fullTitle": "Unit 5: Creative Writing & Story Continuation",
+    "loDesc": "Organizes thoughts logically to write short descriptive paragraphs, dialogue scripts, and creative story continuations.",
+    "pdfPage": 50,
+    "docPage": 32,
+    "pdfUrl": "https://ncert.nic.in/pdf/publication/otherpublications/tilops101.pdf#page=50",
+    "hookAction": "SHOW",
+    "hookDemo": "Display a 3-line story starter: 'As Rohan stepped into the old library, the door clicked shut behind him...'",
+    "hookAsk": "What sensory details (sounds, sights, feelings) can we add to build suspense in the next paragraph?",
+    "streamTitle": "Sensory Word Sorting",
+    "streamDo": "Observe 10 descriptive adjectives (Whispering, Glistening, Musty, Roaring, Rough).",
+    "streamTask": "Classify descriptive words under Sight, Sound, Smell, or Touch categories.",
+    "mountainTitle": "Descriptive Paragraph Writing",
+    "mountainTask": "Write a 100-word descriptive paragraph about 'A Rainy Day at the Bus Stand', using at least 4 sensory adjectives.",
+    "skyTitle": "Story Extension & Dialogue Writing",
+    "skyTask": "Continue the story starter provided in class into a 120-word narrative incorporating a 4-line dialogue between two characters.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Sensory Details", "Dialogue Punctuation", "Narrative Arc", "Suspense", "Descriptive Adjective"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Forgetting quotation marks or paragraph breaks when switching speakers during dialogue writing.",
+          "correctionTrigger": "Ask: 'How does a reader know who is speaking when two characters converse?' Use quotation marks and new lines for each speaker."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Drama & Creative Arts: Scriptwriting (Drafting character dialogues and stage directions for classroom plays)"
+      ]
+    },
+    "metaSscCode": "E705",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "E705 [NCERT LO Manual tilops101.pdf p. 32]",
+    "metaNcertDesc": "Writes creative compositions, dialogues, and story continuations.",
+    "metaNishthaText": "NISHTHA Pedagogy Note: Encourage oral story building before writing down narrative drafts."
+  }
+]

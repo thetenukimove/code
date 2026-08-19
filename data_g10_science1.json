@@ -1,0 +1,372 @@
+[
+  {
+    "id": "g10_s1_1",
+    "grade": "10",
+    "subject": "science1",
+    "fullTitle": "Chapter 1: Gravitation",
+    "loDesc": "Understands Kepler's Laws of Planetary Motion, Universal Law of Gravitation, acceleration due to gravity (g) and its variations, Free Fall, and Escape Velocity.",
+    "pdfPage": 55,
+    "docPage": 40,
+    "pdfUrl": "https://ncert.nic.in/pdf/notice/learning_outcomes.pdf#page=55",
+    "hookAction": "SHOW",
+    "hookDemo": "Display a diagram of an elliptical planetary orbit around the Sun located at one focus.",
+    "hookAsk": "Why does a planet speed up when it moves closer to the Sun and slow down when further away according to Kepler's second law?",
+    "streamTitle": "Mass vs Weight Classification",
+    "streamDo": "Observe physical parameters: Measured in kg, Measured in N, Scalar, Vector, Constant everywhere, Changes with location.",
+    "streamTask": "Classify physical parameters under Mass versus Weight categories.",
+    "mountainTitle": "Universal Gravitation Formula Calculation",
+    "mountainTask": "Calculate the gravitational force of attraction between Earth (M = 6 x 10^24 kg) and an 100 kg object on its surface (R = 6.4 x 10^6 m, G = 6.67 x 10^-11 N m^2/kg^2).",
+    "skyTitle": "Escape Velocity Derivation",
+    "skyTask": "Derive the mathematical expression for Escape Velocity v_esc = sqrt(2GM/R) = sqrt(2gr) using conservation of energy at Earth's surface and infinity.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Kepler's Laws", "Universal Gravitational Constant (G)", "Acceleration due to Gravity (g)", "Free Fall", "Escape Velocity"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Confusing the Universal Gravitational Constant G (constant everywhere) with local acceleration due to gravity g (varies with altitude/depth).",
+          "correctionTrigger": "Ask: 'Does the strength of Earth's gravity g change at the top of Mt. Everest? Does G change anywhere in the universe?'"
+        }
+      ],
+      "crossCurricularLinks": [
+        "Astronomy & Orbital Mechanics: Planetary Motion (Applying Kepler's elliptical area laws to satellite trajectories)"
+      ]
+    },
+    "metaSscCode": "S1001",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "Secondary Science LO [NCERT Secondary LO Document p. 40]",
+    "metaNcertDesc": "Calculates gravitational forces, analyzes variations in acceleration due to gravity, and derives escape velocity.",
+    "metaNishthaText": "NISHTHA Module 8: Use spring balances to demonstrate weight variation concepts."
+  },
+  {
+    "id": "g10_s1_2",
+    "grade": "10",
+    "subject": "science1",
+    "fullTitle": "Chapter 2: Periodic Classification of Elements",
+    "loDesc": "Traces history of periodic classification (Dobereiner Triads, Newlands Octaves, Mendeleev Periodic Table) and analyzes Modern Periodic Table trends (valency, atomic radius, metallic-nonmetallic character).",
+    "pdfPage": 55,
+    "docPage": 40,
+    "pdfUrl": "https://ncert.nic.in/pdf/notice/learning_outcomes.pdf#page=55",
+    "hookAction": "SHOW",
+    "hookDemo": "Display Modern Periodic Table showing s, p, d, and f blocks with highlighted metalloid zig-zag line.",
+    "hookAsk": "Why does atomic radius decrease as we move from left to right across a period despite adding electrons?",
+    "streamTitle": "Dobereiner's Triad Verification",
+    "streamDo": "Observe atomic masses: Lithium (6.9), Sodium (23.0), Potassium (39.1).",
+    "streamTask": "Verify if the atomic mass of Sodium equals the arithmetic mean of Lithium and Potassium.",
+    "mountainTitle": "Periodic Trend Explanation",
+    "mountainTask": "Explain how Metallic Character changes across a Period (left to right) and down a Group (top to bottom) in the Modern Periodic Table, stating reasons.",
+    "skyTitle": "Mendeleev vs Modern Periodic Table Synthesis",
+    "skyTask": "Compare Mendeleev's Periodic Law (based on Atomic Mass) with Moseley's Modern Periodic Law (based on Atomic Number) and state how anomalies like isotopes were resolved.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Atomic Radius", "Effective Nuclear Charge", "Valency & Valence Shell", "Metallic Character", "Electronegativity"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Believing atomic radius increases across a period because additional electrons are being added.",
+          "correctionTrigger": "Ask: 'Are the new electrons added to the same shell? What happens to nuclear charge attraction pull?' Explain radius contraction."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Inorganic Chemistry: Reactivity Trends (Predicting chemical bonding behavior based on group numbers and periodic trends)"
+      ]
+    },
+    "metaSscCode": "S1002",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "Secondary Science LO [NCERT Secondary LO Document p. 40]",
+    "metaNcertDesc": "Analyzes periodic classification history and investigates trends in the Modern Periodic Table.",
+    "metaNishthaText": "NISHTHA Module 8: Provide periodic table charts for students to map shell numbers across periods."
+  },
+  {
+    "id": "g10_s1_3",
+    "grade": "10",
+    "subject": "science1",
+    "fullTitle": "Chapter 3: Chemical Reactions and Equations",
+    "loDesc": "Balances chemical equations, classifies reaction types (Combination, Decomposition, Displacement, Double Displacement), and investigates Exothermic/Endothermic reactions, Rate of Reaction, Oxidation, Reduction, and Redox processes.",
+    "pdfPage": 55,
+    "docPage": 40,
+    "pdfUrl": "https://ncert.nic.in/pdf/notice/learning_outcomes.pdf#page=55",
+    "hookAction": "DEMO",
+    "hookDemo": "Dip a clean shiny iron nail into blue Copper Sulfate (CuSO4) solution in a test tube for 15 minutes.",
+    "hookAsk": "Why does the blue solution turn pale green and a reddish-brown coating form on the iron nail?",
+    "streamTitle": "Reaction Type Sorting",
+    "streamDo": "Observe reactions: CaO + H2O -> Ca(OH)2, 2HgO -> 2Hg + O2, Zn + CuSO4 -> ZnSO4 + Cu, AgNO3 + NaCl -> AgCl + NaNO3.",
+    "streamTask": "Classify each given reaction as Combination, Decomposition, Displacement, or Double Displacement.",
+    "mountainTitle": "Chemical Equation Balancing Steps",
+    "mountainTask": "Balance the chemical equation step-by-step: Fe + H2O -> Fe3O4 + H2.",
+    "skyTitle": "Redox Reaction Analysis",
+    "skyTask": "In the reaction CuO + H2 -> Cu + H2O, identify which substance is Oxidized, which is Reduced, the Oxidizing Agent, and the Reducing Agent.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Reactants & Products", "Balanced Equation", "Displacement Reaction", "Redox Process", "Oxidizing / Reducing Agent"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Confusing the substance oxidized with the oxidizing agent during redox reactions.",
+          "correctionTrigger": "Ask: 'If hydrogen gains oxygen (is oxidized), who provided that oxygen?' The provider is the Oxidizing Agent."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Industrial Electrochemistry & Metallurgy: Corrosion Control (Analyzing displacement and oxidation-reduction mechanisms)"
+      ]
+    },
+    "metaSscCode": "S1003",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "Secondary Science LO [NCERT Secondary LO Document p. 40]",
+    "metaNcertDesc": "Balances chemical equations, classifies reaction types, and identifies redox mechanisms.",
+    "metaNishthaText": "NISHTHA Module 8: Perform safe displacement reaction experiments in class using zinc granules and copper sulfate."
+  },
+  {
+    "id": "g10_s1_4",
+    "grade": "10",
+    "subject": "science1",
+    "fullTitle": "Chapter 4: Effects of Electric Current",
+    "loDesc": "Understands heating effect of electric current (Joule's Law H = I^2 R t), electric power (P = VI), magnetic effect of electric current, Right Hand Thumb Rule, Fleming's Left Hand Rule, Fleming's Right Hand Rule, Electric Motor, and Electric Generator.",
+    "pdfPage": 55,
+    "docPage": 40,
+    "pdfUrl": "https://ncert.nic.in/pdf/notice/learning_outcomes.pdf#page=55",
+    "hookAction": "SHOW",
+    "hookDemo": "Display schematic cross-sections of an Electric Motor vs an Electric Generator.",
+    "hookAsk": "What is the key difference between an Electric Motor (converts Electrical to Mechanical) and a Generator (converts Mechanical to Electrical)?",
+    "streamTitle": "Hand Rule Matching Practice",
+    "streamDo": "Observe rules: Right Hand Thumb Rule, Fleming's Left Hand Rule, Fleming's Right Hand Rule.",
+    "streamTask": "Match rules with their applications (Direction of Magnetic Field around straight wire, Direction of Force on conductor in magnetic field, Direction of Induced Current).",
+    "mountainTitle": "Joule's Heating Effect Calculation",
+    "mountainTask": "An electric iron of resistance 20 ohms takes a current of 5 A. Calculate the heat developed in 30 seconds using H = I^2 * R * t.",
+    "skyTitle": "Electric Motor Mechanism Explanation",
+    "skyTask": "Draw a schematic diagram of a DC Electric Motor and explain the role of the Split Ring Commutator in reversing current direction every half rotation.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Joule's Law of Heating", "Fleming's Left/Right Hand Rules", "Commutator", "Electromagnetic Induction", "Overloading & Short Circuit"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Mixing up Fleming's Left Hand Rule (used for Electric Motors) with Fleming's Right Hand Rule (used for Electric Generators).",
+          "correctionTrigger": "Ask: 'Are you supplying current to get motion (Left Hand - Motor) or supplying motion to get induced current (Right Hand - Generator)?'"
+        }
+      ],
+      "crossCurricularLinks": [
+        "Electrical Engineering: Power Generation (Understanding industrial generator induction and split-ring commutator dynamics)"
+      ]
+    },
+    "metaSscCode": "S1004",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "Secondary Science LO [NCERT Secondary LO Document p. 40]",
+    "metaNcertDesc": "Calculates Joule heating, analyzes electromagnetic induction, and explains motor/generator mechanisms.",
+    "metaNishthaText": "NISHTHA Module 8: Build simple motor prototypes using enamel copper wire, magnets, and dry cell batteries."
+  },
+  {
+    "id": "g10_s1_5",
+    "grade": "10",
+    "subject": "science1",
+    "fullTitle": "Chapter 5: Heat",
+    "loDesc": "Investigates Latent Heat (Melting and Vaporization), Anomalous Behavior of Water using Hope's Apparatus, Dew Point, Humidity (Relative Humidity), and Specific Heat Capacity (Principle of Heat Exchange Q = m c delta T).",
+    "pdfPage": 55,
+    "docPage": 40,
+    "pdfUrl": "https://ncert.nic.in/pdf/notice/learning_outcomes.pdf#page=55",
+    "hookAction": "DEMO",
+    "hookDemo": "Display a graph of temperature versus time as ice at 0°C is heated continuously until it turns into steam at 100°C.",
+    "hookAsk": "Why does the temperature remain constant at 0°C during melting and 100°C during boiling despite continuous heat supply?",
+    "streamTitle": "Latent Heat Definition Sorting",
+    "streamDo": "Observe terms: Specific Latent Heat of Fusion, Specific Latent Heat of Vaporization, Specific Heat Capacity.",
+    "streamTask": "Match given terms with their correct SI units (J/kg vs J/kg.°C) and operational definitions.",
+    "mountainTitle": "Hope's Apparatus Explanation",
+    "mountainTask": "Explain how Hope's Apparatus demonstrates the anomalous expansion of water between 0°C and 4°C, noting freezing sequence from top to bottom.",
+    "skyTitle": "Calorimetry Principle Problem Solving",
+    "skyTask": "A solid sphere of mass 100 g at 100°C is dropped into a calorimeter containing 200 g water at 20°C. Calculate final equilibrium temperature using Heat Lost = Heat Gained.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Latent Heat of Fusion/Vaporization", "Anomalous Expansion (0-4°C)", "Relative Humidity", "Dew Point", "Calorimetry"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Believing that supplying heat during a phase change (like ice melting at 0°C) must always increase the temperature.",
+          "correctionTrigger": "Ask: 'Where is the absorbed heat energy going during melting?' Explain breaking of molecular intermolecular bonds."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Meteorology & Environmental Physics: Aquatic Survival (Explaining marine life survival in frozen lakes via 4°C water density maximum)"
+      ]
+    },
+    "metaSscCode": "S1005",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "Secondary Science LO [NCERT Secondary LO Document p. 40]",
+    "metaNcertDesc": "Investigates latent heat, anomalous expansion of water, and calculates heat exchange using calorimetry.",
+    "metaNishthaText": "NISHTHA Module 8: Use Hope's apparatus or ice-salt freezing mixture demonstrations in class."
+  },
+  {
+    "id": "g10_s1_6",
+    "grade": "10",
+    "subject": "science1",
+    "fullTitle": "Chapter 6: Refraction of Light",
+    "loDesc": "Verifies Refraction Laws, Snell's Law (sin i / sin r = n), Refractive Index, Absolute Refractive Index, Atmospheric Refraction (twinkling stars, advanced sunrise), Dispersion of Light through prism, and Total Internal Reflection.",
+    "pdfPage": 55,
+    "docPage": 40,
+    "pdfUrl": "https://ncert.nic.in/pdf/notice/learning_outcomes.pdf#page=55",
+    "hookAction": "DEMO",
+    "hookDemo": "Place a glass slab on a paper sheet and shine a ray of light obliquely through one side using a laser pointer.",
+    "hookAsk": "Why does the light ray bend towards the normal when entering glass from air and bend away from the normal when exiting back into air?",
+    "streamTitle": "Refraction Rule Identification",
+    "streamDo": "Observe light ray passing: Rare to Denser medium, Denser to Rarer medium, Normal incidence (i = 0°).",
+    "streamTask": "State direction of bending relative to normal for each given light ray pathway.",
+    "mountainTitle": "Snell's Law & Refractive Index Calculation",
+    "mountainTask": "Calculate the refractive index of glass relative to air if speed of light in air is 3 x 10^8 m/s and speed in glass is 2 x 10^8 m/s (n = v1 / v2).",
+    "skyTitle": "Dispersion & Rainbow Formation Synthesis",
+    "skyTask": "Explain how a water droplet acts as a tiny glass prism to cause dispersion, total internal reflection, and refraction forming a natural rainbow.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Snell's Law (sin i / sin r)", "Absolute Refractive Index", "Atmospheric Refraction", "Dispersion", "Total Internal Reflection"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Thinking that twinkling of stars is caused by intrinsic fluctuations in star brightness rather than atmospheric air density shifts.",
+          "correctionTrigger": "Ask: 'Do planets twinkle? Why does point-source star light refract through changing air layers?'"
+        }
+      ],
+      "crossCurricularLinks": [
+        "Fiber Optics & Communication Technology: Optical Transmission (Applying total internal reflection to high-speed glass fiber cables)"
+      ]
+    },
+    "metaSscCode": "S1006",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "Secondary Science LO [NCERT Secondary LO Document p. 40]",
+    "metaNcertDesc": "Verifies Snell's law, calculates refractive index, and explains dispersion and atmospheric refraction.",
+    "metaNishthaText": "NISHTHA Module 8: Provide glass slabs, pins, and protractor sheets for student Snell's law plotting."
+  },
+  {
+    "id": "g10_s1_7",
+    "grade": "10",
+    "subject": "science1",
+    "fullTitle": "Chapter 7: Lenses",
+    "loDesc": "Constructs ray diagrams for Convex and Concave lenses, applies Lens Formula (1/f = 1/v - 1/u), Magnification (m = v/u), Power of Lens (P = 1/f in meters, Diopters), Human Eye anatomy, Accommodation, and Vision Defects (Myopia, Hypermetropia, Presbyopia).",
+    "pdfPage": 55,
+    "docPage": 40,
+    "pdfUrl": "https://ncert.nic.in/pdf/notice/learning_outcomes.pdf#page=55",
+    "hookAction": "SHOW",
+    "hookDemo": "Display ray diagrams comparing Myopic eye (image formed in front of retina) corrected by Concave lens vs Hypermetropic eye corrected by Convex lens.",
+    "hookAsk": "Why does a concave lens correct near-sightedness (myopia) while a convex lens corrects far-sightedness (hypermetropia)?",
+    "streamTitle": "Vision Defect & Correction Matching",
+    "streamDo": "Observe defects: Myopia (Near-sightedness), Hypermetropia (Far-sightedness), Presbyopia (Old age vision loss).",
+    "streamTask": "Match vision defects with their corrective lens types (Concave, Convex, Bifocal).",
+    "mountainTitle": "Lens Formula & Power Problem Solving",
+    "mountainTask": "A convex lens has a focal length of +20 cm (+0.2 m). Calculate its Optical Power in Diopters (P = 1/f) and find image distance if object is at 30 cm.",
+    "skyTitle": "Compound Microscope Ray Diagram Construction",
+    "skyTask": "Construct a precise ray diagram showing image formation through objective lens and eyepiece lens in a Compound Microscope.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Optical Center (O)", "Principal Focus (F1, F2)", "Lens Formula (1/f = 1/v - 1/u)", "Optical Power (Diopter D)", "Myopia vs Hypermetropia"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Confusing the sign in the Lens Formula (1/f = 1/v - 1/u) with the Mirror Formula (1/f = 1/v + 1/u).",
+          "correctionTrigger": "Ask: 'Is there a minus sign before 1/u in the lens formula?' Remind that Lens Formula uses subtraction (1/v - 1/u)."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Optometry & Ophthalmology: Eye Health (Calculating spectacle diopter powers to correct focal convergence defects)"
+      ]
+    },
+    "metaSscCode": "S1007",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "Secondary Science LO [NCERT Secondary LO Document p. 40]",
+    "metaNcertDesc": "Constructs lens ray diagrams, solves optics problems using lens formula, and analyzes eye vision defects.",
+    "metaNishthaText": "NISHTHA Module 8: Use optical benches with convex lenses and screen boards to map focal points."
+  },
+  {
+    "id": "g10_s1_8",
+    "grade": "10",
+    "subject": "science1",
+    "fullTitle": "Chapter 8: Metallurgy",
+    "loDesc": "Understands physical/chemical properties of metals and non-metals, Reactivity Series of metals, Ionic Compounds, Extraction of Metals (Concentration, Roasting, Calcination, Reduction, Refining), and Corrosion prevention (Galvanization, Tinning, Anodizing, Alloying).",
+    "pdfPage": 55,
+    "docPage": 40,
+    "pdfUrl": "https://ncert.nic.in/pdf/notice/learning_outcomes.pdf#page=55",
+    "hookAction": "SHOW",
+    "hookDemo": "Display Reactivity Series chart ranking metals from Potassium (K - most reactive) down to Gold (Au - least reactive).",
+    "hookAsk": "Why are highly reactive metals like Sodium and Aluminium extracted by electrolysis while moderately reactive metals like Zinc are extracted by carbon reduction?",
+    "streamTitle": "Concentration Method Classification",
+    "streamDo": "Observe ore separation processes: Hydraulic separation, Wilfley table, Froth flotation, Magnetic separation.",
+    "streamTask": "Classify separation methods based on physical principle used (Density difference, Hydrophobic nature, Magnetic property).",
+    "mountainTitle": "Roasting vs Calcination Comparison",
+    "mountainTask": "Differentiate Roasting (heating sulfide ores in excess air) from Calcination (heating carbonate ores in limited air) with balanced chemical equations.",
+    "skyTitle": "Extraction of Aluminium (Hall-Heroult Process) Analysis",
+    "skyTask": "Draw an electrolytic cell diagram for the extraction of Aluminium from purified alumina and write anode and cathode reaction equations.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Reactivity Series", "Gangue & Concentration", "Roasting vs Calcination", "Electrolytic Reduction", "Galvanization / Anodizing"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Confusing Roasting (used for sulfide ores in excess air) with Calcination (used for carbonate ores in limited air).",
+          "correctionTrigger": "Ask: 'Does a carbonate ore already contain oxygen in CO3?' Carbonates need limited air (Calcination); sulfides need excess air (Roasting)."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Industrial Materials & Chemistry: Ore Processing (Analyzing Hall-Heroult aluminium extraction and anti-corrosion galvanization)"
+      ]
+    },
+    "metaSscCode": "S1008",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "Secondary Science LO [NCERT Secondary LO Document p. 40]",
+    "metaNcertDesc": "Analyzes reactivity series, metallurgical extraction processes, and corrosion prevention techniques.",
+    "metaNishthaText": "NISHTHA Module 8: Perform metal reactivity displacement tests in test tubes with zinc, iron, and copper."
+  },
+  {
+    "id": "g10_s1_9",
+    "grade": "10",
+    "subject": "science1",
+    "fullTitle": "Chapter 9: Carbon Compounds",
+    "loDesc": "Understands Covalent bonding in carbon, Saturated vs Unsaturated Hydrocarbons (Alkanes, Alkenes, Alkynes), Functional Groups, Homologous Series, IUPAC Nomenclature, Chemical Properties of Carbon Compounds, and Ethanol/Ethanoic Acid properties.",
+    "pdfPage": 55,
+    "docPage": 40,
+    "pdfUrl": "https://ncert.nic.in/pdf/notice/learning_outcomes.pdf#page=55",
+    "hookAction": "SHOW",
+    "hookDemo": "Display structural formulas for Methane (CH4), Ethene (C2H4), and Ethyne (C2H2).",
+    "hookAsk": "What is the structural difference between Single (Alkane), Double (Alkene), and Triple (Alkyne) carbon-carbon covalent bonds?",
+    "streamTitle": "Functional Group Matching",
+    "streamDo": "Observe functional groups: -OH, -CHO, -COOH, -CO-, -Cl.",
+    "streamTask": "Match functional groups with their IUPAC class names (Alcohol, Aldehyde, Carboxylic Acid, Ketone, Haloalkane).",
+    "mountainTitle": "IUPAC Nomenclature Practice",
+    "mountainTask": "Write structural formulas and IUPAC names for: CH3-CH2-OH, CH3-COOH, and CH3-CH2-CH2-CHO.",
+    "skyTitle": "Esterification & Saponification Reactions",
+    "skyTask": "Write balanced chemical equations for Esterification (Ethanoic acid + Ethanol in presence of acid catalyst -> Ethyl ethanoate) and its reversal by Saponification.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Saturated vs Unsaturated", "Functional Group (-OH, -COOH, -CHO)", "Homologous Series", "IUPAC Nomenclature", "Esterification & Saponification"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Counting only carbon atoms in the main chain while forgetting the carbon atom inside functional groups like -CHO or -COOH.",
+          "correctionTrigger": "Ask: 'In CH3-COOH, how many TOTAL carbon atoms are in the chain?' Count carbon in -COOH to get ethanoic acid (2 carbons)."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Organic & Industrial Chemistry: Polymer & Soap Manufacturing (Tracing esterification, saponification, and alcoholic fermentation)"
+      ]
+    },
+    "metaSscCode": "S1009",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "Secondary Science LO [NCERT Secondary LO Document p. 40]",
+    "metaNcertDesc": "Understands hydrocarbon classification, applies IUPAC nomenclature, and analyzes carbon compound reactions.",
+    "metaNishthaText": "NISHTHA Module 8: Use ball-and-stick molecular model kits to construct alkane/alkene chains."
+  },
+  {
+    "id": "g10_s1_10",
+    "grade": "10",
+    "subject": "science1",
+    "fullTitle": "Chapter 10: Space Missions",
+    "loDesc": "Understands necessity and benefits of space missions, Artificial Satellites, Satellite Launch Vehicles (SLV/PSLV), Orbits of Artificial Satellites (LEO, MEO, GEO), Orbital Velocity, and Moon/Mars Exploration Missions.",
+    "pdfPage": 55,
+    "docPage": 40,
+    "pdfUrl": "https://ncert.nic.in/pdf/notice/learning_outcomes.pdf#page=55",
+    "hookAction": "SHOW",
+    "hookDemo": "Display orbit diagrams showing High Earth Orbit (GEO - 35,786 km), Medium Earth Orbit (MEO - 2,000 to 35,786 km), and Low Earth Orbit (LEO - 180 to 2,000 km).",
+    "hookAsk": "Why must a geostationary communication satellite be placed in High Earth Orbit at 35,786 km above Earth's equator?",
+    "streamTitle": "Satellite Function Classification",
+    "streamDo": "Observe satellite types: INSAT/GSAT, IRS, NAVIC, Hubble Space Telescope.",
+    "streamTask": "Classify satellites based on function (Communication, Earth Observation / Remote Sensing, Navigation, Space Science).",
+    "mountainTitle": "Critical Velocity Formula Calculation",
+    "mountainTask": "Calculate critical orbital velocity v_c = sqrt(GM / (R+h)) for a satellite orbiting at height h above Earth's surface.",
+    "skyTitle": "Multi-Stage Rocket Launch Dynamics Analysis",
+    "skyTask": "Explain why satellite launch vehicles (like ISRO PSLV) use multi-stage rocket systems that drop empty fuel tanks sequentially to reduce total vehicle mass.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Geostationary Orbit (GEO)", "Low Earth Orbit (LEO)", "Critical Velocity v_c = √(GM/(R+h))", "Launch Vehicle (PSLV)", "Space Debris"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Believing artificial satellites float in space because there is zero gravity at LEO altitudes.",
+          "correctionTrigger": "Ask: 'Is gravity still pulling the International Space Station at 400 km?' Gravity provides centripetal force for continuous fall."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Aerospace & Telecommunications: ISRO Satellite Missions (Analyzing satellite orbit heights, NAVIC GPS navigation, and rocket staging)"
+      ]
+    },
+    "metaSscCode": "S1010",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "Secondary Science LO [NCERT Secondary LO Document p. 40]",
+    "metaNcertDesc": "Analyzes space mission mechanics, artificial satellite orbits, and rocket launch vehicle dynamics.",
+    "metaNishthaText": "NISHTHA Module 8: Conduct water rocket or balloon rocket launch demonstrations to illustrate momentum thrust."
+  }
+]

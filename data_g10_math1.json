@@ -1,0 +1,224 @@
+[
+  {
+    "id": "g10_m1_1",
+    "grade": "10",
+    "subject": "math1",
+    "fullTitle": "Chapter 1: Linear Equations in Two Variables",
+    "loDesc": "Solves simultaneous linear equations using Elimination, Substitution, Determinant (Cramer's Rule), and Graphical methods; applies linear equations to solve real-world word problems.",
+    "pdfPage": 95,
+    "docPage": 80,
+    "pdfUrl": "https://ncert.nic.in/pdf/notice/learning_outcomes.pdf#page=95",
+    "hookAction": "SHOW",
+    "hookDemo": "Display a 2x2 determinant matrix | a  b | / | c  d | on the board.",
+    "hookAsk": "How does cross-multiplying (ad - bc) calculate the determinant value used in Cramer's Rule?",
+    "streamTitle": "Determinant Calculation Practice",
+    "streamDo": "Observe 2x2 determinants: | 5  3 | / | 2  4 |.",
+    "streamTask": "Calculate the determinant value (ad - bc) for 3 given matrices.",
+    "mountainTitle": "Cramer's Rule Simultaneous Solving",
+    "mountainTask": "Solve simultaneous equations 3x + y = 7 and 2x + 11y = 31 using Cramer's Rule (D, Dx, Dy).",
+    "skyTitle": "Upstream/Downstream Boat Speed Problem",
+    "skyTask": "A boat travels 30 km upstream and 44 km downstream in 10 hours. Formulate linear equations to find the speed of the stream and boat in still water.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Determinant (D, Dx, Dy)", "Cramer's Rule", "Consistent System", "Upstream vs Downstream Speed"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Swapping the cross-multiplication order in 2x2 determinants (subtracting ad - bc in reverse as bc - ad).",
+          "correctionTrigger": "Ask: 'Which diagonal product comes first?' Always multiply top-left to bottom-right (ad) first before subtracting (bc)."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Physics & Kinematics: Fluid Dynamics (Formulating relative velocity equations for upstream and downstream boat motion)"
+      ]
+    },
+    "metaSscCode": "M1001",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "Secondary Mathematics LO [NCERT Secondary LO Document p. 80]",
+    "metaNcertDesc": "Solves linear equations using determinants (Cramer's Rule) and graphs, applying them to word problems.",
+    "metaNishthaText": "NISHTHA Module 6: Use graph paper overlays to verify point of intersection for simultaneous equations."
+  },
+  {
+    "id": "g10_m1_2",
+    "grade": "10",
+    "subject": "math1",
+    "fullTitle": "Chapter 2: Quadratic Equations",
+    "loDesc": "Solves quadratic equations ax^2 + bx + c = 0 using Factorization, Completing the Square, and Quadratic Formula; analyzes nature of roots using Discriminant (b^2 - 4ac).",
+    "pdfPage": 95,
+    "docPage": 80,
+    "pdfUrl": "https://ncert.nic.in/pdf/notice/learning_outcomes.pdf#page=95",
+    "hookAction": "SHOW",
+    "hookDemo": "Write the quadratic formula x = [-b +- sqrt(b^2 - 4ac)] / 2a alongside the discriminant symbol delta.",
+    "hookAsk": "What happens to the roots when the discriminant (b^2 - 4ac) is negative versus zero?",
+    "streamTitle": "Discriminant & Nature of Roots Sorting",
+    "streamDo": "Observe discriminant values: Delta = 25, Delta = 0, Delta = -12.",
+    "streamTask": "Classify roots as Real and Unequal, Real and Equal, or Not Real based on Delta values.",
+    "mountainTitle": "Quadratic Formula Problem Solving",
+    "mountainTask": "Solve quadratic equation 2x^2 + 13x + 15 = 0 using the quadratic formula x = [-b +- sqrt(b^2 - 4ac)] / 2a.",
+    "skyTitle": "Constructing Quadratic Equation from Roots",
+    "skyTask": "Construct a quadratic equation x^2 - (alpha + beta)x + alpha*beta = 0 given roots alpha = 2 + sqrt(3) and beta = 2 - sqrt(3).",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Discriminant (Δ)", "Nature of Roots", "Completing the Square", "Sum & Product of Roots (α, β)"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Dividing only the square root portion by 2a in the quadratic formula instead of dividing the entire expression (-b ± √Δ).",
+          "correctionTrigger": "Ask: 'Does the fraction bar extend under -b as well?' Emphasize whole-numerator division by 2a."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Physics & Engineering: Parabolic Trajectories (Modeling projectile flight times and maximum height using quadratic equations)"
+      ]
+    },
+    "metaSscCode": "M1002",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "Secondary Mathematics LO [NCERT Secondary LO Document p. 80]",
+    "metaNcertDesc": "Solves quadratic equations using algebraic methods and analyzes the nature of roots.",
+    "metaNishthaText": "NISHTHA Module 6: Use algebra tiles to demonstrate visual completing-the-square geometric representations."
+  },
+  {
+    "id": "g10_m1_3",
+    "grade": "10",
+    "subject": "math1",
+    "fullTitle": "Chapter 3: Arithmetic Progression",
+    "loDesc": "Identifies Arithmetic Progressions (AP), finds nth term t_n = a + (n-1)d, calculates sum of first n terms S_n = (n/2)[2a + (n-1)d], and solves daily sequence word problems.",
+    "pdfPage": 95,
+    "docPage": 80,
+    "pdfUrl": "https://ncert.nic.in/pdf/notice/learning_outcomes.pdf#page=95",
+    "hookAction": "SHOW",
+    "hookDemo": "Display number sequences: 2, 5, 8, 11... vs 3, 6, 12, 24...",
+    "hookAsk": "Why is 2, 5, 8, 11 classified as an Arithmetic Progression (constant common difference) while 3, 6, 12, 24 is not?",
+    "streamTitle": "Common Difference Identification",
+    "streamDo": "Observe sequences: 12, 8, 4, 0, -4...",
+    "streamTask": "Identify first term 'a' and common difference 'd' for 3 given sequence lists.",
+    "mountainTitle": "Nth Term & Sum Formula Calculation",
+    "mountainTask": "Find the 21st term (t_21) and sum of first 20 terms (S_20) for the AP: 5, 10, 15, 20...",
+    "skyTitle": "AP Word Problem Synthesis",
+    "skyTask": "A man borrows Rs 8,000 and agrees to repay with total interest Rs 1,360 in 12 monthly installments, each installment being Rs 40 less than the preceding one. Find first and last installments.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["First Term (a)", "Common Difference (d)", "Nth Term (t_n)", "Sum of n Terms (S_n)"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Confusing the term number position 'n' with the actual value of the term 't_n'.",
+          "correctionTrigger": "Ask: 'Is n the 15th seat in a row or the person sitting in that seat?' Discouple term index from term value."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Financial Math & Economics: Installment Schedules (Calculating structured loan repayment and savings accumulation sequences)"
+      ]
+    },
+    "metaSscCode": "M1003",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "Secondary Mathematics LO [NCERT Secondary LO Document p. 80]",
+    "metaNcertDesc": "Derives nth term and sum formulas for Arithmetic Progressions and applies them to contextual problems.",
+    "metaNishthaText": "NISHTHA Module 6: Use stair-step blocks to demonstrate AP constant common difference visually."
+  },
+  {
+    "id": "g10_m1_4",
+    "grade": "10",
+    "subject": "math1",
+    "fullTitle": "Chapter 4: Financial Planning",
+    "loDesc": "Understands Goods and Services Tax (GST, CGST, SGST, Tax Invoice, Input Tax Credit - ITC) and Stock Market investing (Shares, FV, MV, Dividend, Mutual Funds, NAV, Systematic Investment Plan - SIP).",
+    "pdfPage": 95,
+    "docPage": 80,
+    "pdfUrl": "https://ncert.nic.in/pdf/notice/learning_outcomes.pdf#page=95",
+    "hookAction": "SHOW",
+    "hookDemo": "Display a GST Tax Invoice showing Taxable Amount Rs 1,000, CGST 9%, SGST 9%, and Total Amount Rs 1,180.",
+    "hookAsk": "Why is the total GST split equally between the Central Government (CGST) and State Government (SGST)?",
+    "streamTitle": "Input Tax Credit (ITC) Calculation",
+    "streamDo": "Observe GST transaction: Output Tax paid by dealer = Rs 12,000; Input Tax paid on purchase = Rs 9,500.",
+    "streamTask": "Calculate the net Payable GST = Output Tax - Input Tax Credit (ITC).",
+    "mountainTitle": "Share Market Return Calculation",
+    "mountainTask": "A person buys 50 shares of Face Value (FV) Rs 100 at Market Value (MV) Rs 120. Company declares 15% dividend. Calculate total dividend income and rate of return on investment.",
+    "skyTitle": "Mutual Fund NAV & Brokerage Analysis",
+    "skyTask": "Investigate Mutual Fund NAV fluctuations and calculate total units allotted when Rs 12,000 is invested via SIP at an NAV of Rs 40 with 0.5% brokerage charge.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Input Tax Credit (ITC)", "Face Value vs Market Value", "Dividend %", "Net Asset Value (NAV)", "SIP"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Calculating dividend payout percentage on the Market Value (MV) of a share instead of its Face Value (FV).",
+          "correctionTrigger": "Ask: 'Does a company pay dividends based on original registered Face Value or fluctuating stock market price?' Always use FV."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Commerce & Taxation: Business Accounting (Analyzing GST invoices, ITC chains, and equity market investment portfolios)"
+      ]
+    },
+    "metaSscCode": "M1004",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "Secondary Mathematics LO [NCERT Secondary LO Document p. 80]",
+    "metaNcertDesc": "Applies financial literacy concepts including GST tax invoices, Input Tax Credit, shares, and mutual funds.",
+    "metaNishthaText": "NISHTHA Module 6: Use authentic tax invoices and stock share certificates for practical classroom analysis."
+  },
+  {
+    "id": "g10_m1_5",
+    "grade": "10",
+    "subject": "math1",
+    "fullTitle": "Chapter 5: Probability",
+    "loDesc": "Defines random experiments, sample space S, sample points n(S), events, and calculates theoretical probability of events P(A) = n(A) / n(S) for coins, dice, and playing cards.",
+    "pdfPage": 95,
+    "docPage": 80,
+    "pdfUrl": "https://ncert.nic.in/pdf/notice/learning_outcomes.pdf#page=95",
+    "hookAction": "DEMO",
+    "hookDemo": "Toss two 1-rupee coins simultaneously on the desk in front of the class.",
+    "hookAsk": "What is the sample space S, and what is the probability of getting AT LEAST one Head?",
+    "streamTitle": "Sample Space & Sample Points Practice",
+    "streamDo": "Observe experiments: Tossing 2 coins, Rolling a 6-sided die, Drawing a card from a 52-card deck.",
+    "streamTask": "Write down sample space S and sample points count n(S) for given experiments.",
+    "mountainTitle": "Two Dice Probability Calculation",
+    "mountainTask": "Two 6-sided dice are rolled simultaneously. Find probability P(A) that the sum of digits on upper faces is a multiple of 5.",
+    "skyTitle": "Card Deck Event Probability Synthesis",
+    "skyTask": "A card is drawn at random from a well-shuffled 52-card deck. Calculate probability of getting: (i) A Red Face Card, (ii) An Ace.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Random Experiment", "Sample Space (S)", "Sample Points n(S)", "Probability P(A)"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Writing probability values greater than 1 or as negative numbers.",
+          "correctionTrigger": "Ask: 'Can an event occur more than 100% of the time?' Probability must strictly sit between 0 and 1 (0 ≤ P(A) ≤ 1)."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Genetics & Insurance Risk: Predictive Modeling (Applying probability ratios to genetic crosses and risk assessment)"
+      ]
+    },
+    "metaSscCode": "M1005",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "Secondary Mathematics LO [NCERT Secondary LO Document p. 80]",
+    "metaNcertDesc": "Determines sample space and calculates probability of random events.",
+    "metaNishthaText": "NISHTHA Module 6: Conduct real coin-tossing and dice-rolling experiments to compare theoretical vs experimental probability."
+  },
+  {
+    "id": "g10_m1_6",
+    "grade": "10",
+    "subject": "math1",
+    "fullTitle": "Chapter 6: Statistics",
+    "loDesc": "Calculates Mean of grouped data (Direct, Assumed Mean, and Step-Deviation methods), Median, Mode, and constructs and interprets Pie Charts.",
+    "pdfPage": 95,
+    "docPage": 80,
+    "pdfUrl": "https://ncert.nic.in/pdf/notice/learning_outcomes.pdf#page=95",
+    "hookAction": "SHOW",
+    "hookDemo": "Display a circular Pie Chart showing household budget expenditure split across categories (Food 40%, Rent 25%, Education 20%, Savings 15%).",
+    "hookAsk": "How do we convert percentage allocations into central angle degrees theta = (Component Value / Total) * 360°?",
+    "streamTitle": "Central Angle Calculation Practice",
+    "streamDo": "Observe expenditure data: Food = Rs 4,000 out of Total Rs 10,000 budget.",
+    "streamTask": "Calculate the central angle in degrees for the food sector on a pie chart.",
+    "mountainTitle": "Grouped Mode Calculation Formula",
+    "mountainTask": "Calculate the Mode for a grouped frequency distribution using formula Mode = L + [(f_1 - f_0) / (2f_1 - f_0 - f_2)] * h.",
+    "skyTitle": "Step-Deviation Method Mean Calculation",
+    "skyTask": "Calculate the mean daily wage for 50 factory workers from a grouped frequency table using the Step-Deviation method [Mean = A + (sum f_i*u_i / N) * g].",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Assumed Mean (A)", "Step-Deviation (u_i)", "Modal Class (f_1, f_0, f_2)", "Central Angle (θ)"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Identifying the Modal Class as the class with the highest class mark rather than the class with the maximum frequency.",
+          "correctionTrigger": "Ask: 'Does mode mean the largest number value or the most frequent occurrence?' Look for highest frequency f_1."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Data Analytics & Demographics: Sector Visualizations (Constructing central angle pie charts for economic resource allocation)"
+      ]
+    },
+    "metaSscCode": "M1006",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "Secondary Mathematics LO [NCERT Secondary LO Document p. 80]",
+    "metaNcertDesc": "Calculates measures of central tendency for grouped data and constructs pie charts.",
+    "metaNishthaText": "NISHTHA Module 6: Use protractors to construct accurate central angle sectors for pie charts."
+  }
+]

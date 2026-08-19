@@ -1,0 +1,557 @@
+[
+  {
+    "id": "g7_m_1",
+    "grade": "7",
+    "subject": "math",
+    "fullTitle": "Chapter 1: Integers",
+    "loDesc": "Applies properties of integers (closure, commutativity, associativity, and distributivity) to addition, subtraction, multiplication, and division; solves word problems involving elevation, temperature, and finances.",
+    "pdfPage": 87,
+    "docPage": 69,
+    "pdfUrl": "https://ncert.nic.in/pdf/publication/otherpublications/tilops101.pdf#page=87",
+    "hookAction": "SHOW",
+    "hookDemo": "Display a vertical thermometer scale showing -5°C in Leh and +35°C in Mumbai.",
+    "hookAsk": "What is the exact temperature difference between the two cities, and why do sub-zero values use negative signs?",
+    "streamTitle": "Integer Sign Rules Practice",
+    "streamDo": "Observe integer multiplication rules: (- * - = +) and (- * + = -).",
+    "streamTask": "Solve 5 arithmetic problems involving addition, subtraction, and multiplication of signed integers.",
+    "mountainTitle": "Distributive Property Application",
+    "mountainTask": "Use the distributive property a * (b + c) = a * b + a * c to simplify 26 * (-48) + (-48) * (-36) efficiently.",
+    "skyTitle": "Elevation & Submarine Depth Model",
+    "skyTask": "A submarine descends from sea level at 5 meters per minute. Write an integer equation to find its position after 12 minutes.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Additive Inverse", "Absolute Value", "Distributive Property", "Closure"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Students assume multiplying two negative numbers gives a negative result because adding two negative numbers gives a negative result.",
+          "correctionTrigger": "Ask: 'If taking away debt (+3) twice (+2) means gaining money (+6), what does taking away debt (-3) twice (-2) equal?' Use pattern multiplication steps."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Science: Geography & Meteorology (Tracking sub-zero temperatures and elevation above/below sea level)"
+      ]
+    },
+    "metaSscCode": "M701",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "M701 [NCERT LO Manual tilops101.pdf p. 69]",
+    "metaNcertDesc": "Applies properties of integers to solve arithmetic and contextual problems.",
+    "metaNishthaText": "NISHTHA Module 6: Use two-colored counters to physically demonstrate zero-pair cancelations."
+  },
+  {
+    "id": "g7_m_2",
+    "grade": "7",
+    "subject": "math",
+    "fullTitle": "Chapter 2: Fractions and Decimals",
+    "loDesc": "Performs multiplication and division of proper, improper, and mixed fractions; multiplies and divides decimals, solving word problems involving measurements.",
+    "pdfPage": 87,
+    "docPage": 69,
+    "pdfUrl": "https://ncert.nic.in/pdf/publication/otherpublications/tilops101.pdf#page=87",
+    "hookAction": "DEMO",
+    "hookDemo": "Fold a square paper sheet in half vertically, then in half horizontally.",
+    "hookAsk": "What fraction of the whole sheet is represented by the single overlapping corner square?",
+    "streamTitle": "Fraction Division & Reciprocal Rules",
+    "streamDo": "Observe reciprocal multiplication rules for fraction division: (a/b) / (c/d) = (a/b) * (d/c).",
+    "streamTask": "Solve 4 problems involving fraction multiplication and reciprocal division.",
+    "mountainTitle": "Decimal Division Word Problem",
+    "mountainTask": "A car covers a distance of 89.1 km in 2.2 hours. Calculate its average speed per hour using decimal division.",
+    "skyTitle": "Fractional Scaling Challenge",
+    "skyTask": "A recipe requires 2 and 3/4 cups of flour for 12 cupcakes. Calculate how much flour is needed for 30 cupcakes.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Reciprocal", "Improper Fraction", "Decimal Place Value", "Dividend"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Students believe that division always makes a number smaller (e.g. assuming 6 ÷ (1/2) = 3).",
+          "correctionTrigger": "Ask: 'How many half-pizzas can you cut out of 6 whole pizzas?' Demonstrate that dividing by a fraction counts parts."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Science: Physics & Chemistry (Measuring lab quantities and calculating speed in decimal units)"
+      ]
+    },
+    "metaSscCode": "M702",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "M702 [NCERT LO Manual tilops101.pdf p. 69]",
+    "metaNcertDesc": "Multiplies and divides fractions and decimals to solve everyday problems.",
+    "metaNishthaText": "NISHTHA Module 6: Use grid shading to visually demonstrate decimal multiplication (e.g. 0.3 x 0.4 = 0.12)."
+  },
+  {
+    "id": "g7_m_3",
+    "grade": "7",
+    "subject": "math",
+    "fullTitle": "Chapter 3: Data Handling",
+    "loDesc": "Calculates Mean, Median, Mode, and Range of raw data; constructs double bar graphs to compare two sets of data visually.",
+    "pdfPage": 87,
+    "docPage": 69,
+    "pdfUrl": "https://ncert.nic.in/pdf/publication/otherpublications/tilops101.pdf#page=87",
+    "hookAction": "SHOW",
+    "hookDemo": "Display test scores of 5 students: 12, 15, 15, 18, 20.",
+    "hookAsk": "Which score appears most frequently (Mode), and what score represents the exact middle position (Median)?",
+    "streamTitle": "Mean, Mode & Range Calculation",
+    "streamDo": "Observe raw data lists: 4, 7, 5, 4, 9, 4, 10.",
+    "streamTask": "Calculate the Arithmetic Mean, Mode, and Range for the given data set.",
+    "mountainTitle": "Double Bar Graph Interpretation",
+    "mountainTask": "Compare Term 1 and Term 2 marks across 5 subjects on a given double bar graph and identify the subject with maximum improvement.",
+    "skyTitle": "Probability & Scale Choice Challenge",
+    "skyTask": "A die is thrown once. Calculate the probability of getting a prime number, and explain how changing bar graph scale alters visual perception.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Arithmetic Mean", "Median", "Mode", "Double Bar Graph", "Probability"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Confusing Mean and Median, or calculating Median without arranging the raw data in ascending order first.",
+          "correctionTrigger": "Ask: 'What is the exact middle student in a line if they aren't standing in height order?' Emphasize sorting first."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Social Science: Demographics & Climate (Comparing monthly rainfall and temperature charts using double bar graphs)"
+      ]
+    },
+    "metaSscCode": "M703",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "M703 [NCERT LO Manual tilops101.pdf p. 69]",
+    "metaNcertDesc": "Collects, organizes, represents data using bar graphs, and calculates central tendencies.",
+    "metaNishthaText": "NISHTHA Module 6: Use student height/shoe size data collected live in class for statistical analysis."
+  },
+  {
+    "id": "g7_m_4",
+    "grade": "7",
+    "subject": "math",
+    "fullTitle": "Chapter 4: Simple Equations",
+    "loDesc": "Sets up algebraic equations from word statements; solves simple linear equations using systematic transposition methods.",
+    "pdfPage": 87,
+    "docPage": 69,
+    "pdfUrl": "https://ncert.nic.in/pdf/publication/otherpublications/tilops101.pdf#page=87",
+    "hookAction": "DEMO",
+    "hookDemo": "Place a balance scale with 2 identical unknown blocks and a 3g weight balancing 11g on the other side.",
+    "hookAsk": "How do we write this balance as an equation, and what operation isolates the variable block?",
+    "streamTitle": "One-Step Transposition Practice",
+    "streamDo": "Observe algebraic balance equations: x + 4 = 9.",
+    "streamTask": "Solve 4 single-step linear equations using addition, subtraction, multiplication, and division transposition.",
+    "mountainTitle": "Two-Step Equation Solving",
+    "mountainTask": "Solve 4m + 7 = 27 and verify the solution by substituting m back into the original equation.",
+    "skyTitle": "Age Puzzle Equation Formulation",
+    "skyTask": "Irfan says he has 7 marbles more than 5 times the marbles Parminder has. Irfan has 37 marbles. Formulate and solve the equation to find Parminder's marbles.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Variable", "Constant", "Transposition", "Linear Equation", "LHS/RHS"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Forgetting to change the arithmetic sign when transposing a term across the equal sign (e.g. writing x + 5 = 12 → x = 12 + 5).",
+          "correctionTrigger": "Ask: 'If you add 5 to balance a weight, how do you undo that addition on both pans?' Demonstrate sign inversion."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Science: Physics Formulas (Rearranging velocity and density equations v = d/t to isolate variables)"
+      ]
+    },
+    "metaSscCode": "M704",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "M704 [NCERT LO Manual tilops101.pdf p. 69]",
+    "metaNcertDesc": "Sets up and solves simple linear equations in one variable.",
+    "metaNishthaText": "NISHTHA Module 6: Use pan-balance models to demonstrate that performing the same operation on both sides preserves equality."
+  },
+  {
+    "id": "g7_m_5",
+    "grade": "7",
+    "subject": "math",
+    "fullTitle": "Chapter 5: Lines and Angles",
+    "loDesc": "Identifies complementary, supplementary, adjacent, vertically opposite angle pairs, and properties of angles formed by a transversal cutting parallel lines.",
+    "pdfPage": 87,
+    "docPage": 69,
+    "pdfUrl": "https://ncert.nic.in/pdf/publication/otherpublications/tilops101.pdf#page=87",
+    "hookAction": "SHOW",
+    "hookDemo": "Display two intersecting sticks forming an 'X' shape on the board.",
+    "hookAsk": "Why are the opposite angles formed by the intersection always equal, no matter how wide we open the sticks?",
+    "streamTitle": "Complementary vs Supplementary Sorting",
+    "streamDo": "Observe angle pairs (30° & 60°, 110° & 70°).",
+    "streamTask": "Classify angle pairs as complementary (sum = 90°) or supplementary (sum = 180°).",
+    "mountainTitle": "Transversal Angle Calculation",
+    "mountainTask": "Two parallel lines l and m are cut by transversal t. If one alternate interior angle is 65°, calculate all remaining 7 angles.",
+    "skyTitle": "Parallel Line Test Proof",
+    "skyTask": "Prove that if two lines are cut by a transversal such that interior angles on the same side sum to 180°, the lines must be parallel.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Complementary Angles", "Supplementary Angles", "Transversal", "Alternate Interior Angles", "Vertically Opposite"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Assuming that alternate interior or corresponding angles are ALWAYS equal, even when the two intersected lines are NOT parallel.",
+          "correctionTrigger": "Ask: 'If the two lines slant toward each other and cross, do corresponding angles look the same size?' Emphasize parallel condition."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Art & Engineering: Architecture & Technical Drawing (Using parallel lines and transversals in structural blueprints)"
+      ]
+    },
+    "metaSscCode": "M705",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "M705 [NCERT LO Manual tilops101.pdf p. 69]",
+    "metaNcertDesc": "Understands pairs of angles and angle relationships formed by transversals.",
+    "metaNishthaText": "NISHTHA Module 6: Use paper tracing and folding to verify vertically opposite angle equality."
+  },
+  {
+    "id": "g7_m_6",
+    "grade": "7",
+    "subject": "math",
+    "fullTitle": "Chapter 6: The Triangle and its Properties",
+    "loDesc": "Applies Exterior Angle Property, Angle Sum Property of a triangle, Triangle Inequality Theorem, and Pythagoras Theorem in right-angled triangles.",
+    "pdfPage": 87,
+    "docPage": 69,
+    "pdfUrl": "https://ncert.nic.in/pdf/publication/otherpublications/tilops101.pdf#page=87",
+    "hookAction": "DEMO",
+    "hookDemo": "Tear off the three corners of a paper triangle and arrange them along a straight line.",
+    "hookAsk": "Why do the three interior angles of ANY triangle always form a perfectly straight 180° line?",
+    "streamTitle": "Angle Sum Property Practice",
+    "streamDo": "Observe triangles with two given angles (e.g., 50° and 60°).",
+    "streamTask": "Calculate the unknown third angle x for 3 given triangles.",
+    "mountainTitle": "Exterior Angle & Pythagoras Calculation",
+    "mountainTask": "In a right triangle ABC with right angle at B, AB = 6 cm and BC = 8 cm. Calculate hypotenuse AC using Pythagoras theorem.",
+    "skyTitle": "Triangle Inequality Proof",
+    "skyTask": "Determine whether a triangle can have side lengths 3 cm, 6 cm, and 10 cm, justifying your answer using the Triangle Inequality rule.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Hypotenuse", "Exterior Angle", "Angle Sum Property", "Pythagoras Theorem", "Triangle Inequality"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Applying Pythagoras Theorem (a^2 + b^2 = c^2) to acute or obtuse triangles instead of strictly right-angled triangles.",
+          "correctionTrigger": "Ask: 'Where is the 90° angle in this triangle?' Point out that the hypotenuse exists only opposite a right angle."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Geography & Surveying: Triangulation & Navigation (Measuring heights and distances using right-triangle properties)"
+      ]
+    },
+    "metaSscCode": "M706",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "M706 [NCERT LO Manual tilops101.pdf p. 69]",
+    "metaNcertDesc": "Verifies properties of triangles including angle sum and Pythagoras theorem.",
+    "metaNishthaText": "NISHTHA Module 6: Cut out squares on right triangle sides to demonstrate area equivalence visually."
+  },
+  {
+    "id": "g7_m_7",
+    "grade": "7",
+    "subject": "math",
+    "fullTitle": "Chapter 7: Congruence of Triangles",
+    "loDesc": "Understands congruence of plane figures, line segments, angles, and applies congruence criteria (SSS, SAS, ASA, RHS) for triangles.",
+    "pdfPage": 87,
+    "docPage": 69,
+    "pdfUrl": "https://ncert.nic.in/pdf/publication/otherpublications/tilops101.pdf#page=87",
+    "hookAction": "SHOW",
+    "hookDemo": "Place two identical 10-rupee coins directly on top of each other.",
+    "hookAsk": "What does it mean geometrically when two figures cover each other completely without overlap?",
+    "streamTitle": "Congruence Criterion Matching",
+    "streamDo": "Observe pairs of triangles with marked congruent sides and angles.",
+    "streamTask": "Match given triangle pairs with correct congruence criteria (SSS, SAS, ASA, RHS).",
+    "mountainTitle": "Congruence Proof Writing",
+    "mountainTask": "Given triangle ABC and triangle PQR where AB=PQ, BC=QR, and AC=PR, state symbolic congruence and matching vertices.",
+    "skyTitle": "Real-World Rigidity Synthesis",
+    "skyTask": "Explain why triangular structures are used in bridge trusses instead of quadrilaterals, citing SSS congruence rigidity.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Congruence", "Superimposition", "Corresponding Parts (CPCT)", "SSS / SAS / ASA / RHS"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Assuming AAA (Angle-Angle-Angle) guarantees congruence, confusing same shape (similarity) with exact same size (congruence).",
+          "correctionTrigger": "Ask: 'Does a small equilateral triangle superimpose exactly over a massive equilateral triangle?' Show AAA gives similarity, not congruence."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Design & Civil Engineering: Structural Stability (Using triangular rigidity in bridge trusses and roof frames)"
+      ]
+    },
+    "metaSscCode": "M707",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "M707 [NCERT LO Manual tilops101.pdf p. 69]",
+    "metaNcertDesc": "Establishes congruence criteria for triangles through superimposition.",
+    "metaNishthaText": "NISHTHA Module 6: Use tracing paper overlay to physically verify triangle congruence."
+  },
+  {
+    "id": "g7_m_8",
+    "grade": "7",
+    "subject": "math",
+    "fullTitle": "Chapter 8: Comparing Quantities",
+    "loDesc": "Applies Ratios, Proportions, Percentages, Profit/Loss calculations, and Simple Interest formulas in financial literacy context.",
+    "pdfPage": 87,
+    "docPage": 69,
+    "pdfUrl": "https://ncert.nic.in/pdf/publication/otherpublications/tilops101.pdf#page=87",
+    "hookAction": "SHOW",
+    "hookDemo": "Display two price tags: Item A discounted by 20% off Rs 500 vs Item B discounted by Rs 80 off Rs 400.",
+    "hookAsk": "Which tag offers a better monetary saving, and how do percentages standardize comparison?",
+    "streamTitle": "Ratio to Percentage Conversion",
+    "streamDo": "Observe ratios like 3:2.",
+    "streamTask": "Convert given ratios into fractional parts and percentage values.",
+    "mountainTitle": "Profit, Loss & Simple Interest Calculation",
+    "mountainTask": "Calculate Simple Interest and total Amount for Rs 10,000 borrowed at 8% per annum for 3 years (SI = P*R*T/100).",
+    "skyTitle": "Compound Profit/Cost Synthesis",
+    "skyTask": "An item bought for Rs 750 is sold at a 12% profit. Find the selling price and calculate new profit percentage if selling price increases by Rs 30.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Principal", "Rate of Interest", "Percentage", "Cost Price / Selling Price", "Ratio"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Calculating Profit or Loss Percentage on the Selling Price instead of always using the Cost Price as the baseline.",
+          "correctionTrigger": "Ask: 'Did the shopkeeper spend the Cost Price or Selling Price out of pocket to acquire the item?' Baseline is always Cost Price."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Financial Literacy & Economics: Personal Finance (Calculating simple interest on savings loans and retail discounts)"
+      ]
+    },
+    "metaSscCode": "M708",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "M708 [NCERT LO Manual tilops101.pdf p. 69]",
+    "metaNcertDesc": "Solves problems on ratio, proportion, percentage, profit-loss, and simple interest.",
+    "metaNishthaText": "NISHTHA Module 6: Set up mock classroom store activities for real-time percentage profit/loss calculations."
+  },
+  {
+    "id": "g7_m_9",
+    "grade": "7",
+    "subject": "math",
+    "fullTitle": "Chapter 9: Rational Numbers",
+    "loDesc": "Defines rational numbers, represents them on a number line, finds equivalent rational numbers, and performs addition, subtraction, multiplication, and division.",
+    "pdfPage": 87,
+    "docPage": 69,
+    "pdfUrl": "https://ncert.nic.in/pdf/publication/otherpublications/tilops101.pdf#page=87",
+    "hookAction": "SHOW",
+    "hookDemo": "Display numbers: -3/4, 0, 5, -7, 2/3 on the board.",
+    "hookAsk": "Why are integers like -7 and 0 also classified as rational numbers (p/q form where q != 0)?",
+    "streamTitle": "Standard Form & Equivalent Fractions",
+    "streamDo": "Observe rational numbers: -12/18.",
+    "streamTask": "Reduce rational numbers to standard form and write 3 equivalent rational numbers for -2/5.",
+    "mountainTitle": "Rational Operations Calculation",
+    "mountainTask": "Calculate: (-3/7) + (2/3) and (-4/5) * (3/8) in simplest form.",
+    "skyTitle": "Density Property Demonstration",
+    "skyTask": "Find 3 rational numbers between -1/3 and 1/2 by finding a common denominator.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Rational Number", "Numerator / Denominator", "Standard Form", "Density Property"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Thinking -3/4 and 3/-4 are completely different values, or assuming zero cannot be a rational number.",
+          "correctionTrigger": "Ask: 'Can zero be written as 0/1 where p=0 and q=1?' Verify that q ≠ 0 is the only restriction."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Science: Measurement & Physics (Representing negative fractional values on coordinate scale lines)"
+      ]
+    },
+    "metaSscCode": "M709",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "M709 [NCERT LO Manual tilops101.pdf p. 69]",
+    "metaNcertDesc": "Understands rational numbers and operations on them.",
+    "metaNishthaText": "NISHTHA Module 6: Extend fraction number line models to negative regions."
+  },
+  {
+    "id": "g7_m_10",
+    "grade": "7",
+    "subject": "math",
+    "fullTitle": "Chapter 10: Practical Geometry",
+    "loDesc": "Constructs parallel lines through an external point and constructs triangles using SSS, SAS, ASA, and RHS criteria with ruler and compasses.",
+    "pdfPage": 87,
+    "docPage": 69,
+    "pdfUrl": "https://ncert.nic.in/pdf/publication/otherpublications/tilops101.pdf#page=87",
+    "hookAction": "DEMO",
+    "hookDemo": "Draw a line and a point outside it on the board using a wooden ruler and compass.",
+    "hookAsk": "How can equal alternate interior angles guarantee that our constructed line never crosses the original line?",
+    "streamTitle": "Construction Parameter Checking",
+    "streamDo": "Observe given triangle measurements (e.g. AB=4cm, BC=5cm, AC=10cm).",
+    "streamTask": "Verify if given side measurements satisfy Triangle Inequality before attempting compass construction.",
+    "mountainTitle": "SAS Triangle Construction Steps",
+    "mountainTask": "Write down step-by-step instructions to construct triangle ABC where AB = 5 cm, angle B = 60°, and BC = 6 cm.",
+    "skyTitle": "RHS Right-Angle Construction Proof",
+    "skyTask": "Construct a right triangle LMN right-angled at M given hypotenuse LN = 10 cm and leg MN = 6 cm.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["External Point", "Arc", "Ruler and Compass", "Alternate Interior Angles"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Attempting to construct a triangle with compasses without checking if the sum of any two sides is greater than the third side.",
+          "correctionTrigger": "Ask: 'If arcs of 3 cm and 4 cm are drawn from points 10 cm apart, will they ever intersect?' Check inequality first."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Technical Drawing & Craft: Design Precision (Constructing parallel borders and precise geometric patterns)"
+      ]
+    },
+    "metaSscCode": "M710",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "M710 [NCERT LO Manual tilops101.pdf p. 69]",
+    "metaNcertDesc": "Constructs parallel lines and triangles using ruler and compasses.",
+    "metaNishthaText": "NISHTHA Module 6: Emphasize rough sketches with labeled measurements before formal compass drawing."
+  },
+  {
+    "id": "g7_m_11",
+    "grade": "7",
+    "subject": "math",
+    "fullTitle": "Chapter 11: Perimeter and Area",
+    "loDesc": "Calculates perimeter and area of squares, rectangles, triangles, parallelograms, and circles (circumference and area using pi).",
+    "pdfPage": 87,
+    "docPage": 69,
+    "pdfUrl": "https://ncert.nic.in/pdf/publication/otherpublications/tilops101.pdf#page=87",
+    "hookAction": "DEMO",
+    "hookDemo": "Wrap a piece of string around a circular tin lid and measure its string length against its diameter.",
+    "hookAsk": "Why does Circumference divided by Diameter always yield the constant ratio ~3.14 (pi)?",
+    "streamTitle": "Area & Circumference Practice",
+    "streamDo": "Observe formulas: Area(Parallelogram) = b*h, Area(Circle) = pi*r^2.",
+    "streamTask": "Calculate area of a parallelogram (b=8cm, h=5cm) and circumference of a circle (r=7cm).",
+    "mountainTitle": "Pathway Area Word Problem",
+    "mountainTask": "A 2m wide path is built around the outside of a rectangular park of length 30m and breadth 20m. Calculate the area of the path.",
+    "skyTitle": "Shape Transformation Area Synthesis",
+    "skyTask": "A wire bent into a square encloses an area of 484 cm^2. If the same wire is rebent into a circle, calculate the enclosed circular area.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Circumference", "Pi (π)", "Perpendicular Height", "Radius / Diameter", "Enclosed Area"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Confusing Circumference (2πr) with Area (πr^2), or using slant height instead of perpendicular height for parallelogram area.",
+          "correctionTrigger": "Ask: 'Is perimeter measured in linear cm or square cm^2?' Use unit labels to reinforce boundary vs surface."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Environmental Science & Agriculture: Land Measurement (Calculating fencing perimeter and crop field area)"
+      ]
+    },
+    "metaSscCode": "M711",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "M711 [NCERT LO Manual tilops101.pdf p. 69]",
+    "metaNcertDesc": "Calculates perimeter and area of 2D shapes including circles.",
+    "metaNishthaText": "NISHTHA Module 6: Cut parallelograms along heights to transform them into rectangles for area formula visual proof."
+  },
+  {
+    "id": "g7_m_12",
+    "grade": "7",
+    "subject": "math",
+    "fullTitle": "Chapter 12: Algebraic Expressions",
+    "loDesc": "Identifies terms, factors, coefficients, like and unlike terms; performs addition and subtraction of algebraic expressions and evaluates expression values.",
+    "pdfPage": 87,
+    "docPage": 69,
+    "pdfUrl": "https://ncert.nic.in/pdf/publication/otherpublications/tilops101.pdf#page=87",
+    "hookAction": "SHOW",
+    "hookDemo": "Display terms: 3x, 5y, -2x, 7, 4x^2 on cards.",
+    "hookAsk": "Why can we add 3x and -2x together, but cannot combine 3x and 5y into a single term?",
+    "streamTitle": "Like Terms & Coefficient Sorting",
+    "streamDo": "Observe expression: 4x^2 - 3xy + 5.",
+    "streamTask": "Identify terms, numerical coefficients, and group like terms from a given list.",
+    "mountainTitle": "Expression Addition & Subtraction",
+    "mountainTask": "Subtract (2x^2 - 5x + 7) from (5x^2 + 3x - 2) by combining like terms.",
+    "skyTitle": "Geometric Perimeter Algebraic Formula",
+    "skyTask": "If x = -2 and y = 3, evaluate the value of expression 2x^2 - 3xy + 4y^2.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Like / Unlike Terms", "Numerical Coefficient", "Algebraic Expression", "Monomial / Binomial"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Adding coefficients of unlike terms (e.g., writing 3x + 2y = 5xy or 4x + 3 = 7x).",
+          "correctionTrigger": "Ask: 'If you have 3 apples and 2 oranges, do you have 5 apploranges?' Keep unlike term variables separate."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Computer Science: Coding Logic (Evaluating variable expressions and formulas in programming functions)"
+      ]
+    },
+    "metaSscCode": "M712",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "M712 [NCERT LO Manual tilops101.pdf p. 69]",
+    "metaNcertDesc": "Forms, simplifies, and evaluates algebraic expressions.",
+    "metaNishthaText": "NISHTHA Module 6: Use algebra tiles to visually represent positive and negative variable terms."
+  },
+  {
+    "id": "g7_m_13",
+    "grade": "7",
+    "subject": "math",
+    "fullTitle": "Chapter 13: Exponents and Powers",
+    "loDesc": "Expresses large numbers in exponential notation and scientific standard form; applies Laws of Exponents to simplify algebraic expressions.",
+    "pdfPage": 87,
+    "docPage": 69,
+    "pdfUrl": "https://ncert.nic.in/pdf/publication/otherpublications/tilops101.pdf#page=87",
+    "hookAction": "SHOW",
+    "hookDemo": "Write 1,000,000,000 and 10^9 on the board.",
+    "hookAsk": "Why do astronomers and scientists prefer writing large distances using exponential standard form?",
+    "streamTitle": "Laws of Exponents Matching",
+    "streamDo": "Observe rules: a^m * a^n = a^(m+n), (a^m)^n = a^(m*n), a^0 = 1.",
+    "streamTask": "Simplify exponential expressions using Product and Quotient laws of exponents.",
+    "mountainTitle": "Scientific Standard Form Conversion",
+    "mountainTask": "Express the distance from Earth to the Sun (149,600,000,000 m) in scientific standard form (a * 10^b).",
+    "skyTitle": "Complex Exponential Simplification",
+    "skyTask": "Simplify (2^5 * 3^4 * 12) / (2^3 * 6^2) completely into a single integer using exponent laws.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Base & Exponent", "Power", "Standard Scientific Form", "Laws of Exponents"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Multiplying base by exponent (e.g. assuming 2^3 = 2 x 3 = 6 instead of 2 x 2 x 2 = 8).",
+          "correctionTrigger": "Ask: 'What does repeating a factor 3 times mean?' Expand 2^3 as 2 x 2 x 2 explicitly."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Astronomy & Physics: Cosmic Distances (Expressing planetary masses and speed of light in scientific notation)"
+      ]
+    },
+    "metaSscCode": "M713",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "M713 [NCERT LO Manual tilops101.pdf p. 69]",
+    "metaNcertDesc": "Uses exponential notation and laws of exponents to simplify expressions.",
+    "metaNishthaText": "NISHTHA Module 6: Use repeated paper folding (1 fold = 2, 2 folds = 4, 3 folds = 8) to demonstrate powers of 2."
+  },
+  {
+    "id": "g7_m_14",
+    "grade": "7",
+    "subject": "math",
+    "fullTitle": "Chapter 14: Symmetry",
+    "loDesc": "Identifies line symmetry (lines of symmetry for 2D figures) and rotational symmetry (center of rotation, order of rotation, angle of rotation).",
+    "pdfPage": 87,
+    "docPage": 69,
+    "pdfUrl": "https://ncert.nic.in/pdf/publication/otherpublications/tilops101.pdf#page=87",
+    "hookAction": "DEMO",
+    "hookDemo": "Rotate a cardboard square pinwheel 360 degrees around its center point.",
+    "hookAsk": "How many times during one full 360° turn does the pinwheel look exactly identical to its starting position?",
+    "streamTitle": "Line Symmetry Counting",
+    "streamDo": "Observe shapes: Equilateral Triangle, Square, Rectangle, Circle.",
+    "streamTask": "Count and draw all lines of symmetry for given 2D geometric shapes.",
+    "mountainTitle": "Rotational Symmetry Order Calculation",
+    "mountainTask": "State the center, angle of rotation, and order of rotational symmetry for a regular hexagon.",
+    "skyTitle": "Dual Symmetry Shape Design",
+    "skyTask": "Design a geometric motif that has BOTH line symmetry of order 4 AND rotational symmetry of order 4.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Line Symmetry", "Rotational Symmetry", "Order of Rotation", "Angle of Rotation"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Believing every shape with line symmetry must have rotational symmetry, or assuming a rectangle has 4 lines of symmetry.",
+          "correctionTrigger": "Ask: 'Fold a paper rectangle along its diagonal—do the opposite corners align perfectly?' Show diagonals aren't symmetry lines."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Art & Textile Design: Motif Creation (Designing symmetrical floor patterns, mandalas, and logo art)"
+      ]
+    },
+    "metaSscCode": "M714",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "M714 [NCERT LO Manual tilops101.pdf p. 69]",
+    "metaNcertDesc": "Understands line and rotational symmetry in 2D shapes.",
+    "metaNishthaText": "NISHTHA Module 6: Use mirror line reflectometers and transparent spinners for rotational testing."
+  },
+  {
+    "id": "g7_m_15",
+    "grade": "7",
+    "subject": "math",
+    "fullTitle": "Chapter 15: Visualising Solid Shapes",
+    "loDesc": "Classifies 1D, 2D, and 3D figures; identifies nets for building 3D solids (cubes, cuboids, cylinders, cones), and applies Euler's Formula (F + V - E = 2).",
+    "pdfPage": 87,
+    "docPage": 69,
+    "pdfUrl": "https://ncert.nic.in/pdf/publication/otherpublications/tilops101.pdf#page=87",
+    "hookAction": "SHOW",
+    "hookDemo": "Unfold a cardboard toothpaste box flat onto the table.",
+    "hookAsk": "How does this flat 2D layout fold up to form a 3D rectangular cuboid?",
+    "streamTitle": "Faces, Vertices & Edges Counting",
+    "streamDo": "Observe 3D models: Cube, Triangular Prism, Square Pyramid.",
+    "streamTask": "Count Faces (F), Vertices (V), and Edges (E) for a given set of 3D solids.",
+    "mountainTitle": "Euler's Formula Verification",
+    "mountainTask": "Verify Euler's Formula (F + V - E = 2) for a triangular prism with 5 faces, 6 vertices, and 9 edges.",
+    "skyTitle": "3D Net Identification Challenge",
+    "skyTask": "Given 4 flat 2D net patterns made of 6 squares, determine which patterns can successfully fold into a closed cube.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Net Pattern", "Euler's Formula (F+V-E=2)", "Faces / Edges / Vertices", "Oblique / Isometric Sketch"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Confusing Edges with Vertices on 3D models, or assuming any layout of 6 squares forms a valid cube net.",
+          "correctionTrigger": "Ask: 'If two square faces overlap when folded, can the box close properly?' Test nets physically."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Packaging Design & Architecture: Industrial Modeling (Developing 2D fold patterns for product packaging)"
+      ]
+    },
+    "metaSscCode": "M715",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "M715 [NCERT LO Manual tilops101.pdf p. 69]",
+    "metaNcertDesc": "Visualizes 3D shapes from 2D representations and nets.",
+    "metaNishthaText": "NISHTHA Module 6: Provide cardboard cut-out nets for students to assemble 3D solids physically."
+  }
+]

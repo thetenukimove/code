@@ -1,0 +1,742 @@
+[
+  {
+    "id": "g7_s_1",
+    "grade": "7",
+    "subject": "science",
+    "fullTitle": "Chapter 1: The Living World: Adaptation and Classification",
+    "loDesc": "Explains structural adaptations in plants and animals according to their habitats (aquatic, desert, snowy regions) and classifies organisms using binomial nomenclature.",
+    "pdfPage": 107,
+    "docPage": 89,
+    "pdfUrl": "https://ncert.nic.in/pdf/publication/otherpublications/tilops101.pdf#page=107",
+    "hookAction": "SHOW",
+    "hookDemo": "Display two living plant specimens to the class: a potted Cactus and a leafy Hibiscus.",
+    "hookAsk": "If we swap their soils and give both heavy water daily for two weeks, which one rots first and why?",
+    "streamTitle": "Habitat & Feature Sorting",
+    "streamDo": "Observe 5 plant and animal pictures (Cactus, Camel, Lotus, Duck, Pine).",
+    "streamTask": "Match each organism with its specific physical adaptation feature (waxy stem, webbed feet, needle leaves).",
+    "mountainTitle": "Adaptation Cause-and-Effect",
+    "mountainTask": "Explain in 3 structured sentences how the waxy coating and air spaces in lotus stems help the plant survive without rotting in water.",
+    "skyTitle": "Hypothetical Creature Design",
+    "skyTask": "Design an imaginary animal adapted to survive in an environment with heavy snow and high wind. Draw the creature and label 3 specific survival adaptations.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Adaptation", "Habitat", "Binomial Nomenclature", "Aquatic / Terrestrial"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Students often believe individual organisms can change their anatomical structures during their lifetime to adapt to a new climate.",
+          "correctionTrigger": "Ask: 'If a human moves to the Arctic, will they grow thick fur?' Clarify that adaptations evolve across generations via natural selection."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Geography: Biomes & Climatic Zones (Mapping vegetation types to global rainfall and temperature regions)"
+      ]
+    },
+    "metaSscCode": "S701",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "SC0701 [NCERT LO Manual tilops101.pdf p. 89]",
+    "metaNcertDesc": "Identifies and explains structural adaptations in plants and animals.",
+    "metaNishthaText": "NISHTHA Module 6: Use real plant specimens or local garden visits instead of static textbook diagrams."
+  },
+  {
+    "id": "g7_s_2",
+    "grade": "7",
+    "subject": "science",
+    "fullTitle": "Chapter 2: Plants: Structure and Function",
+    "loDesc": "Differentiates plant parts (root, stem, leaf, flower, fruit) based on structural functions like transpiration, conduction, and photosynthesis.",
+    "pdfPage": 107,
+    "docPage": 89,
+    "pdfUrl": "https://ncert.nic.in/pdf/publication/otherpublications/tilops101.pdf#page=107",
+    "hookAction": "DEMO",
+    "hookDemo": "Cover a healthy potted plant's leafy branch with a clear plastic bag and tie it. Place it in sunlight for 30 minutes.",
+    "hookAsk": "Where did these water droplets inside the bag come from?",
+    "streamTitle": "Root & Leaf Type Identification",
+    "streamDo": "Observe taproot (mustard) vs fibrous root (grass) specimens.",
+    "streamTask": "Classify 4 given plant samples into taproot or fibrous root categories on your worksheet.",
+    "mountainTitle": "Venation & Root Relationship",
+    "mountainTask": "Examine leaf venation (reticulate vs parallel) and state the general rule relating leaf venation type to root type in dicots and monocots.",
+    "skyTitle": "Transpiration Rate Experiment",
+    "skyTask": "Design an experiment using two identical leafy twigs (one with leaves coated in vaseline, one uncoated) in water test tubes to prove stomatal transpiration.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Transpiration", "Reticulate Venation", "Taproot vs Fibrous", "Stomata", "Xylem / Phloem"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Students assume roots only anchor plants and absorb water, missing their role in nutrient conduction and gas exchange.",
+          "correctionTrigger": "Ask: 'How does food made in leaves reach the roots underground?' Discuss vascular tissue conduction."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Agriculture: Crop Selection (Choosing deep taproot crops for drought-prone farming areas)"
+      ]
+    },
+    "metaSscCode": "S702",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "SC0702 [NCERT LO Manual tilops101.pdf p. 89]",
+    "metaNcertDesc": "Investigates plant structures and processes like transpiration.",
+    "metaNishthaText": "NISHTHA Module 12 SBA: Assess student learning via hands-on dissection of local flower specimens."
+  },
+  {
+    "id": "g7_s_3",
+    "grade": "7",
+    "subject": "science",
+    "fullTitle": "Chapter 3: Properties of Natural Resources",
+    "loDesc": "Relates processes and phenomena with underlying scientific causes (atmospheric air pressure, anomalous water expansion, soil capillary action).",
+    "pdfPage": 107,
+    "docPage": 89,
+    "pdfUrl": "https://ncert.nic.in/pdf/publication/otherpublications/tilops101.pdf#page=107",
+    "hookAction": "DEMO",
+    "hookDemo": "Invert a glass tumbler filled with water, covered with a flat postcard over a basin in front of the class.",
+    "hookAsk": "Why doesn't the postcard fall down despite the weight of the water pushing on it?",
+    "streamTitle": "Soil Permeability Test",
+    "streamDo": "Pour 50 ml of water through two funnels filled with sand and clay soil.",
+    "streamTask": "Measure and record which soil type lets water pass through faster on your observation sheet.",
+    "mountainTitle": "Anomalous Water Expansion",
+    "mountainTask": "Explain in 3 sentences why aquatic plants and fish survive at the bottom of frozen lakes in winter based on water density at 4 degrees C.",
+    "skyTitle": "Capillary System Design",
+    "skyTask": "Design a simple self-watering capillary prototype for a small potted plant using cotton yarn and a recycled plastic bottle.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Atmospheric Pressure", "Anomalous Expansion", "Capillarity", "Soil Permeability"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Believing water behaves like all other liquids and contracts continuously as it cools down to 0°C.",
+          "correctionTrigger": "Ask: 'Why does ice float on top of liquid water instead of sinking to the bottom?' Explain 4°C density maximum."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Physics & Engineering: Atmospheric Pressure (Explaining barometer operation and suction pump mechanics)"
+      ]
+    },
+    "metaSscCode": "S703",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "SC0705 [NCERT LO Manual tilops101.pdf p. 89]",
+    "metaNcertDesc": "Conducts simple investigations to understand physical properties of air, water, and soil.",
+    "metaNishthaText": "NISHTHA Module 6: Use physical demonstrations before introducing formal fluid mechanics definitions."
+  },
+  {
+    "id": "g7_s_4",
+    "grade": "7",
+    "subject": "science",
+    "fullTitle": "Chapter 4: Nutrition in Living Organisms",
+    "loDesc": "Differentiates autotrophic, heterotrophic, saprophytic, and symbiotic modes of nutrition in plants and animals.",
+    "pdfPage": 107,
+    "docPage": 89,
+    "pdfUrl": "https://ncert.nic.in/pdf/publication/otherpublications/tilops101.pdf#page=107",
+    "hookAction": "SHOW",
+    "hookDemo": "Display a piece of moldy bread and a specimen of Lichen or Cuscuta (Dodder vine).",
+    "hookAsk": "Why do these organisms lack green chlorophyll, and how do they obtain their food without photosynthesis?",
+    "streamTitle": "Nutrition Mode Sorting",
+    "streamDo": "Observe 5 organisms (Green Algae, Mushroom, Cuscuta, Pitcher Plant, Lichen).",
+    "streamTask": "Classify each organism under Autotrophic, Parasitic, Insectivorous, Saprophytic, or Symbiotic modes.",
+    "mountainTitle": "Symbiosis & Nitrogen Fixation Explanation",
+    "mountainTask": "Explain the mutual relationship between Rhizobium bacteria and leguminous plant roots in 3 structured sentences.",
+    "skyTitle": "Insectivorous Adaptation Synthesis",
+    "skyTask": "Explain why insectivorous plants like Drosera trap insects despite having green leaves for photosynthesis.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Autotrophic / Heterotrophic", "Saprophyte", "Symbiosis", "Nitrogen Fixation", "Host Plant"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Students assume insectivorous plants digest insects for energy/calories rather than for soil-deficient nitrogen.",
+          "correctionTrigger": "Ask: 'If Pitcher plants have green leaves for photosynthesis, what essential element is missing from bog soil?'"
+        }
+      ],
+      "crossCurricularLinks": [
+        "Environmental Studies & Farming: Sustainable Agriculture (Using leguminous crop rotation to enrich soil naturally)"
+      ]
+    },
+    "metaSscCode": "S704",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "SC0703 [NCERT LO Manual tilops101.pdf p. 89]",
+    "metaNcertDesc": "Explains modes of nutrition in plants and animals.",
+    "metaNishthaText": "NISHTHA Module 6: Use outdoor nature walks to identify parasitic vs autotrophic plants."
+  },
+  {
+    "id": "g7_s_5",
+    "grade": "7",
+    "subject": "science",
+    "fullTitle": "Chapter 5: Food Safety",
+    "loDesc": "Identifies food spoilage causes, food adulteration methods, and applies food preservation techniques (freezing, drying, pasteurization).",
+    "pdfPage": 107,
+    "docPage": 89,
+    "pdfUrl": "https://ncert.nic.in/pdf/publication/otherpublications/tilops101.pdf#page=107",
+    "hookAction": "DEMO",
+    "hookDemo": "Add a few drops of Iodine solution to a milk sample mixed with starch powder in a test tube.",
+    "hookAsk": "Why does the milk sample turn blue-black, and what does this test reveal about food purity?",
+    "streamTitle": "Adulterant Detection Practice",
+    "streamDo": "Observe chemical test results for milk, chili powder, and turmeric.",
+    "streamTask": "Match given food items with their common adulterants (e.g. metanil yellow in turmeric, brick dust in chili powder).",
+    "mountainTitle": "Preservation Principles",
+    "mountainTask": "Explain how pasteurization of milk kills harmful bacteria through rapid heating and cooling.",
+    "skyTitle": "Kitchen Preservation Audit",
+    "skyTask": "Conduct a kitchen audit at home, listing 5 food preservation methods used (salting, sugar syrup, oiling, refrigeration, airtight packing).",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Food Adulteration", "Pasteurization", "Microbial Spoilage", "Preservatives"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Believing freezing milk or food kills all bacteria permanently, rather than just suspending microbial growth.",
+          "correctionTrigger": "Ask: 'Why does thawed food spoil quickly if left out at room temperature?' Explain bacterial dormancy."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Health & Public Safety: Consumer Awareness (Reading FSSAI certification labels and checking food expiry dates)"
+      ]
+    },
+    "metaSscCode": "S705",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "SC0704 [NCERT LO Manual tilops101.pdf p. 89]",
+    "metaNcertDesc": "Applies scientific concepts to food safety and adulteration detection.",
+    "metaNishthaText": "NISHTHA Module 12: Perform simple non-chemical food adulteration tests in class."
+  },
+  {
+    "id": "g7_s_6",
+    "grade": "7",
+    "subject": "science",
+    "fullTitle": "Chapter 6: Measurement of Physical Quantities",
+    "loDesc": "Differentiates fundamental vs derived quantities, scalar vs vector quantities, and measures mass, weight, density, and volume accurately.",
+    "pdfPage": 107,
+    "docPage": 89,
+    "pdfUrl": "https://ncert.nic.in/pdf/publication/otherpublications/tilops101.pdf#page=107",
+    "hookAction": "SHOW",
+    "hookDemo": "Display a spring balance holding a 1 kg weight alongside a measuring cylinder filled with water.",
+    "hookAsk": "Why does mass stay constant everywhere while weight changes on different planets?",
+    "streamTitle": "Scalar vs Vector Classification",
+    "streamDo": "Observe physical quantities: Distance, Velocity, Mass, Force, Time, Temperature.",
+    "streamTask": "Classify given quantities into Scalar (magnitude only) or Vector (magnitude + direction).",
+    "mountainTitle": "Density Formula Calculation",
+    "mountainTask": "Calculate the density of a wooden block having a mass of 200 g and a volume of 250 cubic cm (Density = Mass / Volume).",
+    "skyTitle": "Error Analysis Challenge",
+    "skyTask": "Explain parallax error when reading a liquid meniscus in a measuring cylinder and state two steps to prevent it.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Fundamental Quantity", "Derived Quantity", "Scalar vs Vector", "Density", "Parallax Error"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Treating Mass and Weight as interchangeable physical quantities in scientific calculations.",
+          "correctionTrigger": "Ask: 'If an astronaut floats in zero gravity, does their body matter (mass) vanish?' Distinguish kg vs Newton."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Mathematics: Dimensional Units & Ratio Calculations (Converting SI units and calculating volume ratios)"
+      ]
+    },
+    "metaSscCode": "S706",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "SC0706 [NCERT LO Manual tilops101.pdf p. 89]",
+    "metaNcertDesc": "Measures physical quantities using standard instruments and SI units.",
+    "metaNishthaText": "NISHTHA Module 6: Provide graduated cylinders for students to practice eye-level meniscus readings."
+  },
+  {
+    "id": "g7_s_7",
+    "grade": "7",
+    "subject": "science",
+    "fullTitle": "Chapter 7: Motion, Force and Work",
+    "loDesc": "Calculates speed, distance, and time; constructs distance-time graphs and relates force applied to work done.",
+    "pdfPage": 107,
+    "docPage": 89,
+    "pdfUrl": "https://ncert.nic.in/pdf/publication/otherpublications/tilops101.pdf#page=107",
+    "hookAction": "DEMO",
+    "hookDemo": "Roll a toy car down a smooth wooden ramp versus a rough towel-covered ramp.",
+    "hookAsk": "Why does the car travel a shorter distance on the towel, and how does friction affect motion?",
+    "streamTitle": "Speed Formula Practice",
+    "streamDo": "Observe the formula: Speed = Distance / Time.",
+    "streamTask": "Calculate the speed of a cyclist who covers 30 km in 2 hours.",
+    "mountainTitle": "Distance-Time Graph Construction",
+    "mountainTask": "Construct a linear distance-time graph for a vehicle moving at a uniform speed of 10 m/s over 5 seconds.",
+    "skyTitle": "Work Calculation Analysis",
+    "skyTask": "A person pushes a heavy box with a force of 50 N through a displacement of 4 meters. Calculate the work done (Work = Force x Displacement).",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Uniform Motion", "Velocity", "Friction Force", "Work Done (Joules)", "Distance-Time Graph"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Assuming that pushing hard against a heavy wall counts as mechanical 'work', even if the wall does not move.",
+          "correctionTrigger": "Ask: 'If displacement = 0 in Work = Force × Displacement, how much work was accomplished physics-wise?'"
+        }
+      ],
+      "crossCurricularLinks": [
+        "Math: Coordinate Graphing (Plotting distance on Y-axis vs time on X-axis and interpreting line slope)"
+      ]
+    },
+    "metaSscCode": "S707",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "SC0707 [NCERT LO Manual tilops101.pdf p. 89]",
+    "metaNcertDesc": "Calculates speed, plots motion graphs, and understands force-work relationships.",
+    "metaNishthaText": "NISHTHA Module 8: Use toy car ramp activities to collect distance-time data for graphing."
+  },
+  {
+    "id": "g7_s_8",
+    "grade": "7",
+    "subject": "science",
+    "fullTitle": "Chapter 8: Static Electricity",
+    "loDesc": "Explains electrostatic force, electric charge generation by friction, attraction and repulsion laws, and lightning conductor mechanisms.",
+    "pdfPage": 107,
+    "docPage": 89,
+    "pdfUrl": "https://ncert.nic.in/pdf/publication/otherpublications/tilops101.pdf#page=107",
+    "hookAction": "DEMO",
+    "hookDemo": "Rub a plastic ruler vigorously against dry hair and hold it over small paper bits lying on a desk.",
+    "hookAsk": "Why do the paper bits jump up to stick to the ruler without direct physical contact?",
+    "streamTitle": "Charge Interaction Sorting",
+    "streamDo": "Observe charged ebonite and glass rod interactions.",
+    "streamTask": "Classify interactions as Attraction or Repulsion between Like and Unlike charges.",
+    "mountainTitle": "Electroscope Model Explanation",
+    "mountainTask": "Explain how a simple gold-leaf electroscope detects the presence of electric charge on an object.",
+    "skyTitle": "Lightning Protection System Design",
+    "skyTask": "Draw a high-rise building equipped with a lightning conductor and trace the electrical discharge path safely to the ground.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Electrostatic Force", "Friction Charge", "Gold-Leaf Electroscope", "Earthing / Lightning Conductor"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Thinking static electricity creates new electrons out of nothing when objects are rubbed together.",
+          "correctionTrigger": "Ask: 'Where did the electrons move from when the comb was rubbed on hair?' Show it is charge transfer, not creation."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Architecture & Safety Engineering: Structural Protection (Installing grounding systems in buildings)"
+      ]
+    },
+    "metaSscCode": "S708",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "SC0708 [NCERT LO Manual tilops101.pdf p. 89]",
+    "metaNcertDesc": "Explains static electric forces and charge interactions.",
+    "metaNishthaText": "NISHTHA Module 12 SBA: Evaluate students on experimental observations during static electricity activities."
+  },
+  {
+    "id": "g7_s_9",
+    "grade": "7",
+    "subject": "science",
+    "fullTitle": "Chapter 9: Heat",
+    "loDesc": "Differentiates modes of heat transfer (conduction, convection, radiation) and investigates thermal expansion in solids, liquids, and gases.",
+    "pdfPage": 107,
+    "docPage": 89,
+    "pdfUrl": "https://ncert.nic.in/pdf/publication/otherpublications/tilops101.pdf#page=107",
+    "hookAction": "DEMO",
+    "hookDemo": "Hold a metal ball-and-ring apparatus. Show the brass ball passing through the ring at room temp, then heat the ball over a flame for 60 seconds.",
+    "hookAsk": "Why won't the brass ball pass through the exact same ring after being heated?",
+    "streamTitle": "Conductor vs Insulator Sorting",
+    "streamDo": "Place a metal spoon, a wooden stick, and a plastic ruler in a beaker of hot water.",
+    "streamTask": "Touch the top ends after 2 minutes and classify them as Conductors or Insulators of heat.",
+    "mountainTitle": "Modes of Heat Transfer Explanation",
+    "mountainTask": "Explain conduction, convection, and radiation in 3 structured sentences using a boiling water kettle diagram.",
+    "skyTitle": "Thermos Flask Insulation Synthesis",
+    "skyTask": "Analyze the double-walled silvered glass design of a thermos flask and explain how it prevents conduction, convection, and radiation loss.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Conduction", "Convection", "Radiation", "Thermal Expansion", "Thermal Insulator"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Believing heat radiation requires a physical medium (like air or water) to travel through space.",
+          "correctionTrigger": "Ask: 'How does heat from the Sun reach Earth through millions of kilometers of empty space vacuum?'"
+        }
+      ],
+      "crossCurricularLinks": [
+        "Geography: Meteorology (Explaining land breeze, sea breeze, and atmospheric convection currents)"
+      ]
+    },
+    "metaSscCode": "S709",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "SC0709 [NCERT LO Manual tilops101.pdf p. 89]",
+    "metaNcertDesc": "Investigates modes of heat transfer and thermal expansion.",
+    "metaNishthaText": "NISHTHA Module 6: Use hands-on tactile temperature testing before introducing formal temperature scales."
+  },
+  {
+    "id": "g7_s_10",
+    "grade": "7",
+    "subject": "science",
+    "fullTitle": "Chapter 10: Disaster Management",
+    "loDesc": "Classifies natural and man-made disasters (famine, cloudbursts, floods, lightning, storms) and outlines emergency first-aid measures.",
+    "pdfPage": 107,
+    "docPage": 89,
+    "pdfUrl": "https://ncert.nic.in/pdf/publication/otherpublications/tilops101.pdf#page=107",
+    "hookAction": "SHOW",
+    "hookDemo": "Display a picture of a cloudburst event alongside a drought-cracked field.",
+    "hookAsk": "How can extreme weather cause severe flooding in one region while causing severe water shortage in another?",
+    "streamTitle": "Disaster Type Classification",
+    "streamDo": "Observe 5 disaster scenarios (Earthquake, Chemical Leak, Cloudburst, Forest Fire, War).",
+    "streamTask": "Classify each event as a Natural Disaster or Man-made Disaster.",
+    "mountainTitle": "Lightning Safety Protocol",
+    "mountainTask": "List 4 safety rules to follow when caught outdoors in an open field during a severe thunderstorm.",
+    "skyTitle": "School Safety Kit Synthesis",
+    "skyTask": "Design a school disaster emergency kit list containing 6 essential medical and survival items.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Cloudburst", "Famine", "First Aid Protocol", "Disaster Preparedness"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Taking shelter under a tall isolated tree during a severe thunderstorm with lightning.",
+          "correctionTrigger": "Ask: 'Which path does lightning seek to hit the ground fastest?' Explain why tall isolated objects are danger zones."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Civics & Social Studies: Civic Responsibility (Organizing community disaster relief and emergency communication response)"
+      ]
+    },
+    "metaSscCode": "S710",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "SC0710 [NCERT LO Manual tilops101.pdf p. 89]",
+    "metaNcertDesc": "Applies disaster management protocols and safety measures.",
+    "metaNishthaText": "NISHTHA Module 10: Conduct school disaster drill simulations."
+  },
+  {
+    "id": "g7_s_11",
+    "grade": "7",
+    "subject": "science",
+    "fullTitle": "Chapter 11: Cell Structure and Micro-organisms",
+    "loDesc": "Identifies plant and animal cell structures under a microscope and classifies micro-organisms (bacteria, protozoa, fungi, algae, viruses).",
+    "pdfPage": 107,
+    "docPage": 89,
+    "pdfUrl": "https://ncert.nic.in/pdf/publication/otherpublications/tilops101.pdf#page=107",
+    "hookAction": "SHOW",
+    "hookDemo": "Display a slide of onion peel cells under a compound microscope.",
+    "hookAsk": "Why do these plant cells look like regular brick walls, and what lies inside each cell border?",
+    "streamTitle": "Microbe Category Sorting",
+    "streamDo": "Observe micro-organism cards (Lactobacillus, Amoeba, Rhizopus, Paramecium).",
+    "streamTask": "Classify microbes into Bacteria, Protozoa, or Fungi categories.",
+    "mountainTitle": "Useful vs Harmful Microbes Comparison",
+    "mountainTask": "Compare useful roles of bacteria (curd formation, nitrogen fixation) with harmful roles (disease, food spoilage).",
+    "skyTitle": "Cell Organelle Function Mapping",
+    "skyTask": "Draw a simple cell diagram and map the nucleus, cell membrane, cytoplasm, and vacuole with their functions.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Cell Membrane / Cell Wall", "Nucleus & Cytoplasm", "Pathogen", "Organelle", "Microscope"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Assuming all bacteria and micro-organisms are harmful germs that cause infectious diseases.",
+          "correctionTrigger": "Ask: 'What converts milk into curd or produces antibiotics like penicillin?' Highlight beneficial microbes."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Health & Hygiene: Disease Prevention (Understanding sanitation, vaccination, and microbial food safety)"
+      ]
+    },
+    "metaSscCode": "S711",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "SC0711 [NCERT LO Manual tilops101.pdf p. 89]",
+    "metaNcertDesc": "Observes microscopic cells and classifies micro-organisms.",
+    "metaNishthaText": "NISHTHA Module 8: Conduct microscope slide preparation sessions in class."
+  },
+  {
+    "id": "g7_s_12",
+    "grade": "7",
+    "subject": "science",
+    "fullTitle": "Chapter 12: The Muscular System and Digestive System in Human Beings",
+    "loDesc": "Explains types of human muscles (voluntary vs involuntary) and traces the digestive tract path and enzymatic breakdown of food.",
+    "pdfPage": 107,
+    "docPage": 89,
+    "pdfUrl": "https://ncert.nic.in/pdf/publication/otherpublications/tilops101.pdf#page=107",
+    "hookAction": "DEMO",
+    "hookDemo": "Ask students to flex their biceps muscle, then ask if they can consciously stop their heart muscle from beating.",
+    "hookAsk": "What is the structural difference between voluntary skeletal muscles and involuntary cardiac muscles?",
+    "streamTitle": "Voluntary vs Involuntary Sorting",
+    "streamDo": "Observe muscle actions (Blinking, Arm Movement, Stomach Churning, Running).",
+    "streamTask": "Classify given muscle movements into Voluntary or Involuntary categories.",
+    "mountainTitle": "Digestive Organ Path Tracing",
+    "mountainTask": "Trace the sequential path of food through the human digestive tract from Mouth to Large Intestine.",
+    "skyTitle": "Enzyme Action Analysis",
+    "skyTask": "Explain how salivary amylase in the mouth begins converting starch into simple sugars during mastication.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Voluntary / Involuntary Muscle", "Peristalsis", "Digestive Enzymes", "Salivary Amylase"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Believing digestion happens entirely in the stomach, ignoring starch digestion in the mouth and absorption in the small intestine.",
+          "correctionTrigger": "Ask: 'Why does chewing plain rice slowly make it taste sweet in your mouth?' Point out amylase action."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Physical Education & Sports Health: Human Anatomy (Connecting muscle contraction to athletic movement and nutrition)"
+      ]
+    },
+    "metaSscCode": "S712",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "SC0712 [NCERT LO Manual tilops101.pdf p. 89]",
+    "metaNcertDesc": "Explains human body systems including muscular and digestive processes.",
+    "metaNishthaText": "NISHTHA Module 8: Use human torso models to demonstrate organ positions."
+  },
+  {
+    "id": "g7_s_13",
+    "grade": "7",
+    "subject": "science",
+    "fullTitle": "Chapter 13: Elements, Compounds and Mixtures",
+    "loDesc": "Differentiates elements, compounds, and mixtures; understands chemical symbols, molecular formulas, and separation methods.",
+    "pdfPage": 107,
+    "docPage": 89,
+    "pdfUrl": "https://ncert.nic.in/pdf/publication/otherpublications/tilops101.pdf#page=107",
+    "hookAction": "SHOW",
+    "hookDemo": "Display iron filings, sulfur powder, and a heated iron-sulfide block.",
+    "hookAsk": "Why can iron filings be separated from sulfur powder using a magnet, but cannot be separated after heating them together?",
+    "streamTitle": "Classification Sorting Practice",
+    "streamDo": "Observe substances: Oxygen, Water, Air, Salt, Gold, Brass.",
+    "streamTask": "Classify substances into Elements, Compounds, or Mixtures.",
+    "mountainTitle": "Chemical Formula Representation",
+    "mountainTask": "Write down chemical symbols and formulas for Water (H2O), Carbon Dioxide (CO2), and Common Salt (NaCl).",
+    "skyTitle": "Separation Technique Selection",
+    "skyTask": "Select and explain the appropriate separation method for a mixture of sand, salt, and water.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Element", "Compound", "Mixture", "Chemical Symbol", "Molecular Formula"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Assuming compounds retain the individual properties of their constituent elements (e.g. expecting water to burn like hydrogen).",
+          "correctionTrigger": "Ask: 'Hydrogen is flammable and oxygen aids burning—why does water put out fire?' Highlight compound chemical change."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Chemistry: Periodic Table Foundations (Using standard chemical shorthand symbols and formulas)"
+      ]
+    },
+    "metaSscCode": "S713",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "SC0713 [NCERT LO Manual tilops101.pdf p. 89]",
+    "metaNcertDesc": "Differentiates elements, compounds, and mixtures.",
+    "metaNishthaText": "NISHTHA Module 6: Conduct magnet separation lab activities."
+  },
+  {
+    "id": "g7_s_14",
+    "grade": "7",
+    "subject": "science",
+    "fullTitle": "Chapter 14: Elements and Chemical Changes",
+    "loDesc": "Identifies physical vs chemical changes, writes word equations for chemical reactions, and investigates rust formation.",
+    "pdfPage": 107,
+    "docPage": 89,
+    "pdfUrl": "https://ncert.nic.in/pdf/publication/otherpublications/tilops101.pdf#page=107",
+    "hookAction": "DEMO",
+    "hookDemo": "Burn a magnesium ribbon over a flame to produce a bright white flash and white ash.",
+    "hookAsk": "Is the white ash formed a new chemical substance, and can we turn it back into magnesium ribbon?",
+    "streamTitle": "Physical vs Chemical Change Sorting",
+    "streamDo": "Observe changes (Ice melting, Wood burning, Water boiling, Milk souring).",
+    "streamTask": "Classify each process as a Physical Change or Chemical Change.",
+    "mountainTitle": "Rusting Reaction Equation",
+    "mountainTask": "Write the word equation for rusting of iron (Iron + Oxygen + Water -> Rust) and state two rust prevention methods.",
+    "skyTitle": "Exothermic vs Endothermic Experiment",
+    "skyTask": "Measure temperature changes when dissolving quicklime in water versus dissolving glucose in water to classify exothermic and endothermic reactions.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Physical Change", "Chemical Reaction", "Reactant & Product", "Rusting", "Exothermic / Endothermic"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Confusing phase changes (like boiling or melting) with chemical changes because gas bubbles or color shifts appear.",
+          "correctionTrigger": "Ask: 'If condensed steam turns back into pure liquid water, was a new chemical created?' Verify reversibility."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Industrial Materials & Metallurgy: Corrosion Control (Applying galvanization, oiling, and painting on iron structures)"
+      ]
+    },
+    "metaSscCode": "S714",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "SC0714 [NCERT LO Manual tilops101.pdf p. 89]",
+    "metaNcertDesc": "Differentiates physical and chemical changes.",
+    "metaNishthaText": "NISHTHA Module 6: Perform simple safe chemical reaction tests in class."
+  },
+  {
+    "id": "g7_s_15",
+    "grade": "7",
+    "subject": "science",
+    "fullTitle": "Chapter 15: Materials We Use",
+    "loDesc": "Classifies natural vs man-made materials (soaps, detergents, paper, rubber, plastic) and investigates their environmental impact.",
+    "pdfPage": 107,
+    "docPage": 89,
+    "pdfUrl": "https://ncert.nic.in/pdf/publication/otherpublications/tilops101.pdf#page=107",
+    "hookAction": "SHOW",
+    "hookDemo": "Display natural latex rubber alongside vulcanized rubber tires.",
+    "hookAsk": "How does adding sulfur during vulcanization turn soft natural rubber into tough, heat-resistant tire material?",
+    "streamTitle": "Natural vs Synthetic Sorting",
+    "streamDo": "Observe material samples (Cotton, Nylon, Wood, Plastic, Soap, Glass).",
+    "streamTask": "Classify materials into Natural or Man-made origin.",
+    "mountainTitle": "Soap vs Detergent Action",
+    "mountainTask": "Explain how detergents clean grease in hard water where soap fails to form lather.",
+    "skyTitle": "Plastic Management Strategy",
+    "skyTask": "Propose a 4R action plan (Reduce, Reuse, Recycle, Recover) for managing plastic waste in school.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Vulcanization", "Detergent vs Soap", "Synthetic Fiber", "4R Principle"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Assuming 'synthetic' or 'man-made' materials are always inferior or more hazardous than all natural materials.",
+          "correctionTrigger": "Ask: 'Can soft raw latex rubber withstand highway driving friction like vulcanized synthetic rubber?'"
+        }
+      ],
+      "crossCurricularLinks": [
+        "Environmental Science: Waste Management & Circular Economy (Executing school-wide 4R recycling programs)"
+      ]
+    },
+    "metaSscCode": "S715",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "SC0715 [NCERT LO Manual tilops101.pdf p. 89]",
+    "metaNcertDesc": "Analyzes properties and environmental impacts of natural and synthetic materials.",
+    "metaNishthaText": "NISHTHA Module 6: Organize recyclable material sorting drives."
+  },
+  {
+    "id": "g7_s_16",
+    "grade": "7",
+    "subject": "science",
+    "fullTitle": "Chapter 16: Natural Resources",
+    "loDesc": "Analyzes conservation of natural resources (water, soil, forests, minerals) and sustainable utilization strategies.",
+    "pdfPage": 107,
+    "docPage": 89,
+    "pdfUrl": "https://ncert.nic.in/pdf/publication/otherpublications/tilops101.pdf#page=107",
+    "hookAction": "SHOW",
+    "hookDemo": "Display a map showing groundwater depletion zones alongside rainwater harvesting models.",
+    "hookAsk": "Why is underground water level dropping rapidly even in areas receiving normal annual rainfall?",
+    "streamTitle": "Exhaustible vs Inexhaustible Sorting",
+    "streamDo": "Observe resources (Solar Energy, Coal, Wind, Petroleum, Water).",
+    "streamTask": "Classify resources into Exhaustible (Non-renewable) or Inexhaustible (Renewable).",
+    "mountainTitle": "Rainwater Harvesting Explanation",
+    "mountainTask": "Explain rooftop rainwater harvesting steps (Collection, Filtration, Recharge pit) in 3 sentences.",
+    "skyTitle": "Forest Conservation Plan",
+    "skyTask": "Formulate a community-level forest conservation strategy to protect local bio-reserves.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Renewable / Non-renewable", "Groundwater Recharge", "Rainwater Harvesting", "Conservation"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Believing fresh groundwater is an infinite inexhaustible resource that recharges automatically regardless of extraction rates.",
+          "correctionTrigger": "Ask: 'What happens if tube-well extraction exceeds rainwater soil infiltration for 10 straight years?'"
+        }
+      ],
+      "crossCurricularLinks": [
+        "Geography & Ecology: Resource Mapping (Studying regional watershed management and aquifer health)"
+      ]
+    },
+    "metaSscCode": "S716",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "SC0716 [NCERT LO Manual tilops101.pdf p. 89]",
+    "metaNcertDesc": "Explains natural resource management and conservation methods.",
+    "metaNishthaText": "NISHTHA Module 10: Conduct rainwater harvesting site visits."
+  },
+  {
+    "id": "g7_s_17",
+    "grade": "7",
+    "subject": "science",
+    "fullTitle": "Chapter 17: Effects of Light",
+    "loDesc": "Investigates light propagation, shadow formation, solar and lunar eclipses, and pinhole camera image formation.",
+    "pdfPage": 107,
+    "docPage": 89,
+    "pdfUrl": "https://ncert.nic.in/pdf/publication/otherpublications/tilops101.pdf#page=107",
+    "hookAction": "DEMO",
+    "hookDemo": "Align three cardboard sheets with small center holes in a straight line in front of a lit candle.",
+    "hookAsk": "Why does the candle flame disappear the moment one cardboard sheet is shifted slightly out of alignment?",
+    "streamTitle": "Umbra vs Penumbra Identification",
+    "streamDo": "Observe shadow diagrams formed by point light vs extended light sources.",
+    "streamTask": "Identify dark central Umbra and lighter surrounding Penumbra regions.",
+    "mountainTitle": "Solar vs Lunar Eclipse Diagram",
+    "mountainTask": "Draw schematic diagrams showing Sun, Earth, and Moon alignments during Solar and Lunar eclipses.",
+    "skyTitle": "Pinhole Camera Construction",
+    "skyTask": "Construct a simple pinhole camera model and explain why the image formed on the tracing paper screen is inverted.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Rectilinear Propagation", "Umbra & Penumbra", "Solar / Lunar Eclipse", "Pinhole Inversion"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Believing a lunar eclipse occurs when clouds cover the moon, or that shadows are physical material objects.",
+          "correctionTrigger": "Ask: 'What is blocking sunlight from reaching the moon during a lunar eclipse?' Trace Sun-Earth-Moon alignment."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Astronomy & Physics: Planetary Geometry (Tracing light ray paths to explain celestial eclipses)"
+      ]
+    },
+    "metaSscCode": "S717",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "SC0717 [NCERT LO Manual tilops101.pdf p. 89]",
+    "metaNcertDesc": "Investigates light propagation, shadow formation, and eclipse phenomena.",
+    "metaNishthaText": "NISHTHA Module 6: Use dark room demonstrations for shadow and eclipse modeling."
+  },
+  {
+    "id": "g7_s_18",
+    "grade": "7",
+    "subject": "science",
+    "fullTitle": "Chapter 18: Sound: Production of Sound",
+    "loDesc": "Explains sound generation by vibrating bodies, pitch, frequency, amplitude, and noise pollution control.",
+    "pdfPage": 107,
+    "docPage": 89,
+    "pdfUrl": "https://ncert.nic.in/pdf/publication/otherpublications/tilops101.pdf#page=107",
+    "hookAction": "DEMO",
+    "hookDemo": "Strike a tuning fork against a rubber pad and dip its prongs into a beaker of water.",
+    "hookAsk": "Why does water splash out instantly when the vibrating tuning fork touches it?",
+    "streamTitle": "Vibrating Source Matching",
+    "streamDo": "Observe instruments (Guitar, Drum, Flute, Tuning Fork).",
+    "streamTask": "Identify the specific vibrating part producing sound in each instrument (Strings, Membrane, Air Column).",
+    "mountainTitle": "Frequency & Pitch Relationship",
+    "mountainTask": "Explain how frequency determines pitch (high pitch vs low pitch) using bird chirping versus lion roaring examples.",
+    "skyTitle": "Noise Abatement Plan",
+    "skyTask": "Propose 3 practical steps to reduce noise pollution near residential zones and school boundaries.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Vibration", "Frequency (Hertz)", "Amplitude", "Pitch vs Loudness", "Noise Pollution"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Confusing high Pitch (frequency) with high Loudness (amplitude)—assuming a high-pitched sound is always loud.",
+          "correctionTrigger": "Ask: 'Does a squeaky mosquito buzz carry more sound volume than a deep booming bass drum?'"
+        }
+      ],
+      "crossCurricularLinks": [
+        "Music & Acoustics: Instrument Design (Relating string tension and air column length to pitch scales)"
+      ]
+    },
+    "metaSscCode": "S718",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "SC0718 [NCERT LO Manual tilops101.pdf p. 89]",
+    "metaNcertDesc": "Explains sound production, pitch, amplitude, and noise control.",
+    "metaNishthaText": "NISHTHA Module 6: Use rubber band sound boxes to demonstrate pitch variations."
+  },
+  {
+    "id": "g7_s_19",
+    "grade": "7",
+    "subject": "science",
+    "fullTitle": "Chapter 19: Properties of a Magnetic Field",
+    "loDesc": "Investigates magnetic field lines, earth's magnetism, magnetic induction, and electromagnet construction.",
+    "pdfPage": 107,
+    "docPage": 89,
+    "pdfUrl": "https://ncert.nic.in/pdf/publication/otherpublications/tilops101.pdf#page=107",
+    "hookAction": "DEMO",
+    "hookDemo": "Sprinkle iron filings over a glass plate placed above a bar magnet and tap it gently.",
+    "hookAsk": "Why do the iron filings align themselves into curved lines running from North to South pole?",
+    "streamTitle": "Magnetic Pole Interaction Sorting",
+    "streamDo": "Observe pairs of bar magnets brought close to each other.",
+    "streamTask": "Classify pole pairings (N-N, N-S, S-S) into Attraction or Repulsion.",
+    "mountainTitle": "Electromagnet Construction Steps",
+    "mountainTask": "Write down step-by-step instructions to make an electromagnet using an iron nail, copper wire, and a dry cell battery.",
+    "skyTitle": "Earth's Geographic vs Magnetic Pole Synthesis",
+    "skyTask": "Explain why a freely suspended magnetic needle points in the Geographic North-South direction.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Magnetic Field Lines", "Magnetic Induction", "Electromagnet", "Magnetic Compass"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Assuming non-magnetic metals like copper or aluminum are attracted to strong magnets like iron is.",
+          "correctionTrigger": "Ask: 'Will a magnet pick up a copper coin or aluminum foil?' Test magnetic vs non-magnetic materials."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Geographic Navigation: Compass Reading (Using magnetic bearings for maritime and outdoor navigation)"
+      ]
+    },
+    "metaSscCode": "S719",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "SC0719 [NCERT LO Manual tilops101.pdf p. 89]",
+    "metaNcertDesc": "Investigates magnetic fields, pole rules, and electromagnets.",
+    "metaNishthaText": "NISHTHA Module 6: Perform iron filing field line plotting exercises."
+  },
+  {
+    "id": "g7_s_20",
+    "grade": "7",
+    "subject": "science",
+    "fullTitle": "Chapter 20: In the World of Stars",
+    "loDesc": "Identifies constellations, stars, galaxies, and explains sky viewing techniques using a planisphere.",
+    "pdfPage": 107,
+    "docPage": 89,
+    "pdfUrl": "https://ncert.nic.in/pdf/publication/otherpublications/tilops101.pdf#page=107",
+    "hookAction": "SHOW",
+    "hookDemo": "Display a night sky map featuring Ursa Major (Saptarshi) and Cassiopeia constellations.",
+    "hookAsk": "How do ancient sailors use the Saptarshi constellation to locate the Pole Star (Dhruva Tara) at night?",
+    "streamTitle": "Constellation Shape Identification",
+    "streamDo": "Observe star pattern cards (Ursa Major, Orion, Cassiopeia, Scorpius).",
+    "streamTask": "Identify and match constellation names with their visual star patterns.",
+    "mountainTitle": "Star Life Cycle Overview",
+    "mountainTask": "Explain why stars shine due to nuclear fusion in 3 sentences.",
+    "skyTitle": "Night Sky Observation Log",
+    "skyTask": "Design a night sky observation log sheet to track Pole Star position over 7 consecutive evenings.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Constellation", "Pole Star (Dhruva)", "Galaxy", "Nuclear Fusion", "Planisphere"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Believing stars shine by burning oxygen gas like a campfire, rather than through nuclear fusion.",
+          "correctionTrigger": "Ask: 'Is there oxygen gas in outer space vacuum?' Clarify hydrogen-to-helium fusion."
+        }
+      ],
+      "crossCurricularLinks": [
+        "History & Cultural Heritage: Ancient Navigation (Exploring historical astronomical records and navigation techniques)"
+      ]
+    },
+    "metaSscCode": "S720",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "SC0720 [NCERT LO Manual tilops101.pdf p. 89]",
+    "metaNcertDesc": "Identifies celestial bodies, constellations, and sky viewing methods.",
+    "metaNishthaText": "NISHTHA Module 6: Organize evening sky-watching sessions using simple star charts."
+  }
+]

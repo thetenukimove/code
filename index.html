@@ -1,0 +1,853 @@
+<!DOCTYPE html>
+<html lang="en" class="h-full bg-[#FAF9F6] text-[#12110F] antialiased">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The Lesson — Master Index & Workspace</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+  
+  <style>
+    body {
+      font-family: 'Plus Jakarta Sans', -apple-system, sans-serif;
+      background-color: #FAF9F6;
+      color: #12110F;
+    }
+
+    .font-serif-editorial {
+      font-family: 'Newsreader', Georgia, serif;
+      letter-spacing: -0.015em;
+    }
+
+    .hairline-b {
+      border-bottom: 1px solid rgba(18, 17, 15, 0.1);
+    }
+    .hairline-t {
+      border-top: 1px solid rgba(18, 17, 15, 0.1);
+    }
+
+    .tab-active {
+      color: #12110F;
+      border-bottom: 2px solid #991B1B;
+      font-weight: 700;
+    }
+
+    .tab-inactive {
+      color: #524F4A;
+      border-bottom: 2px solid transparent;
+      font-weight: 500;
+    }
+    .tab-inactive:hover {
+      color: #12110F;
+    }
+
+    .stage-btn-active {
+      background-color: #12110F;
+      color: #FAF9F6;
+      border-color: #12110F;
+    }
+
+    .stage-btn-inactive {
+      background-color: #FFFFFF;
+      color: #524F4A;
+      border-color: rgba(18, 17, 15, 0.15);
+    }
+    .stage-btn-inactive:hover {
+      border-color: #12110F;
+      color: #12110F;
+    }
+
+    select:focus {
+      outline: none;
+      border-color: #12110F;
+    }
+  </style>
+</head>
+<body class="min-h-full flex flex-col selection:bg-[#991B1B] selection:text-[#FAF9F6]">
+
+  <!-- TOP BAR -->
+  <header class="hairline-b bg-[#FAF9F6]/90 backdrop-blur-md sticky top-0 z-50">
+    <div class="max-w-[1400px] mx-auto px-4 sm:px-8 py-3 flex flex-col md:flex-row md:items-center justify-between gap-3">
+      <div class="flex items-center gap-2.5">
+        <div class="w-6 h-6 rounded bg-[#12110F] text-white font-bold text-xs flex items-center justify-center tracking-tight">
+          SSC
+        </div>
+        <span class="text-xl font-serif-editorial font-semibold tracking-tight text-[#12110F]">
+          The Lesson<span class="text-[#991B1B]">.</span>
+        </span>
+      </div>
+
+      <!-- MAIN TABS & CANONICAL LINKS -->
+      <div class="flex flex-wrap items-center gap-x-5 gap-y-2">
+        <nav class="flex items-center gap-4 text-xs sm:text-sm">
+          <button onclick="switchTab('guide')" id="tab-btn-guide" class="pb-0.5 tab-active transition-all">
+            Guide 2.0
+          </button>
+          <button onclick="switchTab('hpc')" id="tab-btn-hpc" class="pb-0.5 tab-inactive transition-all">
+            HPC Matrix
+          </button>
+          <button onclick="switchTab('workspace')" id="tab-btn-workspace" class="pb-0.5 tab-inactive transition-all font-semibold text-[#991B1B] hover:text-[#7F1D1D]">
+            The Workspace →
+          </button>
+        </nav>
+
+        <span class="text-[#12110F]/20 hidden md:inline">|</span>
+
+        <nav class="flex items-center gap-3.5 text-xs font-medium text-[#524F4A]">
+          <a href="https://books.ebalbharati.in/" target="_blank" class="hover:text-[#12110F] transition-colors">Balbharati ↗</a>
+          <a href="https://www.maa.ac.in/index.php?tcf=sitemap" target="_blank" class="hover:text-[#12110F] transition-colors">MSCERT ↗</a>
+          <a id="dynamicLoLink" href="https://ncert.nic.in/pdf/publication/otherpublications/tilops101.pdf" target="_blank" class="text-[#991B1B] font-semibold underline underline-offset-4 hover:text-[#7F1D1D] transition-colors">NCERT LO (Grades 1–8) ↗</a>
+        </nav>
+      </div>
+    </div>
+  </header>
+
+  <!-- ======================================================= -->
+  <!-- TAB 1: GUIDE 2.0 (CHAPTERS 1–16 INDEX)                  -->
+  <!-- ======================================================= -->
+  <main id="view-guide" class="max-w-[1400px] w-full mx-auto px-4 sm:px-8 py-6 flex-1 flex flex-col gap-6">
+    <div class="space-y-1">
+      <h2 class="font-serif-editorial text-2xl sm:text-4xl font-semibold text-[#12110F]">
+        Curriculum & Policy Master Index<span class="text-[#991B1B]">.</span>
+      </h2>
+      <p class="text-xs sm:text-sm text-[#524F4A]">State governance frameworks, curriculum guidelines, and primary documentation (Chapters 1–16).</p>
+    </div>
+
+    <div class="bg-white border border-[#12110F]/12 rounded-xl overflow-hidden shadow-xs">
+      <div class="overflow-x-auto">
+        <table class="w-full text-left border-collapse">
+          <thead>
+            <tr class="text-xs font-semibold uppercase tracking-wider text-[#524F4A] border-b border-[#12110F]/10 bg-[#FAF9F6]">
+              <th class="py-2.5 px-4 w-1/5">Chapter</th>
+              <th class="py-2.5 px-4 w-1/2">Marathi Title / English Translation</th>
+              <th class="py-2.5 px-4 text-right w-1/4">Marathi Pages</th>
+            </tr>
+          </thead>
+          <tbody class="divide-y divide-[#12110F]/8 text-xs sm:text-sm">
+            
+            <tr class="hover:bg-[#FAF9F6]/60 transition-colors">
+              <td class="py-2.5 px-4 font-bold text-[#12110F]">Chapter 1</td>
+              <td class="py-2.5 px-4">
+                <div class="font-medium text-[#12110F]">राष्ट्रीय शिक्षण धोरण - २०२०</div>
+                <div class="mt-0.5">
+                  <a href="https://scert.delhi.gov.in/sites/default/files/SCERT/NEP%202020/Documents/nep_final_english_0.pdf" target="_blank" class="inline-flex items-center gap-1 text-xs font-semibold text-[#991B1B] hover:underline">
+                    Open NEP 2020 <span>→</span>
+                  </a>
+                </div>
+              </td>
+              <td class="py-2.5 px-4 text-right text-[#524F4A]">11–14</td>
+            </tr>
+
+            <tr class="hover:bg-[#FAF9F6]/60 transition-colors">
+              <td class="py-2.5 px-4 font-bold text-[#12110F]">Chapter 2</td>
+              <td class="py-2.5 px-4">
+                <div class="font-medium text-[#12110F]">राज्य अभ्यासक्रम आराखडा - पायाभूत स्तर २०२३</div>
+                <div class="mt-0.5">
+                  <a href="https://ncert.nic.in/pdf/focus-group/NCF-FS_2022EN.pdf#10#1" target="_blank" class="inline-flex items-center gap-1 text-xs font-semibold text-[#991B1B] hover:underline">
+                    Open SCF – Foundational Stage 2023 <span>→</span>
+                  </a>
+                </div>
+              </td>
+              <td class="py-2.5 px-4 text-right text-[#524F4A]">15–24</td>
+            </tr>
+
+            <tr class="hover:bg-[#FAF9F6]/60 transition-colors">
+              <td class="py-2.5 px-4 font-bold text-[#12110F]">Chapter 3</td>
+              <td class="py-2.5 px-4">
+                <div class="font-medium text-[#12110F]">राज्य अभ्यासक्रम आराखडा - शालेय शिक्षण २०२४</div>
+                <div class="mt-0.5">
+                  <a href="https://ncert.nic.in/pdf/NCFSE-2023-August_2023.pdf?trk=article-ssr-frontend-pulse_little-text-block#82#1" target="_blank" class="inline-flex items-center gap-1 text-xs font-semibold text-[#991B1B] hover:underline">
+                    Open SCF – School Education 2024 <span>→</span>
+                  </a>
+                </div>
+              </td>
+              <td class="py-2.5 px-4 text-right text-[#524F4A]">25–33</td>
+            </tr>
+
+            <tr class="hover:bg-[#FAF9F6]/60 transition-colors">
+              <td class="py-2.5 px-4 font-bold text-[#12110F]">Chapters 4–6</td>
+              <td class="py-2.5 px-4">
+                <div class="font-medium text-[#12110F]">शाळा गुणवत्ता मूल्यांकन आणि आश्वासन आराखडा (SQAAF)</div>
+                <div class="mt-0.5">
+                  <a href="https://www.maa.ac.in/documents/sqaaf/SQUAAF_Pustika_english.pdf#19#1" target="_blank" class="inline-flex items-center gap-1 text-xs font-semibold text-[#991B1B] hover:underline">
+                    Open SQAAF <span>→</span>
+                  </a>
+                </div>
+              </td>
+              <td class="py-2.5 px-4 text-right text-[#524F4A]">34–44</td>
+            </tr>
+
+            <tr class="hover:bg-[#FAF9F6]/60 transition-colors">
+              <td class="py-2.5 px-4 font-bold text-[#12110F]">Chapters 7–8</td>
+              <td class="py-2.5 px-4">
+                <div class="font-medium text-[#12110F]">अध्ययन निष्पत्ती - प्राथमिक स्तर</div>
+                <div class="mt-0.5">
+                  <a href="https://ncert.nic.in/pdf/publication/otherpublications/tilops101.pdf" target="_blank" class="inline-flex items-center gap-1 text-xs font-semibold text-[#991B1B] hover:underline">
+                    Open LO Grades I-VIII <span>→</span>
+                  </a>
+                </div>
+              </td>
+              <td class="py-2.5 px-4 text-right text-[#524F4A]">45–52</td>
+            </tr>
+
+            <tr class="hover:bg-[#FAF9F6]/60 transition-colors">
+              <td class="py-2.5 px-4 font-bold text-[#12110F]">Chapter 9</td>
+              <td class="py-2.5 px-4">
+                <div class="font-medium text-[#12110F]">अध्ययन निष्पत्ती - प्राथमिक स्तर (सातत्य)</div>
+                <div class="mt-0.5">
+                  <a href="https://ncert.nic.in/pdf/publication/otherpublications/learning_outcomes.pdf" target="_blank" class="inline-flex items-center gap-1 text-xs font-semibold text-[#991B1B] hover:underline">
+                    Open LO Grades IX & X <span>→</span>
+                  </a>
+                </div>
+              </td>
+              <td class="py-2.5 px-4 text-right text-[#524F4A]">53–58</td>
+            </tr>
+
+            <tr class="hover:bg-[#FAF9F6]/60 transition-colors">
+              <td class="py-2.5 px-4 font-bold text-[#12110F]">Chapters 10–13</td>
+              <td class="py-2.5 px-4">
+                <div class="font-medium text-[#12110F]">मूल्यांकन आराखडा - इयत्ता ६-१०</div>
+                <div class="mt-0.5">
+                  <a href="https://in.live.solas.britishcouncil.digital/sites/default/files/assessment_framework_march_2021.pdf#25#1" target="_blank" class="inline-flex items-center gap-1 text-xs font-semibold text-[#991B1B] hover:underline">
+                    Open Assessment Framework – Grades 6–10 <span>→</span>
+                  </a>
+                </div>
+              </td>
+              <td class="py-2.5 px-4 text-right text-[#524F4A]">59–73</td>
+            </tr>
+
+            <tr class="hover:bg-[#FAF9F6]/60 transition-colors">
+              <td class="py-2.5 px-4 font-bold text-[#12110F]">Chapters 14–15</td>
+              <td class="py-2.5 px-4">
+                <div class="font-medium text-[#12110F]">समग्र प्रगतिपत्रक (HPC)</div>
+                <div class="mt-0.5">
+                  <button onclick="switchTab('hpc')" class="inline-flex items-center gap-1 text-xs font-semibold text-[#991B1B] hover:underline">
+                    Open HPC <span>→</span>
+                  </button>
+                </div>
+              </td>
+              <td class="py-2.5 px-4 text-right text-[#524F4A]">74–85</td>
+            </tr>
+
+            <tr class="hover:bg-[#FAF9F6]/60 transition-colors">
+              <td class="py-2.5 px-4 font-bold text-[#12110F]">Chapter 16</td>
+              <td class="py-2.5 px-4">
+                <div class="font-medium text-[#12110F]">Abbreviations</div>
+              </td>
+              <td class="py-2.5 px-4 text-right text-[#524F4A]">86</td>
+            </tr>
+
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <!-- ABBREVIATIONS ACCORDION -->
+    <div class="bg-white border border-[#12110F]/12 rounded-xl overflow-hidden shadow-xs">
+      <button onclick="toggleAbbr()" class="w-full p-4 flex justify-between items-center text-left hover:bg-[#FAF9F6]/60 transition-colors">
+        <span class="text-xs sm:text-sm font-bold uppercase tracking-wider text-[#12110F]">Abbreviations</span>
+        <span id="abbrArrow" class="text-xs text-[#524F4A] transition-transform">▼</span>
+      </button>
+      <div id="abbrContent" class="hidden p-4 border-t border-[#12110F]/8 max-h-72 overflow-y-auto">
+        <div id="abbrGrid" class="grid grid-cols-1 md:grid-cols-2 gap-x-6 gap-y-1.5 text-xs">
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <!-- ======================================================= -->
+  <!-- TAB 2: PARAKH HPC MATRIX                                -->
+  <!-- ======================================================= -->
+  <main id="view-hpc" class="max-w-[1400px] w-full mx-auto px-4 sm:px-8 py-6 flex-1 hidden flex-col gap-6">
+    <div class="space-y-2">
+      <h2 class="font-serif-editorial text-2xl sm:text-4xl font-semibold text-[#12110F]">
+        Holistic Progress Card (HPC)<span class="text-[#991B1B]">.</span>
+      </h2>
+      <p class="text-xs sm:text-sm text-[#524F4A]">Explore the HPC framework for all four stages. Select a stage below to view the card and guide.</p>
+      <div>
+        <a href="https://parakh.ncert.gov.in/index.php/hpc" target="_blank" class="inline-flex items-center gap-1 text-xs sm:text-sm font-bold text-[#991B1B] hover:underline underline-offset-4">
+          Try HPC Hands On →
+        </a>
+      </div>
+    </div>
+
+    <div class="flex flex-col gap-5">
+      <div class="flex flex-wrap gap-2">
+        <button onclick="selectHPCStage('foundational')" id="hpc-btn-foundational" class="px-4 py-1.5 rounded-full text-xs font-bold border transition-all stage-btn-active">
+          Foundational
+        </button>
+        <button onclick="selectHPCStage('preparatory')" id="hpc-btn-preparatory" class="px-4 py-1.5 rounded-full text-xs font-bold border transition-all stage-btn-inactive">
+          Preparatory
+        </button>
+        <button onclick="selectHPCStage('middle')" id="hpc-btn-middle" class="px-4 py-1.5 rounded-full text-xs font-bold border transition-all stage-btn-inactive">
+          Middle
+        </button>
+        <button onclick="selectHPCStage('secondary')" id="hpc-btn-secondary" class="px-4 py-1.5 rounded-full text-xs font-bold border transition-all stage-btn-inactive">
+          Secondary
+        </button>
+      </div>
+
+      <div class="bg-white border border-[#12110F]/12 p-5 sm:p-6 rounded-xl space-y-5 shadow-xs">
+        <div id="hpc-output" class="space-y-4">
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <!-- ======================================================= -->
+  <!-- TAB 3: THE WORKSPACE (LESSON PLANNING ENGINE)           -->
+  <!-- ======================================================= -->
+  <main id="view-workspace" class="max-w-[1400px] w-full mx-auto px-4 sm:px-8 py-5 flex-1 hidden flex-col gap-5">
+
+    <!-- SELECTOR STRIP -->
+    <section class="grid grid-cols-1 sm:grid-cols-12 gap-4 items-end pb-4 hairline-b">
+      <div class="sm:col-span-3 lg:col-span-2">
+        <label class="block text-[11px] font-semibold uppercase tracking-wider text-[#524F4A] mb-1">Grade</label>
+        <div class="relative">
+          <select id="gradeSelect" class="w-full bg-transparent border-b-2 border-[#12110F]/20 hover:border-[#12110F] text-[#12110F] font-serif-editorial font-semibold text-base sm:text-lg py-1 pr-6 rounded-none cursor-pointer transition-colors appearance-none">
+            <option value="7" selected>Grade 7</option>
+            <option value="8">Grade 8</option>
+            <option value="9">Grade 9</option>
+            <option value="10">Grade 10</option>
+          </select>
+          <span class="absolute right-1 top-1/2 -translate-y-1/2 text-xs text-[#524F4A] pointer-events-none">↓</span>
+        </div>
+      </div>
+
+      <div class="sm:col-span-4 lg:col-span-3">
+        <label class="block text-[11px] font-semibold uppercase tracking-wider text-[#524F4A] mb-1">Subject</label>
+        <div class="relative">
+          <select id="subjectSelect" class="w-full bg-transparent border-b-2 border-[#12110F]/20 hover:border-[#12110F] text-[#12110F] font-serif-editorial font-semibold text-base sm:text-lg py-1 pr-6 rounded-none cursor-pointer transition-colors appearance-none">
+          </select>
+          <span class="absolute right-1 top-1/2 -translate-y-1/2 text-xs text-[#524F4A] pointer-events-none">↓</span>
+        </div>
+      </div>
+
+      <div class="sm:col-span-5 lg:col-span-7">
+        <label class="block text-[11px] font-semibold uppercase tracking-wider text-[#524F4A] mb-1">Chapter</label>
+        <div class="relative">
+          <select id="chapterSelect" class="w-full bg-transparent border-b-2 border-[#12110F]/20 hover:border-[#12110F] text-[#12110F] font-serif-editorial text-lg sm:text-xl font-semibold py-1 pr-6 rounded-none cursor-pointer transition-colors appearance-none truncate">
+          </select>
+          <span class="absolute right-1 top-1/2 -translate-y-1/2 text-xs text-[#524F4A] pointer-events-none">↓</span>
+        </div>
+      </div>
+    </section>
+
+    <!-- LESSON CONTAINER -->
+    <div id="contentDisplay" class="flex-1">
+    </div>
+
+  </main>
+
+  <!-- JAVASCRIPT ENGINE -->
+  <script>
+    function switchTab(tabName) {
+      const views = ['guide', 'hpc', 'workspace'];
+      views.forEach(v => {
+        const viewEl = document.getElementById('view-' + v);
+        const btnEl = document.getElementById('tab-btn-' + v);
+        if (v === tabName) {
+          viewEl.classList.remove('hidden');
+          viewEl.classList.add('flex');
+          if (v === 'workspace') {
+            btnEl.className = 'pb-0.5 tab-active font-semibold text-[#991B1B] transition-all';
+          } else {
+            btnEl.className = 'pb-0.5 tab-active transition-all';
+          }
+        } else {
+          viewEl.classList.add('hidden');
+          viewEl.classList.remove('flex');
+          if (v === 'workspace') {
+            btnEl.className = 'pb-0.5 tab-inactive font-semibold text-[#991B1B] hover:text-[#7F1D1D] transition-all';
+          } else {
+            btnEl.className = 'pb-0.5 tab-inactive transition-all';
+          }
+        }
+      });
+    }
+
+    const abbreviations = [
+      { abbr: "AP", full: "Arithmetic Progression" },
+      { abbr: "ASER", full: "Annual Status of Education Report" },
+      { abbr: "CCE", full: "Continuous and Comprehensive Evaluation" },
+      { abbr: "CIE", full: "Central Institute of Education" },
+      { abbr: "CPR", full: "Cardio Pulmonary Resuscitation" },
+      { abbr: "CWSN", full: "Children With Special Needs" },
+      { abbr: "DCS", full: "Department of Curriculum Studies" },
+      { abbr: "DEE", full: "Department of Elementary Education" },
+      { abbr: "DEGSN", full: "Department of Education of Groups with Special Needs" },
+      { abbr: "DEL", full: "Department of Education in Languages" },
+      { abbr: "DESM", full: "Department of Education in Science and Mathematics" },
+      { abbr: "DESS", full: "Department of Education in Social Sciences" },
+      { abbr: "DGS", full: "Department of Gender Studies" },
+      { abbr: "EFA", full: "Education for All" },
+      { abbr: "ESD", full: "Educational Survey Division" },
+      { abbr: "EVS", full: "Environmental Studies" },
+      { abbr: "FYP", full: "Five Year Plan" },
+      { abbr: "GDP", full: "Gross Domestic Product" },
+      { abbr: "GMR", full: "Global Monitoring Report" },
+      { abbr: "GOI", full: "Government of India" },
+      { abbr: "HCF", full: "Highest Common Factor" },
+      { abbr: "HI", full: "Hearing Impaired" },
+      { abbr: "ICT", full: "Information and Communication Technology" },
+      { abbr: "IGNOU", full: "Indira Gandhi National Open University" },
+      { abbr: "IRD", full: "International Relation Division" },
+      { abbr: "ITCZ", full: "Inter Tropical Convergence Zone" },
+      { abbr: "JNU", full: "Jawaharlal Nehru University" },
+      { abbr: "LCM", full: "Lowest Common Multiple" },
+      { abbr: "LO", full: "Learning Outcome" },
+      { abbr: "MDM", full: "Mid Day Meal" },
+      { abbr: "MHRD", full: "Ministry of Human Resource Development" },
+      { abbr: "MLA", full: "Member of Legislative Assembly" },
+      { abbr: "MLL", full: "Minimum Level of Learning" },
+      { abbr: "NAS", full: "National Achievement Survey" },
+      { abbr: "NCERT", full: "National Council of Educational Research and Training" },
+      { abbr: "NCF", full: "National Curriculum Framework" },
+      { abbr: "NPE", full: "New Education Policy" },
+      { abbr: "NROER", full: "National Repository of Open Educational Resources" },
+      { abbr: "PCI", full: "Paralympic Committee of India" },
+      { abbr: "PGT", full: "Post Graduate Teacher" },
+      { abbr: "PHC", full: "Physical Health Centre" },
+      { abbr: "PMD", full: "Planning and Monitoring Division" },
+      { abbr: "POA", full: "Programme of Action" },
+      { abbr: "PPT", full: "Power Point Presentation" },
+      { abbr: "RMSA", full: "Rashtriya Madhyamik Shiksha Abhiyan" },
+      { abbr: "RTE", full: "Right of Children to Free and Compulsory Education" },
+      { abbr: "SC", full: "Scheduled Castes" },
+      { abbr: "SDG", full: "Sustainable Development Goals" },
+      { abbr: "SEN", full: "Special Educational Needs" },
+      { abbr: "SI", full: "International Standard" },
+      { abbr: "SLAS", full: "State Level Achievement Survey" },
+      { abbr: "SMC", full: "School Management Committee" },
+      { abbr: "SSA", full: "Sarva Shiksha Abhiyan" },
+      { abbr: "ST", full: "Scheduled Tribes" },
+      { abbr: "SWAYAM", full: "Study Webs of Active Learning for Young Aspiring Minds" },
+      { abbr: "TV", full: "Television" },
+      { abbr: "UT", full: "Union Territory" },
+      { abbr: "VI", full: "Visually Impaired" }
+    ];
+
+    function renderAbbreviations() {
+      const container = document.getElementById('abbrGrid');
+      container.innerHTML = abbreviations.map(item => `
+        <div class="flex items-baseline gap-2 py-1 border-b border-[#12110F]/6">
+          <span class="font-bold text-[#12110F] min-w-[50px]">${item.abbr}</span>
+          <span class="text-[#524F4A]">${item.full}</span>
+        </div>
+      `).join('');
+    }
+
+    function toggleAbbr() {
+      const content = document.getElementById('abbrContent');
+      const arrow = document.getElementById('abbrArrow');
+      const isHidden = content.classList.contains('hidden');
+      if (isHidden) {
+        content.classList.remove('hidden');
+        arrow.style.transform = 'rotate(180deg)';
+      } else {
+        content.classList.add('hidden');
+        arrow.style.transform = 'rotate(0deg)';
+      }
+    }
+
+    const hpcData = {
+      foundational: {
+        intro: "The National Education Policy, 2020 proposes the 5+3+3+4 model of school education. The first Stage of this model is called the Foundational Stage. This stage comprises a 5-year duration starting from 'Bal Vatika' to the end of Grade 2. It includes learners within the age group of 3 to 8 years. At this stage, the primary focus of learning-teaching includes the attainment of competencies associated with foundational learning primarily through an activity and play-based teaching-learning model. It is for a holistic assessment of the learners across various grades within the Foundational Stage that the HPC for the Foundational Stage has been prepared keeping the assessment requirements for this stage in mind.",
+        card: "https://parakh.ncert.gov.in/themes/parakh/hpc-files/cards-pdf/Holistic-Progress-Card-(Foundational-Stage).pdf",
+        guide: "https://parakh.ncert.gov.in/themes/parakh/hpc-files/how-to-fill-pdf/How-to-fill-the-HPC-(Foundational-Stage).pdf"
+      },
+      preparatory: {
+        intro: "The National Education Policy, 2020 proposes the 5+3+3+4 model of school education. The second Stage of this model is called the Preparatory Stage. This stage comprises a 3-year duration starting from Grade 3 to the end of Grade 5. It includes learners within the age group of 8 to 11 years. At this stage, the nature of learning-teaching becomes slightly formalised. The HPC for this stage, therefore reflects the learning, teaching and assessment requirements devised and carefully curated to reflect the needs of the learners within this stage.",
+        card: "https://parakh.ncert.gov.in/themes/parakh/hpc-files/cards-pdf/Holistic-Progress-Card-(Preparatory-Stage).pdf",
+        guide: "https://parakh.ncert.gov.in/themes/parakh/hpc-files/how-to-fill-pdf/How-to-fill-the-HPC-(Preparatory-Stage).pdf"
+      },
+      middle: {
+        intro: "The National Education Policy, 2020 proposes the 5+3+3+4 model of school education. The third Stage of this model is called the Middle Stage. This stage constitutes 3 years of learning-teaching i.e., from the beginning of Grade 6 to the end of Grade 8. It includes learners within the age groups of 11 to 14 years. At this stage, the nature of learning-teaching becomes formalised with an introduction to the element of pre-vocation in order to prepare the learners for vocational learning at the secondary stage. The HPC for this stage, therefore reflects the learning, teaching and assessment requirements devised and carefully curated to reflect the needs of the learners within this stage.",
+        card: "https://parakh.ncert.gov.in/themes/parakh/hpc-files/cards-pdf/Holistic-Progress-Card-(Middle-Stage).pdf",
+        guide: "https://parakh.ncert.gov.in/themes/parakh/hpc-files/how-to-fill-pdf/How-to-fill-the-HPC-(Middle-Stage).pdf"
+      },
+      secondary: {
+        intro: "The National Education Policy, 2020 proposes the 5+3+3+4 model of school education. The fourth and final stage of school education is the Secondary Stage. This stage constitutes 4 years of learning-teaching i.e., from the beginning of Grade 9 to the end of Grade 12. It includes learners within the age groups of 15 to 18 years. At this stage, the nature of learning-teaching becomes formalized with an introduction to vocational education. The HPC for this stage, therefore reflects the learning, teaching and assessment requirements devised and carefully curated to reflect the needs of the learners within this stage.",
+        card: "https://parakh.ncert.gov.in/themes/parakh/hpc-files/cards-pdf/Holistic-Progress-Card-(Secondary-Stage).pdf",
+        guide: "https://parakh.ncert.gov.in/themes/parakh/hpc-files/how-to-fill-pdf/How-to-fill-the-HPC-(Secondary-Stage).pdf"
+      }
+    };
+
+    function selectHPCStage(stageKey) {
+      const stages = ['foundational', 'preparatory', 'middle', 'secondary'];
+      stages.forEach(s => {
+        const btn = document.getElementById('hpc-btn-' + s);
+        if (s === stageKey) {
+          btn.className = 'px-4 py-1.5 rounded-full text-xs font-bold border transition-all stage-btn-active';
+        } else {
+          btn.className = 'px-4 py-1.5 rounded-full text-xs font-bold border transition-all stage-btn-inactive';
+        }
+      });
+
+      const data = hpcData[stageKey];
+      const output = document.getElementById('hpc-output');
+      const stageName = stageKey.charAt(0).toUpperCase() + stageKey.slice(1);
+
+      output.innerHTML = `
+        <div class="space-y-2">
+          <h3 class="text-base font-bold text-[#12110F]">About the HPC — ${stageName} Stage</h3>
+          <p class="text-xs sm:text-sm leading-relaxed text-[#524F4A]">${data.intro}</p>
+        </div>
+        <div class="pt-3 hairline-t flex flex-wrap gap-3">
+          <a href="${data.card}" target="_blank" class="inline-flex items-center gap-1 px-3.5 py-1.5 bg-[#12110F] text-[#FAF9F6] text-xs font-semibold rounded-full hover:bg-[#991B1B] transition-colors">
+            HPC Card (${stageName} Stage) ↗
+          </a>
+          <a href="${data.guide}" target="_blank" class="inline-flex items-center gap-1 px-3.5 py-1.5 bg-white text-[#12110F] border border-[#12110F]/20 text-xs font-semibold rounded-full hover:border-[#12110F] transition-colors">
+            How to Fill HPC (${stageName} Stage) ↗
+          </a>
+        </div>
+      `;
+    }
+
+    let currentSubjectData = [];
+
+    function updateSubjectOptions() {
+      const selectedGrade = document.getElementById('gradeSelect').value;
+      const subjectSelect = document.getElementById('subjectSelect');
+      const dynamicLoLink = document.getElementById('dynamicLoLink');
+
+      subjectSelect.innerHTML = '';
+
+      if (selectedGrade === "7" || selectedGrade === "8") {
+        dynamicLoLink.href = "https://ncert.nic.in/pdf/publication/otherpublications/tilops101.pdf";
+        dynamicLoLink.innerText = "NCERT LO (Grades 1–8) ↗";
+
+        const opts = [
+          { value: "math", text: "Mathematics" },
+          { value: "science", text: "General Science" },
+          { value: "english", text: "English" }
+        ];
+        opts.forEach(o => {
+          const opt = document.createElement('option');
+          opt.value = o.value;
+          opt.text = o.text;
+          subjectSelect.add(opt);
+        });
+      } else {
+        dynamicLoLink.href = "https://ncert.nic.in/pdf/publication/otherpublications/learning_outcomes.pdf";
+        dynamicLoLink.innerText = "NCERT LO (Grades 9–10) ↗";
+
+        const opts = [
+          { value: "math1", text: "Math 1 (Algebra)" },
+          { value: "math2", text: "Math 2 (Geometry)" },
+          { value: "science1", text: "Science 1 (Physics/Chem)" },
+          { value: "science2", text: "Science 2 (Bio/EVS)" },
+          { value: "english", text: "English" }
+        ];
+        opts.forEach(o => {
+          const opt = document.createElement('option');
+          opt.value = o.value;
+          opt.text = o.text;
+          subjectSelect.add(opt);
+        });
+      }
+
+      loadSubjectData();
+    }
+
+    function loadSubjectData() {
+      const selectedGrade = document.getElementById('gradeSelect').value;
+      const selectedSubject = document.getElementById('subjectSelect').value;
+      
+      const fileName = `./data_g${selectedGrade}_${selectedSubject}.json?v=` + Date.now();
+
+      fetch(fileName)
+        .then(res => {
+          if (!res.ok) throw new Error("Subject file not found: " + fileName);
+          return res.json();
+        })
+        .then(data => {
+          currentSubjectData = data;
+          populateChapters();
+        })
+        .catch(err => {
+          document.getElementById('contentDisplay').innerHTML = `
+            <div class="py-12 text-center max-w-md mx-auto space-y-2">
+              <h3 class="font-serif-editorial text-2xl font-semibold text-[#12110F]">Data Pending</h3>
+              <p class="text-xs text-[#524F4A] leading-relaxed">
+                File <code class="bg-[#12110F]/5 px-2 py-0.5 rounded font-mono text-xs text-[#12110F]">data_g${selectedGrade}_${selectedSubject}.json</code> not found.
+              </p>
+            </div>`;
+          console.error(err);
+        });
+    }
+
+    function populateChapters() {
+      const chapterSelect = document.getElementById('chapterSelect');
+      chapterSelect.innerHTML = '';
+
+      if (!currentSubjectData || currentSubjectData.length === 0) {
+        const opt = document.createElement('option');
+        opt.value = "";
+        opt.text = "No chapters available";
+        chapterSelect.add(opt);
+      } else {
+        currentSubjectData.forEach(item => {
+          const opt = document.createElement('option');
+          opt.value = item.id;
+          opt.text = item.fullTitle;
+          chapterSelect.add(opt);
+        });
+      }
+
+      renderLessonPlan();
+    }
+
+    function renderLessonPlan() {
+      const selectedChapterId = document.getElementById('chapterSelect').value;
+      let filtered = currentSubjectData;
+
+      if (selectedChapterId) {
+        filtered = currentSubjectData.filter(item => item.id === selectedChapterId);
+      }
+
+      const display = document.getElementById('contentDisplay');
+
+      if (!filtered || filtered.length === 0) {
+        display.innerHTML = `
+          <div class="py-12 text-center space-y-2">
+            <h3 class="font-serif-editorial text-2xl font-semibold text-[#12110F]">No Chapter Selected</h3>
+            <p class="text-xs text-[#524F4A]">Please select a valid chapter.</p>
+          </div>`;
+        return;
+      }
+
+      const activeLoPortalUrl = document.getElementById('dynamicLoLink').href;
+
+      display.innerHTML = filtered.map(data => {
+        const hookActionTag = data.hookAction || 'DEMO';
+        const actionBadgeClass = (hookActionTag === "SHOW") ? "bg-[#581C87]/10 text-[#581C87] border-[#581C87]/20" : "bg-[#1E3A8A]/10 text-[#1E3A8A] border-[#1E3A8A]/20";
+
+        const diag = data.chapterDiagnostics || {};
+        const vocabList = diag.prerequisiteVocabulary || [];
+        const misconceptionsList = diag.commonMisconceptions || [];
+        const crossLinksList = diag.crossCurricularLinks || [];
+
+        return `
+          <article class="space-y-8 sm:space-y-10">
+
+            <!-- FULL TITLE -->
+            <h2 class="font-serif-editorial text-2xl sm:text-4xl text-[#12110F] font-semibold leading-tight tracking-tight">
+              ${data.fullTitle}
+            </h2>
+
+            <!-- MAIN GRID -->
+            <div class="grid grid-cols-1 lg:grid-cols-12 gap-6 lg:gap-8 items-start">
+
+              <!-- LEFT: INSTRUCTIONAL FLOW (7 COLS) -->
+              <div class="lg:col-span-7 space-y-6">
+
+                <!-- WHOLE CLASS OPENING ACTIVITY -->
+                <section class="space-y-2.5">
+                  <div class="flex items-baseline justify-between hairline-b pb-1.5">
+                    <h3 class="text-xs font-bold uppercase tracking-wider text-[#12110F]">
+                      Whole Class Opening Activity
+                    </h3>
+                  </div>
+
+                  <div class="bg-white border border-[#12110F]/12 p-4 sm:p-5 rounded-xl space-y-3.5 shadow-xs">
+                    ${data.hookDemo ? `
+                      <div class="space-y-1">
+                        <span class="inline-block px-2 py-0.5 rounded text-[11px] font-bold border ${actionBadgeClass}">
+                          ${hookActionTag}
+                        </span>
+                        <p class="text-sm sm:text-base leading-relaxed text-[#12110F] pt-0.5">
+                          ${data.hookDemo}
+                        </p>
+                      </div>
+                    ` : ''}
+
+                    ${data.streamDo ? `
+                      <div class="space-y-1 hairline-t pt-3">
+                        <span class="inline-block px-2 py-0.5 rounded text-[11px] font-bold bg-[#78350F]/10 text-[#78350F] border border-[#78350F]/20">
+                          DO
+                        </span>
+                        <p class="text-sm sm:text-base leading-relaxed text-[#12110F] pt-0.5">
+                          ${data.streamDo}
+                        </p>
+                      </div>
+                    ` : ''}
+
+                    ${data.hookAsk ? `
+                      <div class="space-y-1 hairline-t pt-3">
+                        <span class="inline-block px-2 py-0.5 rounded text-[11px] font-bold bg-[#064E3B]/10 text-[#064E3B] border border-[#064E3B]/20">
+                          ASK
+                        </span>
+                        <blockquote class="font-serif-editorial text-lg sm:text-2xl italic text-[#12110F] pt-0.5 leading-snug">
+                          "${data.hookAsk}"
+                        </blockquote>
+                      </div>
+                    ` : ''}
+                  </div>
+                </section>
+
+                <!-- DIFFERENTIATED GROUP ACTIVITIES -->
+                <section class="space-y-2.5">
+                  <div class="flex items-baseline justify-between hairline-b pb-1.5">
+                    <h3 class="text-xs font-bold uppercase tracking-wider text-[#12110F]">
+                      Differentiated Group Activities
+                    </h3>
+                  </div>
+
+                  <div class="grid grid-cols-1 sm:grid-cols-3 gap-3.5">
+                    
+                    <!-- STREAM -->
+                    <div class="bg-white border-t-3 border-t-[#78350F] border-x border-b border-[#12110F]/10 p-3.5 sm:p-4 rounded-lg flex flex-col justify-between space-y-3 shadow-xs">
+                      <div class="space-y-1.5">
+                        <span class="inline-block text-[10px] font-bold uppercase tracking-wider text-[#78350F] bg-[#78350F]/10 px-1.5 py-0.5 rounded">
+                          Stream
+                        </span>
+                        <h4 class="text-xs sm:text-sm font-bold text-[#12110F] leading-snug">
+                          ${data.streamTitle || '--'}
+                        </h4>
+                        <p class="text-xs leading-relaxed text-[#524F4A]">
+                          ${data.streamTask || '--'}
+                        </p>
+                      </div>
+                      <div class="text-[10px] font-semibold text-[#524F4A]/70 uppercase tracking-wider pt-2 hairline-t">
+                        Guided Observation
+                      </div>
+                    </div>
+
+                    <!-- MOUNTAIN -->
+                    <div class="bg-white border-t-3 border-t-[#1E3A8A] border-x border-b border-[#12110F]/10 p-3.5 sm:p-4 rounded-lg flex flex-col justify-between space-y-3 shadow-xs">
+                      <div class="space-y-1.5">
+                        <span class="inline-block text-[10px] font-bold uppercase tracking-wider text-[#1E3A8A] bg-[#1E3A8A]/10 px-1.5 py-0.5 rounded">
+                          Mountain
+                        </span>
+                        <h4 class="text-xs sm:text-sm font-bold text-[#12110F] leading-snug">
+                          ${data.mountainTitle || '--'}
+                        </h4>
+                        <p class="text-xs leading-relaxed text-[#524F4A]">
+                          ${data.mountainTask || '--'}
+                        </p>
+                      </div>
+                      <div class="text-[10px] font-semibold text-[#524F4A]/70 uppercase tracking-wider pt-2 hairline-t">
+                        Core Application
+                      </div>
+                    </div>
+
+                    <!-- SKY -->
+                    <div class="bg-white border-t-3 border-t-[#581C87] border-x border-b border-[#12110F]/10 p-3.5 sm:p-4 rounded-lg flex flex-col justify-between space-y-3 shadow-xs">
+                      <div class="space-y-1.5">
+                        <span class="inline-block text-[10px] font-bold uppercase tracking-wider text-[#581C87] bg-[#581C87]/10 px-1.5 py-0.5 rounded">
+                          Sky
+                        </span>
+                        <h4 class="text-xs sm:text-sm font-bold text-[#12110F] leading-snug">
+                          ${data.skyTitle || '--'}
+                        </h4>
+                        <p class="text-xs leading-relaxed text-[#524F4A]">
+                          ${data.skyTask || '--'}
+                        </p>
+                      </div>
+                      <div class="text-[10px] font-semibold text-[#524F4A]/70 uppercase tracking-wider pt-2 hairline-t">
+                        Advanced Synthesis
+                      </div>
+                    </div>
+
+                  </div>
+                </section>
+
+              </div>
+
+              <!-- RIGHT: REFERENCE & DIAGNOSTIC PANEL (5 COLS) -->
+              <div class="lg:col-span-5 space-y-4">
+
+                <!-- LO -->
+                <section class="bg-white border border-[#12110F]/12 p-4 rounded-xl space-y-2 shadow-xs">
+                  <div class="flex items-center justify-between border-b border-[#12110F]/8 pb-1.5">
+                    <span class="text-[11px] font-bold uppercase tracking-wider text-[#1E3A8A] bg-[#1E3A8A]/10 px-2 py-0.5 rounded">
+                      LO
+                    </span>
+                    <a href="${activeLoPortalUrl}" target="_blank" class="text-xs font-semibold text-[#991B1B] underline underline-offset-4 hover:text-[#7F1D1D]">
+                      NCERT Reference ↗
+                    </a>
+                  </div>
+                  <p class="text-xs sm:text-sm leading-relaxed text-[#12110F]">
+                    ${data.loDesc || '--'}
+                  </p>
+                </section>
+
+                <!-- DIAGNOSTIC -->
+                <section class="bg-white border border-[#12110F]/12 p-4 rounded-xl space-y-3.5 shadow-xs">
+                  <span class="inline-block text-[11px] font-bold uppercase tracking-wider text-[#12110F] bg-[#12110F]/5 px-2 py-0.5 rounded">
+                    DIAGNOSTIC
+                  </span>
+                  
+                  ${vocabList.length > 0 ? `
+                    <div class="space-y-1">
+                      <span class="text-[11px] font-semibold uppercase tracking-wider text-[#524F4A] block">
+                        Prerequisites
+                      </span>
+                      <div class="flex flex-wrap gap-1">
+                        ${vocabList.map(v => `
+                          <span class="text-xs font-medium bg-[#FAF9F6] text-[#12110F] px-2 py-0.5 rounded border border-[#12110F]/15">
+                            ${v}
+                          </span>
+                        `).join('')}
+                      </div>
+                    </div>
+                  ` : ''}
+
+                  ${misconceptionsList.length > 0 ? `
+                    <div class="space-y-2 hairline-t pt-3">
+                      ${misconceptionsList.map(m => `
+                        <div class="space-y-1 text-xs">
+                          <p class="text-[#12110F]">
+                            <strong class="font-bold text-[#78350F]">Misconception:</strong> ${m.misconception}
+                          </p>
+                          <p class="text-[#064E3B] bg-[#064E3B]/8 p-2.5 rounded-lg border border-[#064E3B]/15 leading-relaxed font-medium">
+                            <strong class="font-bold text-[#064E3B]">Fix:</strong> ${m.correctionTrigger}
+                          </p>
+                        </div>
+                      `).join('')}
+                    </div>
+                  ` : ''}
+
+                  ${crossLinksList.length > 0 ? `
+                    <div class="space-y-1 hairline-t pt-2.5 text-xs text-[#524F4A]">
+                      <span class="font-bold text-[#12110F]">Cross-Link:</span> ${crossLinksList.join(', ')}
+                    </div>
+                  ` : ''}
+                </section>
+
+                <!-- NISHTHA -->
+                ${data.metaNishthaText ? `
+                  <section class="bg-white border border-[#12110F]/12 p-4 rounded-xl space-y-1.5 shadow-xs">
+                    <span class="inline-block text-[11px] font-bold uppercase tracking-wider text-[#78350F] bg-[#78350F]/10 px-2 py-0.5 rounded">
+                      NISHTHA
+                    </span>
+                    <p class="text-xs leading-relaxed text-[#12110F]">
+                      ${data.metaNishthaText}
+                    </p>
+                  </section>
+                ` : ''}
+
+              </div>
+
+            </div>
+
+          </article>
+        `;
+      }).join('<div class="my-8 sm:my-10 hairline-b"></div>');
+    }
+
+    document.getElementById('gradeSelect').addEventListener('change', updateSubjectOptions);
+    document.getElementById('subjectSelect').addEventListener('change', loadSubjectData);
+    document.getElementById('chapterSelect').addEventListener('change', renderLessonPlan);
+
+    window.onload = function() {
+      renderAbbreviations();
+      selectHPCStage('foundational');
+      updateSubjectOptions();
+    };
+  </script>
+</body>
+</html>

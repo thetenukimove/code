@@ -1,0 +1,631 @@
+[
+  {
+    "id": "g8_m_1",
+    "grade": "8",
+    "subject": "math",
+    "fullTitle": "Chapter 1: Rational Numbers",
+    "loDesc": "Applies closure, commutativity, associativity, and distributivity properties to operations on rational numbers; represents rational numbers on a number line and finds rational numbers between any two given numbers.",
+    "pdfPage": 89,
+    "docPage": 71,
+    "pdfUrl": "https://ncert.nic.in/pdf/publication/otherpublications/tilops101.pdf#page=89",
+    "hookAction": "SHOW",
+    "hookDemo": "Display a number line marked with 0, 1, and 2 on the board.",
+    "hookAsk": "How many rational numbers can exist between 1/2 and 3/4—is it a fixed count or infinite?",
+    "streamTitle": "Property Identification & Verification",
+    "streamDo": "Observe equations showing commutative and associative arrangements of fractions.",
+    "streamTask": "Identify which property (Commutative, Associative, or Distributive) is illustrated in 4 given fraction equations.",
+    "mountainTitle": "Finding Rational Numbers Between Fractions",
+    "mountainTask": "Find 5 rational numbers between 2/3 and 4/5 by finding a common denominator.",
+    "skyTitle": "Distributive Property Word Problem",
+    "skyTask": "Use the distributive property a*(b + c) = a*b + a*c to simplify -3/4 * (2/3 + (-5/6)) in minimum steps.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Rational Number", "Distributive Property", "Additive Inverse", "Multiplicative Inverse", "Density Property"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Students assume that division of rational numbers is commutative, e.g. believing (a/b) ÷ (c/d) = (c/d) ÷ (a/b).",
+          "correctionTrigger": "Ask: 'Does 6 ÷ 2 equal 2 ÷ 6?' Test fraction division with explicit numerical examples."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Physics: Measurement Scales (Plotting positive and negative rational values on precision instrument gauges)"
+      ]
+    },
+    "metaSscCode": "M801",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "M801 [NCERT LO Manual tilops101.pdf p. 71]",
+    "metaNcertDesc": "Applies properties of rational numbers to solve arithmetic operations.",
+    "metaNishthaText": "NISHTHA Module 6: Use paper strips folded into equal fractional parts to visually demonstrate density of rational numbers."
+  },
+  {
+    "id": "g8_m_2",
+    "grade": "8",
+    "subject": "math",
+    "fullTitle": "Chapter 2: Parallel Lines and Transversals",
+    "loDesc": "Verifies angle properties formed when parallel lines are intersected by a transversal (corresponding, alternate, interior angles) and solves geometric angle problems.",
+    "pdfPage": 89,
+    "docPage": 71,
+    "pdfUrl": "https://ncert.nic.in/pdf/publication/otherpublications/tilops101.pdf#page=89",
+    "hookAction": "DEMO",
+    "hookDemo": "Use two parallel wooden sticks cut by a third transversal stick on the magnetic board.",
+    "hookAsk": "If we know just ONE angle measure, how can we determine all remaining 7 angle measures instantly?",
+    "streamTitle": "Angle Pair Classification",
+    "streamDo": "Observe transversal diagrams with marked angle pairs.",
+    "streamTask": "Classify given angle pairs into Corresponding, Alternate Interior, Alternate Exterior, or Interior angles on the same side.",
+    "mountainTitle": "Transversal Angle Calculation",
+    "mountainTask": "Two parallel lines l and m are intersected by transversal t. If one interior angle is 115°, calculate the measure of all remaining 7 angles.",
+    "skyTitle": "Parallel Line Test Proof",
+    "skyTask": "Prove geometrically that if a pair of alternate interior angles formed by a transversal is congruent, then the two lines must be parallel.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Transversal", "Alternate Interior Angles", "Corresponding Angles", "Consecutive Interior Angles"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Assuming consecutive interior angles on the same side of a transversal are equal rather than supplementary (sum = 180°).",
+          "correctionTrigger": "Ask: 'One angle is acute and the other is obtuse—can two angles of different openings be equal?'"
+        }
+      ],
+      "crossCurricularLinks": [
+        "Engineering & Architecture: Structural Blueprints (Verifying parallel beams and diagonal truss angles)"
+      ]
+    },
+    "metaSscCode": "M802",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "M802 [NCERT LO Manual tilops101.pdf p. 71]",
+    "metaNcertDesc": "Verifies properties of angles formed by parallel lines and transversals.",
+    "metaNishthaText": "NISHTHA Module 6: Use paper folding along transversal lines to verify alternate angle equality."
+  },
+  {
+    "id": "g8_m_3",
+    "grade": "8",
+    "subject": "math",
+    "fullTitle": "Chapter 3: Indices and Cube Root",
+    "loDesc": "Understands fractional indices, applies laws of exponents to fractional powers, and calculates cube roots of positive and negative integers using prime factorization.",
+    "pdfPage": 89,
+    "docPage": 71,
+    "pdfUrl": "https://ncert.nic.in/pdf/publication/otherpublications/tilops101.pdf#page=89",
+    "hookAction": "SHOW",
+    "hookDemo": "Display a wooden cube made of 27 smaller 1 cm³ unit cubes.",
+    "hookAsk": "What is the side length of this cube, and how does taking the cube root reverse cubing a number?",
+    "streamTitle": "Fractional Index Notation Conversion",
+    "streamDo": "Observe standard index expressions like 5^(1/3) and 8^(2/3).",
+    "streamTask": "Convert 4 numbers written in radical form into exponential index notation (m/n form).",
+    "mountainTitle": "Cube Root Calculation via Prime Factorization",
+    "mountainTask": "Find the cube root of 1728 using prime factorization grouping by triplets.",
+    "skyTitle": "Negative Integer Cube Root Analysis",
+    "skyTask": "Calculate the cube root of -4096 and explain why negative numbers have real negative cube roots whereas square roots do not.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Cube Root (∛)", "Fractional Index", "Radical Sign", "Prime Factorization Triplets"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Confusing dividing a number by 3 with finding its cube root (e.g. assuming ∛27 = 27 ÷ 3 = 9).",
+          "correctionTrigger": "Ask: 'Does 9 × 9 × 9 equal 27 or 729?' Emphasize finding a factor repeated 3 times."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Chemistry & Materials Science: Crystal Lattice Volume (Relating unit cell volumes to atomic edge lengths)"
+      ]
+    },
+    "metaSscCode": "M803",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "M803 [NCERT LO Manual tilops101.pdf p. 71]",
+    "metaNcertDesc": "Uses laws of exponents to find powers and cube roots.",
+    "metaNishthaText": "NISHTHA Module 6: Use unit wooden blocks to assemble cubic numbers physically."
+  },
+  {
+    "id": "g8_m_4",
+    "grade": "8",
+    "subject": "math",
+    "fullTitle": "Chapter 4: Altitudes and Medians of a Triangle",
+    "loDesc": "Constructs altitudes and medians of acute, right, and obtuse triangles; investigates point of concurrence (Orthocenter and Centroid) and centroid 2:1 division property.",
+    "pdfPage": 89,
+    "docPage": 71,
+    "pdfUrl": "https://ncert.nic.in/pdf/publication/otherpublications/tilops101.pdf#page=89",
+    "hookAction": "DEMO",
+    "hookDemo": "Balance a cardboard triangle cutout horizontally on a pencil tip placed at its centroid.",
+    "hookAsk": "Why does the point of concurrence of medians act as the exact center of gravity for any triangle?",
+    "streamTitle": "Altitude vs Median Sorting",
+    "streamDo": "Observe triangle diagrams showing perpendicular line segments and vertex-to-midpoint segments.",
+    "streamTask": "Classify line segments in 3 triangles as Altitudes (perpendicular) or Medians (bisecting opposite side).",
+    "mountainTitle": "Orthocenter Position Investigation",
+    "mountainTask": "Draw an obtuse-angled triangle, construct its 3 altitudes using set-squares, and identify the orthocenter location outside the triangle.",
+    "skyTitle": "Centroid 2:1 Division Proof",
+    "skyTask": "In triangle ABC with centroid G on median AD, if AG = 8 cm, calculate the length of GD and total median length AD.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Altitude", "Median", "Orthocenter (O)", "Centroid (G)", "Point of Concurrence"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Assuming the altitude and median of a triangle are always the same line segment.",
+          "correctionTrigger": "Ask: 'In a scalene triangle, does the perpendicular from a vertex land on the exact midpoint of the base?'"
+        }
+      ],
+      "crossCurricularLinks": [
+        "Physics & Structural Mechanics: Center of Gravity (Finding balancing points in mechanical engineering components)"
+      ]
+    },
+    "metaSscCode": "M804",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "M804 [NCERT LO Manual tilops101.pdf p. 71]",
+    "metaNcertDesc": "Constructs altitudes and medians and investigates points of concurrence.",
+    "metaNishthaText": "NISHTHA Module 6: Use cardboard cutouts to test balancing points at the centroid."
+  },
+  {
+    "id": "g8_m_5",
+    "grade": "8",
+    "subject": "math",
+    "fullTitle": "Chapter 5: Expansion Formulae",
+    "loDesc": "Expands algebraic expressions using standard identity formulae: (x+a)(x+b), (a+b)^3, (a-b)^3, and (a+b+c)^2.",
+    "pdfPage": 89,
+    "docPage": 71,
+    "pdfUrl": "https://ncert.nic.in/pdf/publication/otherpublications/tilops101.pdf#page=89",
+    "hookAction": "SHOW",
+    "hookDemo": "Display a square split into 4 rectangular sub-areas representing (x+a)(x+b) geometrically.",
+    "hookAsk": "How can we use spatial area addition to prove algebraic identity formulas without memorization?",
+    "streamTitle": "Formula Matching & Substitution",
+    "streamDo": "Observe identity expressions: (x+a)(x+b) = x^2 + (a+b)x + ab.",
+    "streamTask": "Match 4 given expansion problems with the correct algebraic identity formula.",
+    "mountainTitle": "Cube Identity Expansion",
+    "mountainTask": "Expand (2m + 3n)^3 using the identity (a+b)^3 = a^3 + 3a^2b + 3ab^2 + b^3.",
+    "skyTitle": "Numerical Evaluation using Identities",
+    "skyTask": "Evaluate (99)^3 and (102)^3 without direct long multiplication by rewriting them as (100-1)^3 and (100+2)^3.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Algebraic Identity", "Binomial Expansion", "Trinomial Square", "Coefficient"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Distributing exponents over addition, e.g. assuming (a + b)^3 = a^3 + b^3.",
+          "correctionTrigger": "Ask: 'Does (1 + 2)^3 = 3^3 = 27 equal 1^3 + 2^3 = 9?' Show missing middle cross-terms."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Computer Science: Algorithm Optimization (Using identity expansions to reduce multiplication cycles in code)"
+      ]
+    },
+    "metaSscCode": "M805",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "M805 [NCERT LO Manual tilops101.pdf p. 71]",
+    "metaNcertDesc": "Applies algebraic identities to expand expressions and evaluate numerical products.",
+    "metaNishthaText": "NISHTHA Module 6: Use algebra tiles to visualize quadratic and binomial expansions."
+  },
+  {
+    "id": "g8_m_6",
+    "grade": "8",
+    "subject": "math",
+    "fullTitle": "Chapter 6: Factorisation of Algebraic Expressions",
+    "loDesc": "Factorizes quadratic trinomials ax^2 + bx + c, expressions of the form a^3 + b^3 and a^3 - b^3, and rational algebraic expressions.",
+    "pdfPage": 89,
+    "docPage": 71,
+    "pdfUrl": "https://ncert.nic.in/pdf/publication/otherpublications/tilops101.pdf#page=89",
+    "hookAction": "SHOW",
+    "hookDemo": "Write x^2 + 5x + 6 on the board alongside factors (x + 2)(x + 3).",
+    "hookAsk": "How do we split the middle term 5x into two numbers whose sum is 5 and product is 6?",
+    "streamTitle": "Middle Term Splitting Identification",
+    "streamDo": "Observe quadratic expressions like x^2 + 7x + 12.",
+    "streamTask": "Identify pairs of factors that multiply to equal the constant term and add up to the middle coefficient.",
+    "mountainTitle": "Quadratic Trinomial Factorization",
+    "mountainTask": "Factorize 2x^2 + 9x + 10 completely by splitting the middle term.",
+    "skyTitle": "Cube Sum Formula Factorization",
+    "skyTask": "Factorize 27p^3 + 125q^3 using the formula a^3 + b^3 = (a+b)(a^2 - ab + b^2).",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Quadratic Trinomial", "Middle Term Splitting", "Common Factor", "Difference of Cubes"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Confusing the sign rules during middle term splitting when the constant term is negative.",
+          "correctionTrigger": "Ask: 'If the constant is -12, must your two split numbers have opposite signs?' Check sign products."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Physics: Kinematic Trajectories (Simplifying quadratic projectile equations through factorization)"
+      ]
+    },
+    "metaSscCode": "M806",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "M806 [NCERT LO Manual tilops101.pdf p. 71]",
+    "metaNcertDesc": "Factorizes algebraic expressions including quadratic polynomials.",
+    "metaNishthaText": "NISHTHA Module 6: Use middle-term splitting flowcharts to guide step-by-step factorization."
+  },
+  {
+    "id": "g8_m_7",
+    "grade": "8",
+    "subject": "math",
+    "fullTitle": "Chapter 7: Variation",
+    "loDesc": "Differentiates Direct Variation and Inverse Variation; uses constant of variation (k) to solve word problems involving speed, time, work, and workers.",
+    "pdfPage": 89,
+    "docPage": 71,
+    "pdfUrl": "https://ncert.nic.in/pdf/publication/otherpublications/tilops101.pdf#page=89",
+    "hookAction": "DEMO",
+    "hookDemo": "Display a table comparing speed vs time taken for a 60 km trip (30 km/h -> 2 hrs, 60 km/h -> 1 hr).",
+    "hookAsk": "When speed increases, why does time decrease proportionally—what type of variation is this?",
+    "streamTitle": "Direct vs Inverse Classification",
+    "streamDo": "Observe scenarios (Number of notebooks vs cost; Speed vs travel time; Workers vs days to complete job).",
+    "streamTask": "Classify 4 given scenarios as Direct Variation (x/y = k) or Inverse Variation (x*y = k).",
+    "mountainTitle": "Inverse Variation Calculation",
+    "mountainTask": "If 15 workers complete a wall in 48 hours, calculate how many hours 30 workers will take to complete the same wall.",
+    "skyTitle": "Compound Work & Time Synthesis",
+    "skyTask": "A pump fills a tank in 6 hours. Write the variation equation x * y = k and calculate how many pumps of equal capacity are needed to fill the tank in 2 hours.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Direct Variation", "Inverse Variation", "Constant of Variation (k)", "Proportionality"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Assuming that any scenario where two quantities grow together is direct variation, ignoring constant ratios.",
+          "correctionTrigger": "Ask: 'If age increases, height increases—does your height double when your age doubles?'"
+        }
+      ],
+      "crossCurricularLinks": [
+        "Physics: Gas Laws (Relating pressure and volume via Boyle's Law of inverse variation)"
+      ]
+    },
+    "metaSscCode": "M807",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "M807 [NCERT LO Manual tilops101.pdf p. 71]",
+    "metaNcertDesc": "Solves direct and inverse variation problems.",
+    "metaNishthaText": "NISHTHA Module 6: Use tabular data analysis to help students determine constant product vs constant ratio."
+  },
+  {
+    "id": "g8_m_8",
+    "grade": "8",
+    "subject": "math",
+    "fullTitle": "Chapter 8: Quadrilateral: Constructions and Types",
+    "loDesc": "Constructs quadrilaterals with given side/angle parameters and identifies properties of special quadrilaterals (Rectangle, Square, Rhombus, Parallelogram, Trapezium, Kite).",
+    "pdfPage": 89,
+    "docPage": 71,
+    "pdfUrl": "https://ncert.nic.in/pdf/publication/otherpublications/tilops101.pdf#page=89",
+    "hookAction": "SHOW",
+    "hookDemo": "Display a flexible wooden 4-bar linkage mechanism that changes from a square to a rhombus when pressed.",
+    "hookAsk": "Which properties remain unchanged during this transformation—side lengths, interior angles, or diagonal bisection?",
+    "streamTitle": "Special Quadrilateral Sorting",
+    "streamDo": "Observe properties (All sides equal, Opposite sides parallel, Diagonals bisect at 90°).",
+    "streamTask": "Match given geometric properties with the correct quadrilateral type (Square, Rhombus, Rectangle, Trapezium).",
+    "mountainTitle": "Quadrilateral Construction Steps",
+    "mountainTask": "Write step-by-step instructions to construct quadrilateral MORE where MO = 5.8 cm, OR = 4.4 cm, angle M = 60°, angle O = 105°, and angle R = 105°.",
+    "skyTitle": "Diagonal Property Proof",
+    "skyTask": "Prove that the diagonals of a rhombus are perpendicular bisectors of each other using triangle congruence.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Rhombus", "Parallelogram", "Trapezium", "Diagonal Bisector", "Adjacent Angles"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Believing a rectangle has all sides equal like a square, or confusing rhombus diagonals with rectangle diagonals.",
+          "correctionTrigger": "Ask: 'Are the diagonals of a long narrow rectangle equal? Do they cross at 90°?' Test with a paper cutout."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Art & Architectural Design: Tesselations & Framing (Using quadrilateral properties in tile work and roof trusses)"
+      ]
+    },
+    "metaSscCode": "M808",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "M808 [NCERT LO Manual tilops101.pdf p. 71]",
+    "metaNcertDesc": "Understands properties of special quadrilaterals and constructs them using ruler and compasses.",
+    "metaNishthaText": "NISHTHA Module 6: Use paper folding to verify diagonal bisection at right angles in a rhombus."
+  },
+  {
+    "id": "g8_m_9",
+    "grade": "8",
+    "subject": "math",
+    "fullTitle": "Chapter 9: Discount and Commission",
+    "loDesc": "Calculates Marked Price, Selling Price, Discount percentage, Rebate, Commission, and Goods and Services Tax (GST) in commercial transactions.",
+    "pdfPage": 89,
+    "docPage": 71,
+    "pdfUrl": "https://ncert.nic.in/pdf/publication/otherpublications/tilops101.pdf#page=89",
+    "hookAction": "SHOW",
+    "hookDemo": "Display a shopping bill showing Marked Price Rs 2,000, 15% Discount, and 18% GST added.",
+    "hookAsk": "Is GST calculated on the original Marked Price or on the discounted Selling Price?",
+    "streamTitle": "Commercial Term Matching",
+    "streamDo": "Observe financial terms: Marked Price, Selling Price, Discount, Commission, GST.",
+    "streamTask": "Match terms with their correct business definitions on your worksheet.",
+    "mountainTitle": "Discount Percentage Calculation",
+    "mountainTask": "A shopkeeper marks a jacket at Rs 3,000 and sells it for Rs 2,400. Calculate the discount amount and discount percentage.",
+    "skyTitle": "GST & Commission Bill Synthesis",
+    "skyTask": "An agent sells a plot worth Rs 5,00,000 at 2% commission and collects 18% GST on the commission amount. Calculate total agent earnings.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Marked Price (MP)", "Selling Price (SP)", "Discount %", "Commission Agent", "GST"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Subtracting GST from the bill total instead of adding tax onto the discounted selling price.",
+          "correctionTrigger": "Ask: 'Is tax an extra cost added by the government or a price reduction given by the seller?'"
+        }
+      ],
+      "crossCurricularLinks": [
+        "Economics & Commerce: Consumer Rights (Understanding invoice tax structures and agent brokerage fees)"
+      ]
+    },
+    "metaSscCode": "M809",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "M809 [NCERT LO Manual tilops101.pdf p. 71]",
+    "metaNcertDesc": "Solves commercial math problems involving discount, commission, and taxes.",
+    "metaNishthaText": "NISHTHA Module 6: Use real sales invoices and store receipts for authentic classroom calculations."
+  },
+  {
+    "id": "g8_m_10",
+    "grade": "8",
+    "subject": "math",
+    "fullTitle": "Chapter 10: Division of Polynomials",
+    "loDesc": "Defines degree of a polynomial; performs division of a monomial and polynomial by a monomial or binomial, writing results in Dividend = Divisor * Quotient + Remainder form.",
+    "pdfPage": 89,
+    "docPage": 71,
+    "pdfUrl": "https://ncert.nic.in/pdf/publication/otherpublications/tilops101.pdf#page=89",
+    "hookAction": "SHOW",
+    "hookDemo": "Display long division of integers alongside polynomial division (6x^2 + 8x) / 2x.",
+    "hookAsk": "How does dividing algebraic terms follow the exact same quotient rules as regular numerical division?",
+    "streamTitle": "Polynomial Degree Identification",
+    "streamDo": "Observe expressions: 3x^3 - 5x + 2, 7x^4 + 1, 9.",
+    "streamTask": "Identify the degree (highest exponent power) for 4 given polynomials.",
+    "mountainTitle": "Polynomial Long Division Calculation",
+    "mountainTask": "Divide (x^2 + 7x + 12) by (x + 3) using polynomial long division and state Quotient and Remainder.",
+    "skyTitle": "Division Algorithm Verification",
+    "skyTask": "Divide (y^3 - 3y^2 + 5y - 1) by (y - 1) and verify the relation Dividend = Divisor * Quotient + Remainder.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Degree of Polynomial", "Monomial / Binomial", "Quotient & Remainder", "Division Algorithm"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Subtracting terms during polynomial long division without reversing signs of the subtracted expression.",
+          "correctionTrigger": "Ask: 'When you subtract (3x - 5), what happens to the -5 sign?' Emphasize sign changes."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Computer Science: Coding Logic (Implementing polynomial arithmetic in symbolic algebra software)"
+      ]
+    },
+    "metaSscCode": "M810",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "M810 [NCERT LO Manual tilops101.pdf p. 71]",
+    "metaNcertDesc": "Performs division of polynomials and applies the division algorithm.",
+    "metaNishthaText": "NISHTHA Module 6: Use algebra tile arrays to demonstrate visual division of quadratic expressions."
+  },
+  {
+    "id": "g8_m_11",
+    "grade": "8",
+    "subject": "math",
+    "fullTitle": "Chapter 11: Statistics",
+    "loDesc": "Calculates Mean of grouped data using frequency distribution tables; constructs and interprets Sub-divided and Percentage bar graphs.",
+    "pdfPage": 89,
+    "docPage": 71,
+    "pdfUrl": "https://ncert.nic.in/pdf/publication/otherpublications/tilops101.pdf#page=89",
+    "hookAction": "SHOW",
+    "hookDemo": "Display a frequency table showing family sizes in a housing society alongside a sub-divided bar graph.",
+    "hookAsk": "How does a sub-divided bar graph show BOTH total population AND split categories simultaneously?",
+    "streamTitle": "Frequency Table Summation",
+    "streamDo": "Observe frequency table columns: x_i, f_i, and f_i * x_i.",
+    "streamTask": "Calculate sum of frequencies (N = sum f_i) and sum of products (sum f_i * x_i) for given data.",
+    "mountainTitle": "Mean from Frequency Table Calculation",
+    "mountainTask": "Calculate the mean score for 30 students from a given frequency table using formula Mean = (sum f_i * x_i) / N.",
+    "skyTitle": "Percentage Bar Graph Interpretation",
+    "skyTask": "Construct a percentage bar graph comparing agricultural yields (Wheat vs Rice) across 3 villages.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Frequency (f_i)", "Grouped Mean", "Sub-divided Bar Graph", "Percentage Bar Graph"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Dividing the sum of (f_i * x_i) by the total number of rows instead of total frequency N.",
+          "correctionTrigger": "Ask: 'Are there 5 data points or 30 total students?' Clarify that N is total sample size."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Social Sciences & Demographics: Census Reporting (Analyzing population proportions via stacked bar charts)"
+      ]
+    },
+    "metaSscCode": "M811",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "M811 [NCERT LO Manual tilops101.pdf p. 71]",
+    "metaNcertDesc": "Calculates mean of grouped data and constructs sub-divided and percentage bar graphs.",
+    "metaNishthaText": "NISHTHA Module 6: Collect real-time student survey data to construct frequency distribution tables."
+  },
+  {
+    "id": "g8_m_12",
+    "grade": "8",
+    "subject": "math",
+    "fullTitle": "Chapter 12: Equations in One Variable",
+    "loDesc": "Solves complex linear equations involving brackets and fractional denominators; formulates equations to solve real-life word problems involving numbers, age, and money.",
+    "pdfPage": 89,
+    "docPage": 71,
+    "pdfUrl": "https://ncert.nic.in/pdf/publication/otherpublications/tilops101.pdf#page=89",
+    "hookAction": "DEMO",
+    "hookDemo": "Set up a word puzzle: 'I think of a number, multiply it by 3, add 7, and get 22. What is my number?'",
+    "hookAsk": "How do we translate this spoken puzzle into a linear equation and solve it backward?",
+    "streamTitle": "Fractional Equation Clearing",
+    "streamDo": "Observe equations with denominators like (x/2) + (x/3) = 10.",
+    "streamTask": "Identify the LCM of denominators to multiply both sides and clear fractions.",
+    "mountainTitle": "Two-Step Linear Equation Solving",
+    "mountainTask": "Solve: (3y + 4) / (2 - 6y) = -2/5 using cross-multiplication.",
+    "skyTitle": "Consecutive Integer Word Problem",
+    "skyTask": "The sum of three consecutive even natural numbers is 186. Formulate an equation to find all three numbers.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Linear Equation", "Variable Isolation", "LCM Method", "Cross-Multiplication"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Multiplying only one term by the LCM instead of multiplying every term on both sides of the equation.",
+          "correctionTrigger": "Ask: 'If you double only one side of a balance scale, does it remain balanced?'"
+        }
+      ],
+      "crossCurricularLinks": [
+        "Financial Math & Physics: Problem Solving (Formulating algebraic formulas for motion and mixture problems)"
+      ]
+    },
+    "metaSscCode": "M812",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "M812 [NCERT LO Manual tilops101.pdf p. 71]",
+    "metaNcertDesc": "Solves linear equations in one variable and applies them to daily contextual scenarios.",
+    "metaNishthaText": "NISHTHA Module 6: Use pan-balance visual steps when clearing fractional denominators."
+  },
+  {
+    "id": "g8_m_13",
+    "grade": "8",
+    "subject": "math",
+    "fullTitle": "Chapter 13: Congruence of Triangles",
+    "loDesc": "Understands correspondence between vertices of two triangles and applies SSS, SAS, ASA, AAS, and Hypotenuse-Side (RHS) congruence tests.",
+    "pdfPage": 89,
+    "docPage": 71,
+    "pdfUrl": "https://ncert.nic.in/pdf/publication/otherpublications/tilops101.pdf#page=89",
+    "hookAction": "SHOW",
+    "hookDemo": "Overlay two paper triangles ABC and PQR directly on top of each other in front of the class.",
+    "hookAsk": "If vertex A matches vertex P, vertex B matches vertex Q, how do we write the one-to-one correspondence symbol?",
+    "streamTitle": "One-to-One Vertex Correspondence",
+    "streamDo": "Observe congruent triangles ABC and XYZ.",
+    "streamTask": "State all 3 corresponding congruent sides and 3 corresponding congruent angles given ABC <-> XYZ.",
+    "mountainTitle": "Congruence Test Selection & Proof",
+    "mountainTask": "Given triangle LMN and triangle FGH with LM=FG, LN=FH, and angle L = angle F, prove congruence and state the applicable test.",
+    "skyTitle": "RHS Congruence Test Proof",
+    "skyTask": "In right triangles ABC and PQR right-angled at B and Q, if hypotenuse AC = PR and side AB = PQ, prove congruence by RHS test.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["One-to-One Correspondence", "Congruence Tests", "Included Angle", "CPCT"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Applying the SAS test when the given congruent angle is NOT the included angle between the two congruent sides.",
+          "correctionTrigger": "Ask: 'Is the angle trapped directly between the two given sides?' Show SSA is invalid."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Mechanical Design & Carpentry: Precision Joint Fitting (Using rigid triangular templates for exact manufacturing)"
+      ]
+    },
+    "metaSscCode": "M813",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "M813 [NCERT LO Manual tilops101.pdf p. 71]",
+    "metaNcertDesc": "Establishes congruence criteria for triangles through one-to-one correspondence.",
+    "metaNishthaText": "NISHTHA Module 6: Use tracing paper overlay to physically verify matching vertices."
+  },
+  {
+    "id": "g8_m_14",
+    "grade": "8",
+    "subject": "math",
+    "fullTitle": "Chapter 14: Compound Interest",
+    "loDesc": "Calculates Compound Interest using formula A = P(1 + R/100)^N; applies population growth and asset depreciation formulas in real-world contexts.",
+    "pdfPage": 89,
+    "docPage": 71,
+    "pdfUrl": "https://ncert.nic.in/pdf/publication/otherpublications/tilops101.pdf#page=89",
+    "hookAction": "SHOW",
+    "hookDemo": "Display a comparison chart showing Simple Interest vs Compound Interest growth over 5 years for Rs 10,000.",
+    "hookAsk": "Why does Compound Interest grow significantly faster than Simple Interest after the first year?",
+    "streamTitle": "Interest Type Comparison",
+    "streamDo": "Observe interest calculations for Year 1 vs Year 2.",
+    "streamTask": "Classify given calculations into Simple Interest (principal constant) or Compound Interest (interest added to principal).",
+    "mountainTitle": "Compound Interest Formula Calculation",
+    "mountainTask": "Calculate the total Amount and Compound Interest on Rs 8,000 at 10% per annum for 2 years compounded annually.",
+    "skyTitle": "Depreciation Word Problem Analysis",
+    "skyTask": "A machine purchased for Rs 2,00,000 depreciates at 10% every year. Calculate its resale value after 3 years using formula A = P(1 - R/100)^N.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Principal (P)", "Compounded Annually", "Accumulated Amount (A)", "Depreciation Rate"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Confusing the total Accumulated Amount (A) with the Compound Interest (CI) itself.",
+          "correctionTrigger": "Ask: 'Did the bank pay you Rs 12,000 in interest alone, or is that your total balance including principal?' Remind CI = A - P."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Economics & Banking: Wealth Growth & Depreciation (Calculating interest yields on fixed deposits and vehicle resale values)"
+      ]
+    },
+    "metaSscCode": "M814",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "M814 [NCERT LO Manual tilops101.pdf p. 71]",
+    "metaNcertDesc": "Calculates compound interest, population growth, and depreciation using exponential formulas.",
+    "metaNishthaText": "NISHTHA Module 6: Use year-by-year compounding tables before introducing the exponent formula."
+  },
+  {
+    "id": "g8_m_15",
+    "grade": "8",
+    "subject": "math",
+    "fullTitle": "Chapter 15: Area",
+    "loDesc": "Calculates area of Parallelogram, Rhombus, Trapezium, Irregular Polygons, and Circle; uses Herons Formula for triangle area calculation.",
+    "pdfPage": 89,
+    "docPage": 71,
+    "pdfUrl": "https://ncert.nic.in/pdf/publication/otherpublications/tilops101.pdf#page=89",
+    "hookAction": "DEMO",
+    "hookDemo": "Cut a cardboard trapezium along its height and rearrange the two pieces into a single rectangle.",
+    "hookAsk": "How does this geometric rearrangement prove the formula Area = 1/2 * (sum of parallel sides) * height?",
+    "streamTitle": "Area Formula Matching",
+    "streamDo": "Observe 2D shapes: Rhombus, Trapezium, Parallelogram, Triangle.",
+    "streamTask": "Match given shapes with their correct area formulas on your reference sheet.",
+    "mountainTitle": "Trapezium & Rhombus Area Calculation",
+    "mountainTask": "Calculate the area of a trapezium having parallel sides 12 cm and 8 cm with a perpendicular height of 6 cm.",
+    "skyTitle": "Irregular Plot Area Breakdown",
+    "skyTask": "Break down an irregular field plot layout into triangles and trapeziums to calculate its total land surface area.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Trapezium Height", "Rhombus Diagonals (d1, d2)", "Irregular Polygon Partition", "Heron's Formula"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Using slant edge lengths instead of the perpendicular height when computing trapezium or parallelogram areas.",
+          "correctionTrigger": "Ask: 'When measuring your height, do you stand straight at 90° or slant to the side?' Height must be perpendicular."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Land Surveying & Agriculture: Field Plot Calculation (Partitioning farm fields to calculate total arable acreage)"
+      ]
+    },
+    "metaSscCode": "M815",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "M815 [NCERT LO Manual tilops101.pdf p. 71]",
+    "metaNcertDesc": "Calculates area of quadrilaterals, trapeziums, and irregular polygons.",
+    "metaNishthaText": "NISHTHA Module 6: Use grid paper partitioning to calculate complex irregular field areas."
+  },
+  {
+    "id": "g8_m_16",
+    "grade": "8",
+    "subject": "math",
+    "fullTitle": "Chapter 16: Surface Area and Volume",
+    "loDesc": "Calculates total surface area, lateral surface area, and volume of Cube, Cuboid, and Cylinder; applies unit conversion between liters and cubic cm.",
+    "pdfPage": 89,
+    "docPage": 71,
+    "pdfUrl": "https://ncert.nic.in/pdf/publication/otherpublications/tilops101.pdf#page=89",
+    "hookAction": "SHOW",
+    "hookDemo": "Display a 1-liter milk carton alongside a 10 cm x 10 cm x 10 cm cube model.",
+    "hookAsk": "Why does a cube of 10 cm x 10 cm x 10 cm hold EXACTLY 1 liter (1000 cm³) of liquid volume?",
+    "streamTitle": "Surface Area vs Volume Sorting",
+    "streamDo": "Observe scenarios (Painting a wall, Filling a tank, Wrapping a gift box, Calculating gas capacity).",
+    "streamTask": "Classify scenarios into Surface Area problems (2D border wrapping) or Volume problems (3D inner capacity).",
+    "mountainTitle": "Cylinder Surface Area & Volume Calculation",
+    "mountainTask": "Calculate total surface area (2*pi*r*(r+h)) and volume (pi*r^2*h) of a closed cylinder with radius 7 cm and height 10 cm.",
+    "skyTitle": "Water Tank Capacity Synthesis",
+    "skyTask": "A rectangular water tank is 3 m long, 2 m wide, and 1.5 m deep. Calculate its volume in cubic meters and convert to liters capacity (1 m³ = 1000 liters).",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Lateral Surface Area", "Total Surface Area", "Volume / Capacity", "Cylinder Radius & Height"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Confusing Total Surface Area with Volume, e.g. measuring storage capacity in square meters (m²) instead of cubic meters (m³).",
+          "correctionTrigger": "Ask: 'Are you painting the outside walls (m²) or filling the inside space (m³)?'"
+        }
+      ],
+      "crossCurricularLinks": [
+        "Fluid Mechanics & Hydraulics: Storage Tank Sizing (Converting 3D spatial dimensions into liquid liter storage capacity)"
+      ]
+    },
+    "metaSscCode": "M816",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "M816 [NCERT LO Manual tilops101.pdf p. 71]",
+    "metaNcertDesc": "Calculates surface area and volume of 3D solids including cylinders.",
+    "metaNishthaText": "NISHTHA Module 6: Use net fold-outs of cylinders to visually explain lateral surface area formulas."
+  },
+  {
+    "id": "g8_m_17",
+    "grade": "8",
+    "subject": "math",
+    "fullTitle": "Chapter 17: Circle: Chord and Arc",
+    "loDesc": "Verifies properties of chords (perpendicular from center bisects chord) and congruent arcs; understands inscribed angles and central angle relationships.",
+    "pdfPage": 89,
+    "docPage": 71,
+    "pdfUrl": "https://ncert.nic.in/pdf/publication/otherpublications/tilops101.pdf#page=89",
+    "hookAction": "DEMO",
+    "hookDemo": "Draw a circle on a paper cutout, draw a chord, fold the circle in half along the perpendicular bisector passing through center.",
+    "hookAsk": "Why does folding along the center line always split the chord into two equal halves?",
+    "streamTitle": "Circle Term Identification",
+    "streamDo": "Observe circle diagrams showing Radius, Diameter, Chord, Arc, and Center.",
+    "streamTask": "Identify and label 4 key circle parts on your geometry diagram.",
+    "mountainTitle": "Chord Length Calculation",
+    "mountainTask": "A chord of length 16 cm is drawn in a circle of radius 10 cm. Calculate the perpendicular distance from the center to the chord using Pythagoras theorem.",
+    "skyTitle": "Congruent Arc Theorem Proof",
+    "skyTask": "Prove that if two chords of a circle are equal in length, their corresponding subtle central angles must be congruent.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Chord", "Perpendicular Bisector", "Central Angle", "Congruent Arcs"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Assuming the longest chord of a circle is just any arbitrary line segment joining two perimeter points.",
+          "correctionTrigger": "Ask: 'Which chord passes directly through the circle's center?' Clarify that the diameter is the longest chord."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Civil Engineering & Bridge Architecture: Arch Design (Calculating chord spans and central radius for arched bridges)"
+      ]
+    },
+    "metaSscCode": "M817",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "M817 [NCERT LO Manual tilops101.pdf p. 71]",
+    "metaNcertDesc": "Understands properties of circle chords and arcs.",
+    "metaNishthaText": "NISHTHA Module 6: Use paper folding to demonstrate chord bisection perpendiculars visually."
+  }
+]

@@ -1,0 +1,224 @@
+[
+  {
+    "id": "g9_e_1",
+    "grade": "9",
+    "subject": "english",
+    "fullTitle": "Unit 1: Prose Analysis & Critical Reading",
+    "loDesc": "Reads prose texts critically to analyze character motivations, deduce implicit themes, identify authorial tone, and expand contextual vocabulary.",
+    "pdfPage": 29,
+    "docPage": 14,
+    "pdfUrl": "https://ncert.nic.in/pdf/notice/learning_outcomes.pdf#page=29",
+    "hookAction": "SHOW",
+    "hookDemo": "Display two short excerpts describing a character entering a dark room: one focused on mystery, the other focused on fear.",
+    "hookAsk": "How does the author's choice of adjectives alter the mood and atmospheric tone of the scene?",
+    "streamTitle": "Contextual Vocabulary & Synonym Matching",
+    "streamDo": "Observe 5 highlighted vocabulary words within a 150-word prose excerpt.",
+    "streamTask": "Match given contextual vocabulary words with their correct synonyms and use them in original sentences.",
+    "mountainTitle": "Character Analysis & Textual Evidence",
+    "mountainTask": "Read a given story excerpt, write a 100-word character sketch of the protagonist, and cite 2 pieces of textual evidence.",
+    "skyTitle": "Comparative Prose Synthesis",
+    "skyTask": "Compare how two different short story authors address the central theme of 'Overcoming Adversity' in a 120-word analytical paragraph.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Authorial Tone", "Atmospheric Mood", "Textual Evidence", "Protagonist / Antagonist", "Comparative Synthesis"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Confusing the atmospheric 'mood' created for the reader with the character's personal 'emotion' or 'attitude'.",
+          "correctionTrigger": "Ask: 'Does a terrifying environment (mood) mean the protagonist is feeling terrified, or could they be acting brave?'"
+        }
+      ],
+      "crossCurricularLinks": [
+        "History & Social Studies: Primary Source Analysis (Deducing authorial bias and historical perspective in prose narratives)"
+      ]
+    },
+    "metaSscCode": "E901",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "Secondary English LO [NCERT Secondary LO Document p. 14]",
+    "metaNcertDesc": "Reads prose critically to analyze character traits, themes, and authorial style.",
+    "metaNishthaText": "NISHTHA Pedagogy Note: Organize guided character role-play discussions to deepen textual empathy."
+  },
+  {
+    "id": "g9_e_2",
+    "grade": "9",
+    "subject": "english",
+    "fullTitle": "Unit 2: Poetic Appreciation & Literary Devices",
+    "loDesc": "Analyzes poetic devices (Metaphor, Simile, Personification, Imagery, Alliteration, Onomatopoeia), examines meter and rhyme, and drafts structured appreciations.",
+    "pdfPage": 29,
+    "docPage": 14,
+    "pdfUrl": "https://ncert.nic.in/pdf/notice/learning_outcomes.pdf#page=29",
+    "hookAction": "SHOW",
+    "hookDemo": "Recite two poetic lines: 'The fog comes on little cat feet' vs 'The rain came down in buckets'.",
+    "hookAsk": "What is the difference between an implied Metaphor and an explicit Simile in poetry?",
+    "streamTitle": "Poetic Device Identification",
+    "streamDo": "Observe stanza excerpts from prescribed Grade 9 poems.",
+    "streamTask": "Identify literary devices (Metaphor, Personification, Alliteration) used in given poem lines.",
+    "mountainTitle": "Structured Appreciation Writing",
+    "mountainTask": "Write a structured 5-point appreciation of a prescribed poem covering: Title, Poet, Rhyme Scheme, Figures of Speech, and Central Message.",
+    "skyTitle": "Poetic Stanza Composition",
+    "skyTask": "Compose an original 4-line stanza on 'Nature's Strength' incorporating an ABAB rhyme scheme and one Metaphor.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Implied Metaphor", "Explicit Simile", "Meter & Cadence", "Sensory Imagery", "Poetic Structure"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Believing a metaphor must always use comparison words like 'as' or 'like' (confusing it with a simile).",
+          "correctionTrigger": "Ask: 'Does \"The fog comes on little cat feet\" use the word \"like\"? Or does it equate fog directly to a cat?'"
+        }
+      ],
+      "crossCurricularLinks": [
+        "Music & Performing Arts: Lyric Composition (Relating poetic meter and rhyme schemes to musical phrasing)"
+      ]
+    },
+    "metaSscCode": "E902",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "Secondary English LO [NCERT Secondary LO Document p. 14]",
+    "metaNcertDesc": "Appreciates poetic forms, imagery, rhythm, and literary devices.",
+    "metaNishthaText": "NISHTHA Pedagogy Note: Encourage choral recitations to help students feel poetic cadence and rhythm."
+  },
+  {
+    "id": "g9_e_3",
+    "grade": "9",
+    "subject": "english",
+    "fullTitle": "Unit 3: Applied Grammar: Reported Speech & Modals",
+    "loDesc": "Converts sentences between Direct and Indirect (Reported) speech, applies modal auxiliaries accurately, and maintains subject-verb agreement in complex sentences.",
+    "pdfPage": 29,
+    "docPage": 14,
+    "pdfUrl": "https://ncert.nic.in/pdf/notice/learning_outcomes.pdf#page=29",
+    "hookAction": "DEMO",
+    "hookDemo": "Display a dialogue line: She said, 'I am studying for the exam today.'",
+    "hookAsk": "What three changes happen to tense, pronoun, and time expression when converting this into reported speech?",
+    "streamTitle": "Direct to Indirect Speech Conversion",
+    "streamDo": "Observe 4 direct speech dialogue statements.",
+    "streamTask": "Convert given direct speech sentences into indirect reported speech.",
+    "mountainTitle": "Modal Auxiliary Selection",
+    "mountainTask": "Fill in blanks across 5 contextual sentences using appropriate modal auxiliaries (must, should, can, could, might) based on necessity or possibility.",
+    "skyTitle": "Dialogue Script to Indirect Narrative Transformation",
+    "skyTask": "Rewrite a 6-line conversation script between a doctor and a patient into a continuous formal indirect narrative paragraph.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Direct vs Indirect Speech", "Reporting Verb", "Modal Auxiliaries", "Subject-Verb Concord", "Tense Shift"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Forgetting to change time and place expressions (e.g. leaving 'today' as 'today' instead of shifting to 'that day') during reported speech transformation.",
+          "correctionTrigger": "Ask: 'If you report yesterday's conversation today, does \"today\" still mean the same day?' Shift time expressions."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Journalism & Media: Interview Transcripts (Converting direct spoken interviews into objective formal news reports)"
+      ]
+    },
+    "metaSscCode": "E903",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "Secondary English LO [NCERT Secondary LO Document p. 14]",
+    "metaNcertDesc": "Uses complex grammar structures including reported speech, modals, and concord in context.",
+    "metaNishthaText": "NISHTHA Pedagogy Note: Use interview recordings for authentic reported speech conversion practice."
+  },
+  {
+    "id": "g9_e_4",
+    "grade": "9",
+    "subject": "english",
+    "fullTitle": "Unit 4: Writing Skills: Formal Letters & Complaints",
+    "loDesc": "Composes formal letters to authorities, civic bodies, and newspaper editors raising public issues, following standard block layouts.",
+    "pdfPage": 29,
+    "docPage": 14,
+    "pdfUrl": "https://ncert.nic.in/pdf/notice/learning_outcomes.pdf#page=29",
+    "hookAction": "SHOW",
+    "hookDemo": "Display a letter template highlighting the Subject Line, Salutation, 3-paragraph body, and Sign-off.",
+    "hookAsk": "Why is a clear, concise Subject Line essential in formal correspondence with government officials?",
+    "streamTitle": "Formal Letter Structure Sorting",
+    "streamDo": "Observe jumbled formal letter components (Sender Address, Date, Receiver Address, Subject, Body, Subscription).",
+    "streamTask": "Arrange jumbled layout blocks into the correct formal letter sequence.",
+    "mountainTitle": "Letter to the Editor Composition",
+    "mountainTask": "Write a formal letter (120 words) to the Editor of a local newspaper highlighting the urgent need for safe pedestrian crossings near school zones.",
+    "skyTitle": "Official Complaint Drafting",
+    "skyTask": "Draft a formal complaint letter (120 words) to the Electricity Board regarding frequent unannounced power cuts during examination preparation.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Block Layout", "Editorial Complaint", "Formal Register", "Salutation", "Subscription"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Including informal emotional language, personal family references, or conversational slang in formal letters to authorities.",
+          "correctionTrigger": "Ask: 'Are you writing to a family friend or an official administrator?' Maintain professional distance and concise facts."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Civics & Governance: Public Advocacy (Drafting formal petitions and editorial letters regarding community infrastructure)"
+      ]
+    },
+    "metaSscCode": "E904",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "Secondary English LO [NCERT Secondary LO Document p. 14]",
+    "metaNcertDesc": "Writes formal letters, editorial letters, and official complaints adhering to standard conventions.",
+    "metaNishthaText": "NISHTHA Pedagogy Note: Use real civic issues from local newspapers as writing prompts."
+  },
+  {
+    "id": "g9_e_5",
+    "grade": "9",
+    "subject": "english",
+    "fullTitle": "Unit 5: Descriptive & Narrative Writing",
+    "loDesc": "Drafts vivid descriptive essays (people, places, events) and constructs narrative compositions with well-structured plots and dialogue.",
+    "pdfPage": 29,
+    "docPage": 14,
+    "pdfUrl": "https://ncert.nic.in/pdf/notice/learning_outcomes.pdf#page=29",
+    "hookAction": "SHOW",
+    "hookDemo": "Display a picture of a crowded weekly village market.",
+    "hookAsk": "What sensory details (sounds, sights, smells) can make a reader feel present in this market?",
+    "streamTitle": "Sensory Adjective Classification",
+    "streamDo": "Observe 10 descriptive words (Fragrant, Deafening, Glistening, Coarse, Pungent).",
+    "streamTask": "Classify descriptive adjectives under Sight, Sound, Smell, or Touch categories.",
+    "mountainTitle": "Descriptive Essay Composition",
+    "mountainTask": "Write a 150-word descriptive essay about 'A Historic Monument I Visited', incorporating sensory details and architectural terms.",
+    "skyTitle": "Original Story Writing with Plot Arc",
+    "skyTask": "Write a 150-word narrative story based on the prompt: 'An unexpected encounter on a stormy night', ensuring a clear climax and resolution.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Plot Arc (Climax/Resolution)", "Sensory Imagery", "Descriptive Adjectives", "Atmospheric Setting"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Focusing narrative stories purely on action events while neglecting spatial setting, character dialogue, and sensory atmosphere.",
+          "correctionTrigger": "Ask: 'Can the reader picture where the characters are standing and hear what they say?' Balance plot action with sensory description."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Creative Arts & Drama: Narrative Staging (Developing atmospheric scene descriptions and plot arcs for performance)"
+      ]
+    },
+    "metaSscCode": "E905",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "Secondary English LO [NCERT Secondary LO Document p. 14]",
+    "metaNcertDesc": "Writes creative narratives and descriptive compositions using rich vocabulary.",
+    "metaNishthaText": "NISHTHA Pedagogy Note: Encourage mind-mapping sensory words before drafting essays."
+  },
+  {
+    "id": "g9_e_6",
+    "grade": "9",
+    "subject": "english",
+    "fullTitle": "Unit 6: Speech Writing & Debate Composition",
+    "loDesc": "Drafts persuasive speeches for school assemblies and structures logical arguments for classroom debates on social and technological issues.",
+    "pdfPage": 29,
+    "docPage": 14,
+    "pdfUrl": "https://ncert.nic.in/pdf/notice/learning_outcomes.pdf#page=29",
+    "hookAction": "SHOW",
+    "hookDemo": "Display a debate motion: 'Artificial Intelligence will do more good than harm in education.'",
+    "hookAsk": "How do you construct a strong counter-argument to refute your opponent's claim politely?",
+    "streamTitle": "Debate Argument Sorting",
+    "streamDo": "Observe 6 argument statements on a technological topic.",
+    "streamTask": "Classify statements into 'FOR the Motion' vs 'AGAINST the Motion' categories.",
+    "mountainTitle": "Assembly Speech Writing",
+    "mountainTask": "Draft a 150-word persuasive speech on 'The Role of Youth in Environmental Conservation' to be delivered in morning assembly.",
+    "skyTitle": "Debate Speech Drafting",
+    "skyTask": "Compose a 150-word debate speech arguing FOR or AGAINST the motion: 'Social Media enhances real-life social skills', including an opening hook and strong concluding call.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Debate Motion", "Rebuttal / Counter-Argument", "Persuasive Rhetoric", "Opening Hook", "Call to Action"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Confusing a debate speech with a general essay, omitting formal addresses to the chairperson/judges and counter-rebuttals.",
+          "correctionTrigger": "Ask: 'Did you address the chairperson, judges, and worthy opponents at the start of your speech?'"
+        }
+      ],
+      "crossCurricularLinks": [
+        "Philosophy & Civics: Logical Reasoning (Building structured arguments and respectful counter-rebuttals for public debates)"
+      ]
+    },
+    "metaSscCode": "E906",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "Secondary English LO [NCERT Secondary LO Document p. 14]",
+    "metaNcertDesc": "Drafts persuasive public speeches and debate arguments with logical coherence.",
+    "metaNishthaText": "NISHTHA Pedagogy Note: Conduct mock classroom debate sessions to build public speaking confidence."
+  }
+]

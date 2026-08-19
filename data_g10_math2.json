@@ -1,0 +1,261 @@
+[
+  {
+    "id": "g10_m2_1",
+    "grade": "10",
+    "subject": "math2",
+    "fullTitle": "Chapter 1: Similarity",
+    "loDesc": "Understands ratio of areas of two triangles, Basic Proportionality Theorem (BPT) and its converse, Angle Bisector Property, and Tests of Similarity of Triangles (AAA, SAS, SSS).",
+    "pdfPage": 95,
+    "docPage": 80,
+    "pdfUrl": "https://ncert.nic.in/pdf/notice/learning_outcomes.pdf#page=95",
+    "hookAction": "SHOW",
+    "hookDemo": "Display two similar triangles ABC and PQR with side ratio 1:2 on the board.",
+    "hookAsk": "If the side ratio is 1:2, why is the ratio of their enclosed areas 1:4 (square of side ratio)?",
+    "streamTitle": "Basic Proportionality Theorem Calculation",
+    "streamDo": "Observe triangle ABC where line DE is parallel to side BC intersecting AB at D and AC at E.",
+    "streamTask": "Calculate length of EC if AD = 2.4 cm, DB = 3.6 cm, and AE = 2 cm using BPT (AD/DB = AE/EC).",
+    "mountainTitle": "Angle Bisector Property Problem Solving",
+    "mountainTask": "In triangle PQR, ray QS bisects angle PQR. If PQ = 10 cm, QR = 15 cm, and PS = 8 cm, find length of SR using Angle Bisector Theorem.",
+    "skyTitle": "Theorem of Areas of Similar Triangles Proof",
+    "skyTask": "Prove geometrically that when two triangles are similar, the ratio of their areas is equal to the ratio of the squares of their corresponding sides.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Basic Proportionality Theorem (BPT)", "Angle Bisector Theorem", "AAA / SAS / SSS Similarity Tests", "Ratio of Areas"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Assuming that the ratio of the areas of two similar triangles is equal to the ratio of their sides rather than the square of the ratio of their sides.",
+          "correctionTrigger": "Ask: 'If you double both the base and height of a triangle, by what factor does its area increase (1/2 × 2b × 2h)?' Show area scales as side squared."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Optics & Physics: Image Scaling (Calculating shadow sizes and pinhole camera image magnifications using similar triangle ratios)"
+      ]
+    },
+    "metaSscCode": "M1007",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "Secondary Mathematics LO [NCERT Secondary LO Document p. 80]",
+    "metaNcertDesc": "Proves Basic Proportionality Theorem, similarity criteria, and area theorems for similar triangles.",
+    "metaNishthaText": "NISHTHA Module 6: Use grid paper overlays to demonstrate square ratios of similar triangle areas."
+  },
+  {
+    "id": "g10_m2_2",
+    "grade": "10",
+    "subject": "math2",
+    "fullTitle": "Chapter 2: Pythagoras Theorem",
+    "loDesc": "Proves Similarity in Right-Angled Triangles, Geometric Mean Theorem, Pythagoras Theorem and its converse, and applies Apollonius Theorem in triangles.",
+    "pdfPage": 95,
+    "docPage": 80,
+    "pdfUrl": "https://ncert.nic.in/pdf/notice/learning_outcomes.pdf#page=95",
+    "hookAction": "DEMO",
+    "hookDemo": "Draw a right-angled triangle ABC and drop a altitude BD from right-angle vertex B onto hypotenuse AC.",
+    "hookAsk": "How does dropping this single altitude create THREE similar right-angled triangles simultaneously?",
+    "streamTitle": "Geometric Mean Theorem Practice",
+    "streamDo": "Observe altitude BD on hypotenuse AC splitting it into segments AD and DC.",
+    "streamTask": "Calculate BD using Geometric Mean Theorem (BD^2 = AD * DC) when AD = 4 cm and DC = 9 cm.",
+    "mountainTitle": "Pythagoras Theorem Proof Writing",
+    "mountainTask": "Prove geometrically that in a right-angled triangle, the square of the hypotenuse is equal to the sum of the squares of the remaining two sides.",
+    "skyTitle": "Apollonius Theorem Application",
+    "skyTask": "In triangle ABC, AD is a median to side BC. If AB = 10 cm, AC = 14 cm, and BC = 16 cm, find length of median AD using Apollonius Theorem (AB^2 + AC^2 = 2AD^2 + 2BD^2).",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Hypotenuse", "Geometric Mean Theorem", "Apollonius Theorem", "Converse of Pythagoras Theorem"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Applying Apollonius Theorem to right-angled triangles without identifying which side is bisected by the median.",
+          "correctionTrigger": "Ask: 'Which side does median AD bisect?' Verify that BD = CD = 1/2 BC before setting up the equation."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Civil Engineering & Surveying: Diagonal Distance Calculation (Calculating structural brace lengths and straight-line ground distances)"
+      ]
+    },
+    "metaSscCode": "M1008",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "Secondary Mathematics LO [NCERT Secondary LO Document p. 80]",
+    "metaNcertDesc": "Proves Pythagoras Theorem, Geometric Mean Theorem, and applies Apollonius Theorem.",
+    "metaNishthaText": "NISHTHA Module 6: Use square cutouts on sides of right triangles to verify area equality physically."
+  },
+  {
+    "id": "g10_m2_3",
+    "grade": "10",
+    "subject": "math2",
+    "fullTitle": "Chapter 3: Circle",
+    "loDesc": "Understands Tangent-Radius Theorem, Tangent Segments Theorem, Touching Circles, Inscribed Angle Theorem, Inscribed Arc, Cyclic Quadrilateral Theorem, and Secant-Tangent Theorem.",
+    "pdfPage": 95,
+    "docPage": 80,
+    "pdfUrl": "https://ncert.nic.in/pdf/notice/learning_outcomes.pdf#page=95",
+    "hookAction": "SHOW",
+    "hookDemo": "Display a circle with two tangent segments drawn from a single external point P touching at A and B.",
+    "hookAsk": "Why are tangent segments drawn from an external point to a circle always equal in length (PA = PB)?",
+    "streamTitle": "Cyclic Quadrilateral Angle Calculation",
+    "streamDo": "Observe cyclic quadrilateral ABCD inscribed in a circle.",
+    "streamTask": "Calculate opposite angle C when angle A = 75° using Cyclic Quadrilateral Theorem (opposite angles are supplementary).",
+    "mountainTitle": "Inscribed Angle Theorem Proof",
+    "mountainTask": "Prove that the measure of an inscribed angle is half the measure of the arc intercepted by it.",
+    "skyTitle": "Tangent Segment Theorem Proof Writing",
+    "skyTask": "Prove geometrically that tangent segments drawn from an external point to a circle are congruent.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Tangent Segment Theorem", "Inscribed Angle Theorem", "Cyclic Quadrilateral", "Secant-Tangent Theorem"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Confusing central angle measures with inscribed angle measures (e.g., assuming an inscribed angle equals the measure of its intercepted arc).",
+          "correctionTrigger": "Ask: 'Is the vertex of the angle at the center or on the circle circumference?' Inscribed angle = 1/2 intercepted arc."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Mechanical Design & Astronomy: Planetary Orbits & Gear Mechanics (Calculating contact angles and cyclic quadrilateral force vectors)"
+      ]
+    },
+    "metaSscCode": "M1009",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "Secondary Mathematics LO [NCERT Secondary LO Document p. 80]",
+    "metaNcertDesc": "Proves tangent theorems, cyclic quadrilateral theorem, and inscribed angle properties.",
+    "metaNishthaText": "NISHTHA Module 6: Use paper folding along circle diameters to verify right angles formed by tangents."
+  },
+  {
+    "id": "g10_m2_4",
+    "grade": "10",
+    "subject": "math2",
+    "fullTitle": "Chapter 4: Geometric Constructions",
+    "loDesc": "Constructs tangents to a circle using center and without using center, and constructs similar triangles sharing a common vertex or separate vertices.",
+    "pdfPage": 95,
+    "docPage": 80,
+    "pdfUrl": "https://ncert.nic.in/pdf/notice/learning_outcomes.pdf#page=95",
+    "hookAction": "DEMO",
+    "hookDemo": "Construct a circle with center O and radius 3 cm on the board using a chalkboard compass.",
+    "hookAsk": "How do we locate the exact perpendicular bisector steps to draw two tangents from a point 7 cm away from O?",
+    "streamTitle": "Construction Parameter Verification",
+    "streamDo": "Observe similarity ratio 3/5 for constructing a similar triangle.",
+    "streamTask": "Determine whether the new triangle will be larger or smaller than the original triangle.",
+    "mountainTitle": "Tangent Construction from External Point",
+    "mountainTask": "Write step-by-step instructions to construct tangents to a circle of radius 3.5 cm from a point P at a distance of 6 cm from its center.",
+    "skyTitle": "Similar Triangle Construction (Shared Vertex)",
+    "skyTask": "Construct triangle ABC similar to triangle LMN where AB = 5.5 cm, BC = 6 cm, CA = 4.5 cm, and side ratio BC/MN = 5/4.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Tangent Construction", "External Point", "Similar Triangle Construction", "Scale Factor Ratio"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Misinterpreting scale factor ratios m/n when constructing similar triangles with a shared vertex (e.g. extending the wrong side when m > n).",
+          "correctionTrigger": "Ask: 'Is the target triangle larger or smaller than the given triangle?' Check if scale ratio > 1 or < 1."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Architectural Drafting & Engineering: Technical Scale Drawings (Constructing scaled structural components using compass bisectors)"
+      ]
+    },
+    "metaSscCode": "M1010",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "Secondary Mathematics LO [NCERT Secondary LO Document p. 80]",
+    "metaNcertDesc": "Constructs tangents to circles and constructs similar triangles using compass and ruler.",
+    "metaNishthaText": "NISHTHA Module 6: Emphasize drawing labeled rough sketches with measurements prior to formal compass work."
+  },
+  {
+    "id": "g10_m2_5",
+    "grade": "10",
+    "subject": "math2",
+    "fullTitle": "Chapter 5: Coordinate Geometry",
+    "loDesc": "Applies Distance Formula d = sqrt[(x2-x1)^2 + (y2-y1)^2], Section Formula, Midpoint Formula, Centroid Formula, and calculates Slope of a line m = (y2-y1)/(x2-x1).",
+    "pdfPage": 95,
+    "docPage": 80,
+    "pdfUrl": "https://ncert.nic.in/pdf/notice/learning_outcomes.pdf#page=95",
+    "hookAction": "SHOW",
+    "hookDemo": "Display a right-angled triangle formed on a Cartesian coordinate grid between points A(x1,y1) and B(x2,y2).",
+    "hookAsk": "How does applying the Pythagoras theorem to grid differences (x2-x1) and (y2-y1) derive the Distance Formula?",
+    "streamTitle": "Midpoint & Centroid Calculation",
+    "streamDo": "Observe points A(2, 4) and B(6, 8).",
+    "streamTask": "Calculate the midpoint coordinates M[(x1+x2)/2, (y1+y2)/2] for segment AB.",
+    "mountainTitle": "Section Formula Internal Division Problem",
+    "mountainTask": "Find coordinates of point P that divides segment joining A(-1, 7) and B(4, -3) in ratio 2:3 internally using Section Formula.",
+    "skyTitle": "Slope Comparison Collinearity Proof",
+    "skyTask": "Prove that points A(1, -1), B(0, 4), and C(-2, 14) are collinear by showing slope(AB) = slope(BC).",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Distance Formula", "Section Formula (m:n)", "Midpoint Formula", "Slope of a Line (m)", "Collinear Points"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Mixing up x and y values in the slope formula, e.g. writing m = (x2 - x1) / (y2 - y1).",
+          "correctionTrigger": "Ask: 'Is slope defined as Vertical Rise over Horizontal Run (Δy / Δx)?' Keep Y-difference in the numerator."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Physics & Robotics: Kinematic Navigation (Calculating spatial distance vectors and trajectory slopes in 2D coordinate space)"
+      ]
+    },
+    "metaSscCode": "M1011",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "Secondary Mathematics LO [NCERT Secondary LO Document p. 80]",
+    "metaNcertDesc": "Applies distance formula, section formula, midpoint formula, and calculates slopes of lines.",
+    "metaNishthaText": "NISHTHA Module 6: Use graph paper plots to visually check calculated midpoint and centroid positions."
+  },
+  {
+    "id": "g10_m2_6",
+    "grade": "10",
+    "subject": "math2",
+    "fullTitle": "Chapter 6: Trigonometry",
+    "loDesc": "Proves fundamental trigonometric identities (sin^2 theta + cos^2 theta = 1, 1 + tan^2 theta = sec^2 theta, 1 + cot^2 theta = cosec^2 theta) and solves real-life Heights and Distances word problems.",
+    "pdfPage": 95,
+    "docPage": 80,
+    "pdfUrl": "https://ncert.nic.in/pdf/notice/learning_outcomes.pdf#page=95",
+    "hookAction": "SHOW",
+    "hookDemo": "Display an observer looking up at a lighthouse (Angle of Elevation) vs looking down at a boat (Angle of Depression).",
+    "hookAsk": "Why is the Angle of Elevation from observer to top equal to the Angle of Depression from top to observer?",
+    "streamTitle": "Trigonometric Identity Verification",
+    "streamDo": "Observe identity: sin^2 theta + cos^2 theta = 1.",
+    "streamTask": "Express tan theta and sec theta in terms of sin theta and cos theta.",
+    "mountainTitle": "Heights & Distances Single Triangle Problem",
+    "mountainTask": "A person standing 50 m away from the base of a tower observes its top at an angle of elevation of 45°. Calculate height of tower using tan(45°) = 1.",
+    "skyTitle": "Complex Trigonometric Proof",
+    "skyTask": "Prove identity: (sec theta - cos theta) * (cot theta + tan theta) = tan theta * sec theta.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Pythagorean Trigonometric Identities", "Angle of Elevation", "Angle of Depression", "Line of Sight"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Measuring the angle of depression from the vertical wall instead of from the horizontal line of sight.",
+          "correctionTrigger": "Ask: 'Where is the observer's horizontal eye-line?' Draw the horizontal line from the observer first."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Navigation & Civil Engineering: Clinometer Surveying (Determining heights of trees, towers, and incline gradients)"
+      ]
+    },
+    "metaSscCode": "M1012",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "Secondary Mathematics LO [NCERT Secondary LO Document p. 80]",
+    "metaNcertDesc": "Proves trigonometric identities and solves contextual problems on heights and distances.",
+    "metaNishthaText": "NISHTHA Module 6: Use clinometers made in class to measure heights of trees or school buildings."
+  },
+  {
+    "id": "g10_m2_7",
+    "grade": "10",
+    "subject": "math2",
+    "fullTitle": "Chapter 7: Mensuration",
+    "loDesc": "Calculates Area of Sector A = (theta/360) * pi * r^2, Length of Arc l = (theta/360) * 2*pi*r, Area of Segment, and Surface Area and Volume of Frustum of a Cone.",
+    "pdfPage": 95,
+    "docPage": 80,
+    "pdfUrl": "https://ncert.nic.in/pdf/notice/learning_outcomes.pdf#page=95",
+    "hookAction": "SHOW",
+    "hookDemo": "Display a full cone and slice off its top parallel to the base to expose a Frustum shape (drinking glass shape).",
+    "hookAsk": "How do two different top and bottom radii (r1 and r2) modify the volume formula for a frustum of a cone?",
+    "streamTitle": "Sector & Arc Length Formula Matching",
+    "streamDo": "Observe circle parameters: Radius r = 7 cm, Central Angle theta = 60°.",
+    "streamTask": "Match given parameters with correct Arc Length (l) and Sector Area (A) formulas.",
+    "mountainTitle": "Area of Sector & Arc Length Calculation",
+    "mountainTask": "Find the length of arc and area of sector of a circle with radius 21 cm if central angle is 60°.",
+    "skyTitle": "Frustum of Cone Volume Problem",
+    "skyTask": "A bucket in the shape of a frustum of a cone has top radius 28 cm, bottom radius 7 cm, and height 45 cm. Calculate its water holding capacity in liters using Volume = (1/3)*pi*h*(r1^2 + r2^2 + r1*r2).",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Arc Length (l)", "Area of Sector", "Area of Segment", "Frustum of a Cone", "Central Angle (θ)"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Confusing the Area of a Sector (pie wedge) with the Area of a Segment (region between chord and arc).",
+          "correctionTrigger": "Ask: 'To find the segment area, do you subtract the triangle area from the sector area?' Clarify Segment = Sector - Triangle."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Industrial Container Design & Hydraulics: Volumetric Capacity (Calculating liquid holding capacities of bucket frustums and conical hoppers)"
+      ]
+    },
+    "metaSscCode": "M1013",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "Secondary Mathematics LO [NCERT Secondary LO Document p. 80]",
+    "metaNcertDesc": "Calculates area of sectors, segments of circles, and surface area/volume of frustums.",
+    "metaNishthaText": "NISHTHA Module 6: Use cardboard cutouts of circle sectors to visually assemble full circles."
+  }
+]

@@ -1,0 +1,335 @@
+[
+  {
+    "id": "g9_m2_1",
+    "grade": "9",
+    "subject": "math2",
+    "fullTitle": "Chapter 1: Basic Concepts in Geometry",
+    "loDesc": "Understands undefined terms (point, line, plane), distance on a number line, betweenness property, conditional statements, converse, and direct/indirect geometric proofs.",
+    "pdfPage": 91,
+    "docPage": 76,
+    "pdfUrl": "https://ncert.nic.in/pdf/notice/learning_outcomes.pdf#page=91",
+    "hookAction": "SHOW",
+    "hookDemo": "Display three points A, B, and C on a line where d(A,B) = 3 and d(B,C) = 4.",
+    "hookAsk": "Under what condition does d(A,C) equal 7, and what does this tell us about betweenness P-Q-R?",
+    "streamTitle": "Conditional & Converse Statement Identification",
+    "streamDo": "Observe conditional statement: 'If a quadrilateral is a rhombus, then its diagonals are perpendicular.'",
+    "streamTask": "Identify Given hypothesis and To Prove conclusion, then write the Converse statement.",
+    "mountainTitle": "Distance & Betweenness Calculation",
+    "mountainTask": "Co-ordinates of points P and Q on a number line are -3 and 5 respectively. Find distance d(P, Q) using d(P,Q) = Larger co-ordinate - Smaller co-ordinate.",
+    "skyTitle": "Vertically Opposite Angles Indirect Proof",
+    "skyTask": "Prove geometrically that vertically opposite angles formed by two intersecting lines are congruent.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Undefined Terms", "Betweenness (A-B-C)", "Conditional Statement", "Converse Statement", "Direct vs Indirect Proof"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Assuming the converse of a true conditional statement is always automatically true.",
+          "correctionTrigger": "Ask: 'If an animal is a dog, it has four legs (true). Is the converse \"If an animal has four legs, it is a dog\" also true?' Show counterexamples."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Logic & Philosophy: Formal Deduction (Structuring hypothesis-conclusion conditional proofs)"
+      ]
+    },
+    "metaSscCode": "M908",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "Secondary Mathematics LO [NCERT Secondary LO Document p. 76]",
+    "metaNcertDesc": "Understands fundamental axioms, conditional statements, and geometric proofs.",
+    "metaNishthaText": "NISHTHA Module 6: Use number lines marked on classroom floors for physical distance walk-throughs."
+  },
+  {
+    "id": "g9_m2_2",
+    "grade": "9",
+    "subject": "math2",
+    "fullTitle": "Chapter 2: Parallel Lines",
+    "loDesc": "Verifies Interior Angle Theorem, Alternate Angle Theorem, Corresponding Angle Theorem, and tests for parallel lines using transversal angle relationships.",
+    "pdfPage": 91,
+    "docPage": 76,
+    "pdfUrl": "https://ncert.nic.in/pdf/notice/learning_outcomes.pdf#page=91",
+    "hookAction": "DEMO",
+    "hookDemo": "Use two parallel wooden bars cut by a transversal bar with a magnetic protractor.",
+    "hookAsk": "If interior angles on one side of a transversal add up to 170°, why MUST the two lines intersect if extended?",
+    "streamTitle": "Transversal Angle Pair Identification",
+    "streamDo": "Observe transversal diagrams with marked angle pairs.",
+    "streamTask": "Classify angle pairs as Alternate Interior, Corresponding, or Interior angles on the same side.",
+    "mountainTitle": "Parallel Line Angle Calculation",
+    "mountainTask": "In a given figure with line l parallel to line m, if one alternate angle is (2x + 10)° and the other is (3x - 20)°, solve for x and calculate the angle.",
+    "skyTitle": "Interior Angle Theorem Proof Writing",
+    "skyTask": "Prove that if two parallel lines are cut by a transversal, the interior angles on either side of the transversal are supplementary (sum = 180°).",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Transversal", "Interior Angles Theorem", "Alternate Angles Theorem", "Corresponding Angles Test"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Thinking that interior angles on the same side of a transversal are equal rather than supplementary.",
+          "correctionTrigger": "Ask: 'Look at the two interior angles—one is acute and one is obtuse. Can an acute angle equal an obtuse angle?'"
+        }
+      ],
+      "crossCurricularLinks": [
+        "Architecture & Civil Drafting: Structural Frameworks (Checking parallel alignment in building trusses using transversal angle tests)"
+      ]
+    },
+    "metaSscCode": "M909",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "Secondary Mathematics LO [NCERT Secondary LO Document p. 76]",
+    "metaNcertDesc": "Proves theorems on parallel lines and applies transversal properties.",
+    "metaNishthaText": "NISHTHA Module 6: Use paper tracing overlays to demonstrate corresponding angle congruence."
+  },
+  {
+    "id": "g9_m2_3",
+    "grade": "9",
+    "subject": "math2",
+    "fullTitle": "Chapter 3: Triangles",
+    "loDesc": "Applies Theorem of Remote Interior Angles, Congruence of Triangles (SSS, SAS, ASA, RHS), Isosceles Triangle Theorem, 30°-60°-90° and 45°-45°-90° Triangle Theorems, and Median Properties.",
+    "pdfPage": 91,
+    "docPage": 76,
+    "pdfUrl": "https://ncert.nic.in/pdf/notice/learning_outcomes.pdf#page=91",
+    "hookAction": "SHOW",
+    "hookDemo": "Display a 30°-60°-90° set-square on the board.",
+    "hookAsk": "Why is the side opposite to the 30° angle always EXACTLY half the length of the hypotenuse?",
+    "streamTitle": "Remote Interior Angle Calculation",
+    "streamDo": "Observe triangle ABC where exterior angle at C is 110° and remote interior angle A is 50°.",
+    "streamTask": "Calculate the measure of remote interior angle B using Exterior Angle Theorem.",
+    "mountainTitle": "30°-60°-90° Theorem Application",
+    "mountainTask": "In right-angled triangle LMN, angle M = 90°, angle L = 30°, and hypotenuse LN = 12 cm. Find lengths of sides MN and LM.",
+    "skyTitle": "Isosceles Triangle Theorem Proof",
+    "skyTask": "Prove that if two sides of a triangle are congruent, then the angles opposite to them are congruent.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Remote Interior Angles", "Isosceles Triangle Theorem", "30°-60°-90° Theorem", "45°-45°-90° Theorem"],
+      "commonMisconceptions": [
+        {
+          "misconception": "In a 30°-60°-90° triangle, assuming the side opposite 60° is half the hypotenuse instead of the side opposite 30°.",
+          "correctionTrigger": "Ask: 'Which angle is smaller, 30° or 60°? Should the smaller angle face the shorter side (1/2 hyp) or longer side (√3/2 hyp)?'"
+        }
+      ],
+      "crossCurricularLinks": [
+        "Physics & Trigonometry: Force Vector Resolution (Resolving inclined forces into 30°-60°-90° component lengths)"
+      ]
+    },
+    "metaSscCode": "M910",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "Secondary Mathematics LO [NCERT Secondary LO Document p. 76]",
+    "metaNcertDesc": "Proves properties of triangles including isosceles and special right-angled triangle theorems.",
+    "metaNishthaText": "NISHTHA Module 6: Cut out set-square replicas to physically verify side ratios in 30-60-90 triangles."
+  },
+  {
+    "id": "g9_m2_4",
+    "grade": "9",
+    "subject": "math2",
+    "fullTitle": "Chapter 4: Constructions of Triangles",
+    "loDesc": "Constructs triangles given base, angle adjacent to base, and sum of remaining two sides; difference of remaining two sides; or perimeter and two base angles.",
+    "pdfPage": 91,
+    "docPage": 76,
+    "pdfUrl": "https://ncert.nic.in/pdf/notice/learning_outcomes.pdf#page=91",
+    "hookAction": "DEMO",
+    "hookDemo": "Draw a rough sketch of a triangle on the board showing Base = 6 cm, angle B = 60°, and AB + AC = 9 cm.",
+    "hookAsk": "How does constructing a perpendicular bisector help locate the exact position of vertex A?",
+    "streamTitle": "Construction Type Identification",
+    "streamDo": "Observe given parameters (Base, Base Angle, Sum/Difference/Perimeter).",
+    "streamTask": "Classify 3 construction problems into Type 1 (Sum given), Type 2 (Difference given), or Type 3 (Perimeter given).",
+    "mountainTitle": "Base & Side Sum Construction Steps",
+    "mountainTask": "Write step-by-step instructions to construct triangle ABC in which BC = 6.3 cm, angle B = 75°, and AB + AC = 9 cm.",
+    "skyTitle": "Perimeter Construction Proof",
+    "skyTask": "Construct triangle PQR with perimeter 11 cm, angle Q = 60°, and angle R = 45°, justifying why the constructed sides sum to 11 cm.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Perpendicular Bisector", "Base & Base Angles", "Locus", "Rough Sketch Parameter"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Drawing the final triangle without constructing a rough sketch first, leading to incorrect arc intersections.",
+          "correctionTrigger": "Ask: 'Where will your compass arc land if you don't know which side represents the sum segment?' Always draw a rough sketch."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Engineering Graphics: Geometric Surveying (Constructing land boundary triangles from baseline perimeter measurements)"
+      ]
+    },
+    "metaSscCode": "M911",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "Secondary Mathematics LO [NCERT Secondary LO Document p. 76]",
+    "metaNcertDesc": "Constructs triangles using compass and ruler based on given sum/difference/perimeter.",
+    "metaNishthaText": "NISHTHA Module 6: Emphasize drawing accurate rough sketches with marked parameters before compass work."
+  },
+  {
+    "id": "g9_m2_5",
+    "grade": "9",
+    "subject": "math2",
+    "fullTitle": "Chapter 5: Quadrilaterals",
+    "loDesc": "Proves properties of Parallelogram, Rhombus, Rectangle, Square, and Trapezium; proves Midpoint Theorem and its converse.",
+    "pdfPage": 91,
+    "docPage": 76,
+    "pdfUrl": "https://ncert.nic.in/pdf/notice/learning_outcomes.pdf#page=91",
+    "hookAction": "SHOW",
+    "hookDemo": "Display a triangle with midpoints of two sides connected by a line segment parallel to the third side.",
+    "hookAsk": "Why is the line segment joining the midpoints of two sides of a triangle always parallel to and half the length of the third side?",
+    "streamTitle": "Quadrilateral Property Matching",
+    "streamDo": "Observe special quadrilaterals (Rectangle, Rhombus, Square, Parallelogram).",
+    "streamTask": "Match quadrilateral names with unique diagonal properties (Diagonals equal, Diagonals bisect at 90°).",
+    "mountainTitle": "Parallelogram Opposite Angles Problem",
+    "mountainTask": "Adjacent angles of a parallelogram are (3x - 4)° and (3x + 16)°. Find the measure of all four interior angles.",
+    "skyTitle": "Midpoint Theorem Proof Writing",
+    "skyTask": "Prove that the segment joining the midpoints of any two sides of a triangle is parallel to the third side and half as long as it.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Midpoint Theorem", "Converse of Midpoint Theorem", "Parallelogram Tests", "Diagonal Bisectors"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Assuming that any four-sided figure with equal diagonals must be a square, ignoring rectangles.",
+          "correctionTrigger": "Ask: 'Are adjacent sides equal in a rectangle? Are its diagonals equal?' Show that equal diagonals occur in rectangles too."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Carpentry & Industrial Design: Frame Rigidity (Using midpoint bracing and parallel linkage in structural frames)"
+      ]
+    },
+    "metaSscCode": "M912",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "Secondary Mathematics LO [NCERT Secondary LO Document p. 76]",
+    "metaNcertDesc": "Proves theorems on quadrilaterals and applies the Midpoint Theorem.",
+    "metaNishthaText": "NISHTHA Module 6: Use paper folding to verify midpoint segment length relative to the base side."
+  },
+  {
+    "id": "g9_m2_6",
+    "grade": "9",
+    "subject": "math2",
+    "fullTitle": "Chapter 6: Circle",
+    "loDesc": "Proves theorems on circle chords (perpendicular from center bisects chord; congruent chords are equidistant from center) and constructs incircle and circumcircle of a triangle.",
+    "pdfPage": 91,
+    "docPage": 76,
+    "pdfUrl": "https://ncert.nic.in/pdf/notice/learning_outcomes.pdf#page=91",
+    "hookAction": "DEMO",
+    "hookDemo": "Construct the perpendicular bisectors of two chords in a circle using a chalkboard compass.",
+    "hookAsk": "Where do the perpendicular bisectors of any two chords in a circle always intersect?",
+    "streamTitle": "Incenter vs Circumcenter Sorting",
+    "streamDo": "Observe triangle constructions: Angle Bisectors intersection vs Perpendicular Bisectors intersection.",
+    "streamTask": "Classify the concurrence point as Incenter (Incircle center) or Circumcenter (Circumcircle center).",
+    "mountainTitle": "Chord Length Calculation",
+    "mountainTask": "A chord of length 24 cm is at a distance of 5 cm from the center of a circle. Calculate the radius of the circle using Pythagoras theorem.",
+    "skyTitle": "Equidistant Congruent Chord Proof",
+    "skyTask": "Prove that congruent chords of a circle are equidistant from the center of the circle.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Chord Bisection", "Equidistant Chords", "Incenter & Incircle", "Circumcenter & Circumcircle"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Confusing the Incircle (tangent to sides, center from angle bisectors) with the Circumcircle (passes through vertices, center from side bisectors).",
+          "correctionTrigger": "Ask: 'To draw a circle passing through 3 vertices, do you bisect the sides or the angles?'"
+        }
+      ],
+      "crossCurricularLinks": [
+        "Navigation & Civil Geometry: Center Detection (Finding the exact center of circular arches and roundabouts using chord bisectors)"
+      ]
+    },
+    "metaSscCode": "M913",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "Secondary Mathematics LO [NCERT Secondary LO Document p. 76]",
+    "metaNcertDesc": "Proves circle chord theorems and constructs incircles and circumcircles.",
+    "metaNishthaText": "NISHTHA Module 6: Use transparent circular overlays to verify chord bisection properties."
+  },
+  {
+    "id": "g9_m2_7",
+    "grade": "9",
+    "subject": "math2",
+    "fullTitle": "Chapter 7: Coordinate Geometry",
+    "loDesc": "Understands Cartesian coordinate system, axes (X and Y), origin, quadrants, plots points (x, y), and identifies equations of lines parallel to axes.",
+    "pdfPage": 91,
+    "docPage": 76,
+    "pdfUrl": "https://ncert.nic.in/pdf/notice/learning_outcomes.pdf#page=91",
+    "hookAction": "SHOW",
+    "hookDemo": "Display a 2D Cartesian grid with 4 quadrants marked I (+,+), II (-,+), III (-,-), IV (+,-).",
+    "hookAsk": "In which quadrant does point (-3, -5) lie, and why are both coordinates negative?",
+    "streamTitle": "Quadrant & Axis Identification",
+    "streamDo": "Observe points: A(2, 5), B(-4, 3), C(-2, -1), D(5, -3), E(0, 4), F(-3, 0).",
+    "streamTask": "State the Quadrant or Axis on which each given point lies.",
+    "mountainTitle": "Line Equations Parallel to Axes",
+    "mountainTask": "Write the equations of lines parallel to the X-axis at a distance of 5 units below it, and parallel to Y-axis at 3 units to the left.",
+    "skyTitle": "Geometric Shape Plotting on Grid",
+    "skyTask": "Plot points A(1,1), B(5,1), C(5,4), D(1,4) on a coordinate grid, join them in order, identify the polygon formed, and calculate its area.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Abscissa (x)", "Ordinate (y)", "Origin (0,0)", "Quadrants (I-IV)", "Line Equation x=a / y=b"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Reversing x and y coordinates when plotting points (e.g. plotting (2, 5) as 2 units up on Y and 5 units right on X).",
+          "correctionTrigger": "Ask: 'In ordered pair (x, y), which axis comes first alphabetically?' Always walk along X before climbing Y."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Computer Graphics & Mapping: GIS & Screen Pixels (Mapping 2D screen coordinates and GPS spatial positioning)"
+      ]
+    },
+    "metaSscCode": "M914",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "Secondary Mathematics LO [NCERT Secondary LO Document p. 76]",
+    "metaNcertDesc": "Plots points on Cartesian plane and understands linear equations parallel to axes.",
+    "metaNishthaText": "NISHTHA Module 6: Use floor grid tiles for human coordinate plotting activities."
+  },
+  {
+    "id": "g9_m2_8",
+    "grade": "9",
+    "subject": "math2",
+    "fullTitle": "Chapter 8: Trigonometry",
+    "loDesc": "Defines trigonometric ratios (sin, cos, tan) in right-angled triangles, understands trigonometric identities, and uses standard values (0°, 30°, 45°, 60°, 90°).",
+    "pdfPage": 91,
+    "docPage": 76,
+    "pdfUrl": "https://ncert.nic.in/pdf/notice/learning_outcomes.pdf#page=91",
+    "hookAction": "SHOW",
+    "hookDemo": "Display a right-angled triangle with acute angle theta, showing Opposite, Adjacent, and Hypotenuse sides.",
+    "hookAsk": "Why is the ratio Opposite / Hypotenuse defined as sine theta, and how does it change as theta increases?",
+    "streamTitle": "Trigonometric Ratio Definition Matching",
+    "streamDo": "Observe right triangle ABC right-angled at B with acute angle A.",
+    "streamTask": "Write ratios for sin A, cos A, and tan A in terms of side lengths AB, BC, AC.",
+    "mountainTitle": "Trigonometric Expression Evaluation",
+    "mountainTask": "Evaluate the value of 2*sin(30°) + cos(60°) + 3*tan(45°) using standard trigonometric ratio tables.",
+    "skyTitle": "Complementary Angle Identity Proof",
+    "skyTask": "Prove that sin(90 - theta) = cos theta and tan(90 - theta) = cot theta using a right-angled triangle.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Hypotenuse / Opposite / Adjacent", "Sine / Cosine / Tangent", "Trigonometric Table Values", "Complementary Identities"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Treating 'sin θ' as a multiplication of 'sin' times 'θ' rather than a single unified ratio function.",
+          "correctionTrigger": "Ask: 'Does \"sin\" have any mathematical meaning without an angle θ attached to it?'"
+        }
+      ],
+      "crossCurricularLinks": [
+        "Physics & Surveying: Height & Distance Measurement (Using tan θ and sin θ to calculate building heights and ramp angles)"
+      ]
+    },
+    "metaSscCode": "M915",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "Secondary Mathematics LO [NCERT Secondary LO Document p. 76]",
+    "metaNcertDesc": "Understands trigonometric ratios in right-angled triangles and evaluates standard trigonometric values.",
+    "metaNishthaText": "NISHTHA Module 6: Use right triangle set-squares to measure sides and verify sin/cos ratios."
+  },
+  {
+    "id": "g9_m2_9",
+    "grade": "9",
+    "subject": "math2",
+    "fullTitle": "Chapter 9: Surface Area and Volume",
+    "loDesc": "Calculates Total Surface Area, Curved Surface Area, and Volume of Cuboid, Cube, Right Circular Cylinder, Cone, and Sphere/Hemisphere.",
+    "pdfPage": 91,
+    "docPage": 76,
+    "pdfUrl": "https://ncert.nic.in/pdf/notice/learning_outcomes.pdf#page=91",
+    "hookAction": "SHOW",
+    "hookDemo": "Display 3D solid models: Cone, Cylinder, and Sphere of identical radius and height.",
+    "hookAsk": "How many full cones of water does it take to completely fill a cylinder of the same base radius and height?",
+    "streamTitle": "Surface Area vs Volume Formula Matching",
+    "streamDo": "Observe 3D solids: Cone (r, h, l), Sphere (r), Cylinder (r, h).",
+    "streamTask": "Match given 3D solids with their correct Curved Surface Area and Volume formulas.",
+    "mountainTitle": "Cone Surface Area Calculation",
+    "mountainTask": "Find the Curved Surface Area (pi*r*l) and Total Surface Area (pi*r*(r+l)) of a cone with radius 7 cm and slant height 10 cm.",
+    "skyTitle": "Sphere Melting & Recasting Synthesis",
+    "skyTask": "A solid metallic sphere of radius 6 cm is melted and recast into small solid cones of radius 2 cm and height 3 cm. Calculate the number of cones formed.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Curved Surface Area (CSA)", "Total Surface Area (TSA)", "Slant Height (l = √(r²+h²))", "Volume Conservation"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Confusing vertical height (h) with slant height (l) when calculating cone curved surface area (πrl).",
+          "correctionTrigger": "Ask: 'In CSA = πrl, is l measured along the sloped outer edge or straight down the vertical center?' Use l = √(r² + h²)."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Industrial Packaging & Manufacturing: Material Efficiency (Calculating sheet metal requirements for cylindrical and conical containers)"
+      ]
+    },
+    "metaSscCode": "M916",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "Secondary Mathematics LO [NCERT Secondary LO Document p. 76]",
+    "metaNcertDesc": "Calculates surface area and volume of 3D solids including cones and spheres.",
+    "metaNishthaText": "NISHTHA Module 6: Use water displacement in graduated cylinders to verify sphere volume formulas."
+  }
+]

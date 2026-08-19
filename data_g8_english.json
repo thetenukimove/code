@@ -1,0 +1,224 @@
+[
+  {
+    "id": "g8_e_1",
+    "grade": "8",
+    "subject": "english",
+    "fullTitle": "Unit 1: Advanced Prose Reading & Vocabulary Development",
+    "loDesc": "Reads prose texts critically to deduce implicit meanings, identify central themes, and master advanced vocabulary structures including idioms, phrases, and collocations.",
+    "pdfPage": 50,
+    "docPage": 32,
+    "pdfUrl": "https://ncert.nic.in/pdf/publication/otherpublications/tilops101.pdf#page=50",
+    "hookAction": "SHOW",
+    "hookDemo": "Display two contrasting news headlines describing the exact same event: one using objective neutral phrasing and one using emotional bias.",
+    "hookAsk": "How does an author's specific word choice alter the reader's emotional perception and trust?",
+    "streamTitle": "Idiom & Collocation Matching",
+    "streamDo": "Observe 5 idiomatic expressions (e.g., 'burn the midnight oil', 'a blessing in disguise') within a 100-word passage.",
+    "streamTask": "Match given idiomatic phrases with their contextual meanings and use them in original practice sentences.",
+    "mountainTitle": "Inference & Subtext Analysis",
+    "mountainTask": "Read a given 200-word story excerpt, state the central moral conflict in 2 structured sentences, and cite 2 textual evidences supporting your answer.",
+    "skyTitle": "Perspective Shift Rewrite",
+    "skyTask": "Rewrite a key narrative scene from a short story from the perspective of the antagonist, maintaining formal tone and core plot facts.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Idiom / Phrase", "Collocation", "Subtext", "Perspective Shift", "Bias vs Objectivity"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Translating idioms literally word-for-word rather than interpreting their figurative contextual meaning.",
+          "correctionTrigger": "Ask: 'Does \"spill the beans\" literally mean dropping food on the floor?' Clarify figurative language."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Social Studies: Media Literacy (Evaluating bias, tone, and emotional phrasing in news reporting)"
+      ]
+    },
+    "metaSscCode": "E801",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "E801 [NCERT LO Manual tilops101.pdf p. 32]",
+    "metaNcertDesc": "Reads critically to infer central themes, analyze word structures, and transform text formats.",
+    "metaNishthaText": "NISHTHA Pedagogy Note: Encourage mock classroom debates to explore alternative character motivations."
+  },
+  {
+    "id": "g8_e_2",
+    "grade": "8",
+    "subject": "english",
+    "fullTitle": "Unit 2: Poetic Imagery & Critical Appreciation",
+    "loDesc": "Analyzes stanza structure, identifies literary devices (Personification, Metaphor, Alliteration, Onomatopoeia), and composes detailed structured poetic appreciations.",
+    "pdfPage": 50,
+    "docPage": 32,
+    "pdfUrl": "https://ncert.nic.in/pdf/publication/otherpublications/tilops101.pdf#page=50",
+    "hookAction": "SHOW",
+    "hookDemo": "Recite two lines: 'The camera clicked continuously' vs 'The gentle breeze whispered secrets to the leaves'.",
+    "hookAsk": "What literary device gives human qualities to non-human elements like the wind?",
+    "streamTitle": "Figure of Speech Classification",
+    "streamDo": "Observe line excerpts from prescribed Grade 8 poems.",
+    "streamTask": "Classify lines under Personification, Metaphor, Simile, or Alliteration on your worksheet.",
+    "mountainTitle": "Structured Appreciation Writing",
+    "mountainTask": "Write a 5-point appreciation of a prescribed poem covering: Title, Poet, Rhyme Scheme, Favorite Line, and Central Idea.",
+    "skyTitle": "Original Stanza Composition",
+    "skyTask": "Compose an original 4-line stanza on 'Technology' or 'Friendship' incorporating Personification and an ABAB rhyme scheme.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Personification", "Metaphor", "Onomatopoeia", "Poetic Imagery", "Rhyme Scheme"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Confusing Personification with Metaphor, e.g. assuming any descriptive poetic image is personification.",
+          "correctionTrigger": "Ask: 'Is the non-human object performing a human action (like whispering)?' Verify human trait attribution."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Art & Creative Performance: Dramatic Reading (Using vocal expression and pause to convey poetic personification)"
+      ]
+    },
+    "metaSscCode": "E802",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "E802 [NCERT LO Manual tilops101.pdf p. 32]",
+    "metaNcertDesc": "Appreciates poetic structure, figures of speech, rhythm, and literary expressions.",
+    "metaNishthaText": "NISHTHA Pedagogy Note: Conduct choral reading sessions to help students feel poetic rhythm and cadence."
+  },
+  {
+    "id": "g8_e_3",
+    "grade": "8",
+    "subject": "english",
+    "fullTitle": "Unit 3: Applied Grammar: Voice, Clauses & Tenses",
+    "loDesc": "Transforms sentences between Active and Passive voice, identifies main and subordinate clauses, and applies correct past and present perfect tense structures.",
+    "pdfPage": 50,
+    "docPage": 32,
+    "pdfUrl": "https://ncert.nic.in/pdf/publication/otherpublications/tilops101.pdf#page=50",
+    "hookAction": "DEMO",
+    "hookDemo": "Display two sentences: 'The chef cooked a delicious meal' vs 'A delicious meal was cooked by the chef'.",
+    "hookAsk": "How does shifting focus to the object change the emphasis and formal tone of the sentence?",
+    "streamTitle": "Active to Passive Voice Practice",
+    "streamDo": "Observe subject-verb-object structures across 4 sentences.",
+    "streamTask": "Transform 4 active voice sentences into correct passive voice constructions.",
+    "mountainTitle": "Clause Identification & Linking",
+    "mountainTask": "Identify Main Clauses and Subordinate Clauses in 4 complex sentences and underline the subordinating conjunctions.",
+    "skyTitle": "Formal Article Editing",
+    "skyTask": "Edit a given 100-word informal paragraph to convert appropriate sentences into passive voice and correct 3 tense consistency errors.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Main Clause", "Subordinate Clause", "Active / Passive Voice", "Subordinating Conjunction", "Tense Sequence"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Confusing Subordinate Clauses with Main Clauses, assuming any phrase containing a verb can stand alone as a sentence.",
+          "correctionTrigger": "Ask: 'If I say \"Because it was raining\", does that express a complete thought on its own?'"
+        }
+      ],
+      "crossCurricularLinks": [
+        "Science & Technical Writing: Formal Reporting (Writing objective procedural steps using passive voice and clause synthesis)"
+      ]
+    },
+    "metaSscCode": "E803",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "E803 [NCERT LO Manual tilops101.pdf p. 32]",
+    "metaNcertDesc": "Uses complex grammar structures including clause synthesis and active/passive voice in context.",
+    "metaNishthaText": "NISHTHA Pedagogy Note: Use newspaper headlines to demonstrate objective passive voice reporting."
+  },
+  {
+    "id": "g8_e_4",
+    "grade": "8",
+    "subject": "english",
+    "fullTitle": "Unit 4: Functional Writing: Official Notices & Emails",
+    "loDesc": "Drafts formal notices for school noticeboards and composes formal electronic mail (e-mails) using professional salutations and structured layouts.",
+    "pdfPage": 50,
+    "docPage": 32,
+    "pdfUrl": "https://ncert.nic.in/pdf/publication/otherpublications/tilops101.pdf#page=50",
+    "hookAction": "SHOW",
+    "hookDemo": "Display an unformatted email draft missing Subject Line, professional greeting, and formal sign-off.",
+    "hookAsk": "Why is a clear Subject Line critical in formal communication, and how does it affect the recipient's response?",
+    "streamTitle": "Email Layout Matching",
+    "streamDo": "Observe email components (To, Subject, Salutation, Body, Sign-off).",
+    "streamTask": "Match given text blocks to their correct positions on a blank email template.",
+    "mountainTitle": "School Notice Drafting",
+    "mountainTask": "Draft an official school notice (50 words) announcing an upcoming Inter-School Science Exhibition, following standard layout rules.",
+    "skyTitle": "Formal Email Composition",
+    "skyTask": "Compose a formal email (80-100 words) to the Principal requesting permission to organize a tree plantation drive on school premises.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Subject Line", "Formal Register", "Salutation / Sign-off", "Notice Layout", "Conciseness"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Writing informal SMS/chat slang (e.g. 'pls', 'u') or ambiguous subject lines in formal email correspondence.",
+          "correctionTrigger": "Ask: 'Would a Principal take an email seriously if the subject line says \"hey read this\"?' Stress professional register."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Digital Literacy & Civics: Workplace Communication (Formatting professional electronic emails and official public notices)"
+      ]
+    },
+    "metaSscCode": "E804",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "E804 [NCERT LO Manual tilops101.pdf p. 32]",
+    "metaNcertDesc": "Writes functional prose including official notices and formal email correspondence.",
+    "metaNishthaText": "NISHTHA Pedagogy Note: Use peer layout reviews to verify functional formatting adherence."
+  },
+  {
+    "id": "g8_e_5",
+    "grade": "8",
+    "subject": "english",
+    "fullTitle": "Unit 5: Formal Letter Writing & Reports",
+    "loDesc": "Composes formal letters to civic authorities and drafts brief event reports for school magazines adhering to structured layouts.",
+    "pdfPage": 50,
+    "docPage": 32,
+    "pdfUrl": "https://ncert.nic.in/pdf/publication/otherpublications/tilops101.pdf#page=50",
+    "hookAction": "SHOW",
+    "hookDemo": "Display a formal letter layout side by side with an informal personal letter.",
+    "hookAsk": "What key structural differences exist in the sender's address, subject line, and formal salutation between the two formats?",
+    "streamTitle": "Formal Letter Format Ordering",
+    "streamDo": "Observe mixed layout cards (Sender Address, Date, Receiver Address, Subject, Salutation, Body, Subscription).",
+    "streamTask": "Arrange the jumbled layout cards into the correct formal letter sequence.",
+    "mountainTitle": "Letter to Civic Authorities",
+    "mountainTask": "Write a formal letter (100-120 words) to the Municipal Commissioner regarding erratic water supply in your locality.",
+    "skyTitle": "School Magazine Event Report",
+    "skyTask": "Draft a 120-word event report titled 'Annual Sports Day Celebrations' for the school magazine including Date, Reporter Name, and Key Highlights.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Receiver Address", "Subject Line", "Formal Subscription", "Event Report", "Civic Complaint"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Placing an apostrophe in 'Yours' when signing off formal letters (e.g. writing 'Your's faithfully').",
+          "correctionTrigger": "Ask: 'Is \"Yours\" a possessive pronoun requiring an apostrophe?' Point out that 'Yours faithfully' never uses an apostrophe."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Civics & Community Advocacy: Formal Petitioning (Drafting official complaint letters to municipal authorities)"
+      ]
+    },
+    "metaSscCode": "E805",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "E805 [NCERT LO Manual tilops101.pdf p. 32]",
+    "metaNcertDesc": "Composes formal letters, complaints, and event reports adhering to standard conventions.",
+    "metaNishthaText": "NISHTHA Pedagogy Note: Encourage writing letter drafts based on real community issues."
+  },
+  {
+    "id": "g8_e_6",
+    "grade": "8",
+    "subject": "english",
+    "fullTitle": "Unit 6: Creative Writing & Speech Composition",
+    "loDesc": "Drafts persuasive public speeches and composes creative short stories with well-defined plots, character arcs, and dialogues.",
+    "pdfPage": 50,
+    "docPage": 32,
+    "pdfUrl": "https://ncert.nic.in/pdf/publication/otherpublications/tilops101.pdf#page=50",
+    "hookAction": "SHOW",
+    "hookDemo": "Display a speech opening quote: 'The future depends on what we do in the present...'",
+    "hookAsk": "How does an opening hook capture the audience's attention during a public speech?",
+    "streamTitle": "Speech Structure Outline",
+    "streamDo": "Observe speech outline sections: Salutation, Hook, Core Arguments, Call to Action, Vote of Thanks.",
+    "streamTask": "Classify given speech draft sentences into their correct structural sections.",
+    "mountainTitle": "Persuasive Speech Composition",
+    "mountainTask": "Write a 120-word speech to be delivered in the morning assembly on the topic 'Importance of Digital Literacy'.",
+    "skyTitle": "Creative Story Writing",
+    "skyTask": "Write an original short story (150 words) based on the outline: 'A lost wallet - an honest decision - an unexpected reward', including character dialogue.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Persuasive Speech", "Audience Hook", "Call to Action", "Plot Outline", "Character Arc"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Writing a speech as if it were an essay, omitting public address greetings, rhetorical questions, and audience calls to action.",
+          "correctionTrigger": "Ask: 'Are you speaking directly to a live audience or writing an essay for a grader?'"
+        }
+      ],
+      "crossCurricularLinks": [
+        "Public Speaking & Leadership: Rhetoric Skills (Structuring persuasive speeches with clear hooks and calls to action)"
+      ]
+    },
+    "metaSscCode": "E806",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "E806 [NCERT LO Manual tilops101.pdf p. 32]",
+    "metaNcertDesc": "Writes creative stories, dialogues, and persuasive public speeches.",
+    "metaNishthaText": "NISHTHA Pedagogy Note: Conduct morning assembly speech delivery rehearsals in class."
+  }
+]

@@ -1,0 +1,372 @@
+[
+  {
+    "id": "g9_s1_1",
+    "grade": "9",
+    "subject": "science1",
+    "fullTitle": "Chapter 1: Laws of Motion",
+    "loDesc": "Differentiates distance vs displacement, speed vs velocity, uniform vs non-uniform motion, derives equations of motion using graphical methods, and verifies Newton's three laws of motion.",
+    "pdfPage": 55,
+    "docPage": 40,
+    "pdfUrl": "https://ncert.nic.in/pdf/notice/learning_outcomes.pdf#page=55",
+    "hookAction": "DEMO",
+    "hookDemo": "Place a coin on a stiff card resting on a glass tumbler. Flick the card horizontally with a sudden snap.",
+    "hookAsk": "Why does the card fly off while the coin falls straight into the glass tumbler?",
+    "streamTitle": "Distance vs Displacement Sorting",
+    "streamDo": "Observe an athlete running once around a 400 m circular track and returning to the starting point.",
+    "streamTask": "Calculate the total distance covered versus net displacement on your worksheet.",
+    "mountainTitle": "Newton's Second Law Formula Calculation",
+    "mountainTask": "Calculate the force (F = m*a) required to accelerate a 1200 kg car from rest to 20 m/s in 10 seconds.",
+    "skyTitle": "Kinematical Equations Graphical Derivation",
+    "skyTask": "Derive Newton's second equation of motion s = ut + (1/2)at^2 using a velocity-time graph.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Displacement", "Vector Quantity", "Acceleration", "Inertia", "Velocity-Time Graph"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Believing a continuous external force is required to keep an object moving at a constant speed.",
+          "correctionTrigger": "Ask: 'If an ice hockey puck slides on frictionless ice, does it keep moving or stop when you stop pushing it?' Explain Newton's First Law."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Math 2: Coordinate Geometry (Plotting motion vectors and analyzing velocity-time graph slopes)"
+      ]
+    },
+    "metaSscCode": "S901",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "Secondary Science LO [NCERT Secondary LO Document p. 40]",
+    "metaNcertDesc": "Calculates motion parameters and derives kinematical equations using velocity-time graphs.",
+    "metaNishthaText": "NISHTHA Module 8: Conduct toy car ramp experiments to collect velocity-time data for graphing."
+  },
+  {
+    "id": "g9_s1_2",
+    "grade": "9",
+    "subject": "science1",
+    "fullTitle": "Chapter 2: Work and Energy",
+    "loDesc": "Calculates work done (W = F*s*cos theta), kinetic energy (1/2 mv^2), potential energy (mgh), verifies Law of Conservation of Energy, and calculates electrical power.",
+    "pdfPage": 55,
+    "docPage": 40,
+    "pdfUrl": "https://ncert.nic.in/pdf/notice/learning_outcomes.pdf#page=55",
+    "hookAction": "DEMO",
+    "hookDemo": "Release a simple pendulum bob from a stretched height h and let it swing past its lowest equilibrium point.",
+    "hookAsk": "How does stored potential energy convert into kinetic energy as the bob swings down?",
+    "streamTitle": "Positive, Negative & Zero Work Sorting",
+    "streamDo": "Observe scenarios (Pushing a stalled car forward, Applying brakes to stop a moving vehicle, Carrying a heavy bag standing still).",
+    "streamTask": "Classify work done in each scenario as Positive, Negative, or Zero Work.",
+    "mountainTitle": "Kinetic & Potential Energy Calculation",
+    "mountainTask": "Calculate potential energy stored in a 5 kg object raised to a height of 10 m (g = 9.8 m/s^2).",
+    "skyTitle": "Conservation of Energy Mathematical Proof",
+    "skyTask": "Prove mathematically that the total mechanical energy (KE + PE) of a freely falling body remains constant at any point along its path.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Kinetic Energy", "Potential Energy", "Conservation of Energy", "Joule (Unit)", "Kilowatt-Hour"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Thinking that carrying a heavy suitcase while standing still performs mechanical work.",
+          "correctionTrigger": "Ask: 'If displacement s = 0 in W = F × s, how much work was performed in physics terms?' Distinguish muscular fatigue from mechanical work."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Environmental Science & Engineering: Hydroelectric Power (Mapping gravitational potential energy conversion in dam turbines)"
+      ]
+    },
+    "metaSscCode": "S902",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "Secondary Science LO [NCERT Secondary LO Document p. 40]",
+    "metaNcertDesc": "Calculates kinetic and potential energy and verifies energy conservation laws.",
+    "metaNishthaText": "NISHTHA Module 8: Use pendulum bob release heights to measure speed changes experimentally."
+  },
+  {
+    "id": "g9_s1_3",
+    "grade": "9",
+    "subject": "science1",
+    "fullTitle": "Chapter 3: Current Electricity",
+    "loDesc": "Verifies Ohm's Law (V = IR), calculates equivalent resistance in series and parallel connections, understands electric power, and safety devices (fuses and MCBs).",
+    "pdfPage": 55,
+    "docPage": 40,
+    "pdfUrl": "https://ncert.nic.in/pdf/notice/learning_outcomes.pdf#page=55",
+    "hookAction": "DEMO",
+    "hookDemo": "Connect two identical 1.5V bulbs first in Series, then in Parallel across a 3V battery cell.",
+    "hookAsk": "Why do the bulbs glow much brighter in Parallel connection than in Series connection?",
+    "streamTitle": "Resistor Combination Sorting",
+    "streamDo": "Observe circuit diagrams showing resistors connected end-to-end vs connected across common nodes.",
+    "streamTask": "Identify Series vs Parallel resistor arrangements and state their current-voltage distribution rules.",
+    "mountainTitle": "Ohm's Law Calculation Practice",
+    "mountainTask": "A electric heater draws 5 A current when connected to a 220 V supply. Calculate its resistance using R = V/I.",
+    "skyTitle": "Parallel Equivalent Resistance Derivation",
+    "skyTask": "Derive the formula 1/R_p = 1/R_1 + 1/R_2 + 1/R_3 for three resistors connected in parallel.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Potential Difference (Volt)", "Electric Current (Ampere)", "Resistance (Ohm)", "Ohm's Law", "Equivalent Resistance"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Assuming electric current is consumed or 'used up' as it flows through resistors in a circuit.",
+          "correctionTrigger": "Ask: 'Does the ammeter reading before a resistor equal the ammeter reading after the resistor?' Emphasize charge conservation."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Electrical Safety & Domestic Wiring: Household Circuits (Explaining why domestic appliances are connected in parallel with MCB safety fuses)"
+      ]
+    },
+    "metaSscCode": "S903",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "Secondary Science LO [NCERT Secondary LO Document p. 40]",
+    "metaNcertDesc": "Verifies Ohm's law, calculates equivalent circuit resistances, and understands electrical safety.",
+    "metaNishthaText": "NISHTHA Module 8: Provide ammeters and voltmeters for students to plot V-I graphs in class."
+  },
+  {
+    "id": "g9_s1_4",
+    "grade": "9",
+    "subject": "science1",
+    "fullTitle": "Chapter 4: Measurement of Matter",
+    "loDesc": "Understands Laws of Chemical Combination, Dalton's atomic theory, atomic mass, molecular mass, mole concept, and valencies of polyatomic radicals.",
+    "pdfPage": 55,
+    "docPage": 40,
+    "pdfUrl": "https://ncert.nic.in/pdf/notice/learning_outcomes.pdf#page=55",
+    "hookAction": "SHOW",
+    "hookDemo": "Display a chemical balance showing 18g of water (H2O) alongside 44g of carbon dioxide (CO2).",
+    "hookAsk": "Why does 18g of water contain the EXACT same number of molecules (6.022 x 10^23) as 44g of carbon dioxide?",
+    "streamTitle": "Molecular Mass Calculation Practice",
+    "streamDo": "Observe chemical formulas: H2O, CO2, NaCl, H2SO4.",
+    "streamTask": "Calculate molecular masses using atomic masses (H=1, O=16, C=12, Na=23, Cl=35.5, S=32).",
+    "mountainTitle": "Mole Concept Calculation",
+    "mountainTask": "Calculate the number of moles present in 36 grams of pure water (H2O) using formula Moles = Mass / Molar Mass.",
+    "skyTitle": "Law of Conservation of Mass Verification",
+    "skyTask": "Design an experiment using Calcium Chloride and Sodium Sulfate solutions in a conical flask to prove mass conservation during a chemical change.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Avogadro's Number (6.022 × 10^23)", "Molar Mass", "Mole Concept", "Polyatomic Radical", "Valency"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Confusing one mole of a substance (count of particles) with its mass in grams.",
+          "correctionTrigger": "Ask: 'Does a dozen eggs weigh the same as a dozen elephants? They both equal 12 units.' Relate a mole to Avogadro's count."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Math 1: Ratio and Proportion (Applying stoichiometric mole ratios to chemical reaction mass calculations)"
+      ]
+    },
+    "metaSscCode": "S904",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "Secondary Science LO [NCERT Secondary LO Document p. 40]",
+    "metaNcertDesc": "Understands the mole concept, molecular masses, and verifies laws of chemical combination.",
+    "metaNishthaText": "NISHTHA Module 8: Use molecular model kits to demonstrate atomic combination ratios."
+  },
+  {
+    "id": "g9_s1_5",
+    "grade": "9",
+    "subject": "science1",
+    "fullTitle": "Chapter 5: Acids, Bases and Salts",
+    "loDesc": "Classifies acids and bases based on Arrhenius theory, measures pH using universal indicator scale, investigates strength of acids/bases, and understands salts and electrolysis.",
+    "pdfPage": 55,
+    "docPage": 40,
+    "pdfUrl": "https://ncert.nic.in/pdf/notice/learning_outcomes.pdf#page=55",
+    "hookAction": "DEMO",
+    "hookDemo": "Dip Universal Indicator paper into lemon juice, milk, pure water, soap solution, and dil. NaOH.",
+    "hookAsk": "How does the pH color spectrum (1 to 14) indicate whether a substance is a strong acid, weak acid, or base?",
+    "streamTitle": "Arrhenius Theory Classification",
+    "streamDo": "Observe chemical dissociation equations in water (HCl -> H+ + Cl-, NaOH -> Na+ + OH-).",
+    "streamTask": "Classify substances as Acids (H+ donors) or Bases (OH- donors) according to Arrhenius theory.",
+    "mountainTitle": "pH Value Interpretation & Strength",
+    "mountainTask": "Arrange 4 liquids with pH values 2, 7, 9, 13 in order of increasing H+ ion concentration and classify their acidity/basicity.",
+    "skyTitle": "Electrolysis of Water Analysis",
+    "skyTask": "Draw an electrolysis apparatus for acidified water and explain why the volume of hydrogen gas collected at the cathode is double the oxygen gas at the anode.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Arrhenius Theory", "Dissociation", "pH Scale", "Universal Indicator", "Electrolysis"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Assuming that a higher pH number signifies a stronger acid.",
+          "correctionTrigger": "Ask: 'Where is pure water on the pH scale? Which end represents maximum H+ concentration?' Clarify that pH < 7 is acidic (lower pH = stronger acid)."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Environmental Science & Soil Chemistry: Soil Health (Testing pH of agricultural soils to optimize fertilizer selection)"
+      ]
+    },
+    "metaSscCode": "S905",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "Secondary Science LO [NCERT Secondary LO Document p. 40]",
+    "metaNcertDesc": "Measures pH values, applies Arrhenius acid-base theory, and investigates electrolysis.",
+    "metaNishthaText": "NISHTHA Module 8: Conduct pH testing on local soil and water samples using universal indicator strips."
+  },
+  {
+    "id": "g9_s1_6",
+    "grade": "9",
+    "subject": "science1",
+    "fullTitle": "Chapter 11: Reflection of Light",
+    "loDesc": "Investigates spherical mirrors (Concave and Convex), constructs ray diagrams, applies Mirror Formula (1/f = 1/v + 1/u) and Magnification, and analyzes mirror applications.",
+    "pdfPage": 55,
+    "docPage": 40,
+    "pdfUrl": "https://ncert.nic.in/pdf/notice/learning_outcomes.pdf#page=55",
+    "hookAction": "SHOW",
+    "hookDemo": "Display a polished stainless steel spoon. Observe your reflection in the inner curved surface vs the outer curved surface.",
+    "hookAsk": "Why does the inner surface flip your image upside down while the outer surface keeps it upright and smaller?",
+    "streamTitle": "Mirror Terminology Identification",
+    "streamDo": "Observe concave mirror ray diagrams showing Pole (P), Focus (F), Center of Curvature (C), and Principal Axis.",
+    "streamTask": "Identify and label the key optical points on a given spherical mirror diagram.",
+    "mountainTitle": "Mirror Formula Problem Solving",
+    "mountainTask": "An object is placed 15 cm in front of a concave mirror of focal length 10 cm. Find image position (v) using 1/f = 1/v + 1/u.",
+    "skyTitle": "Ray Diagram Construction Challenge",
+    "skyTask": "Construct a precise ray diagram for an object placed between Focus (F) and Center of Curvature (C) of a concave mirror, stating image characteristics.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Principal Focus (F)", "Center of Curvature (C)", "Mirror Formula", "Magnification (m)", "Virtual vs Real Image"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Ignoring Cartesian sign conventions when substituting object distance u into the mirror formula.",
+          "correctionTrigger": "Ask: 'Is the object placed in front of the mirror on the negative X-axis?' Remind that object distance u is always negative."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Automotive & Solar Engineering: Optical Design (Applying convex mirrors to vehicle rear-view mirrors and concave mirrors to solar furnaces)"
+      ]
+    },
+    "metaSscCode": "S906",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "Secondary Science LO [NCERT Secondary LO Document p. 40]",
+    "metaNcertDesc": "Constructs ray diagrams for spherical mirrors and solves optics problems using mirror formulas.",
+    "metaNishthaText": "NISHTHA Module 8: Use optical bench setups with concave mirrors and candles for image distance mapping."
+  },
+  {
+    "id": "g9_s1_7",
+    "grade": "9",
+    "subject": "science1",
+    "fullTitle": "Chapter 12: Study of Sound",
+    "loDesc": "Explains sound wave propagation (compression and rarefaction), speed of sound in media, reflection of sound, Echo, Reverberation, SONAR, and human ear structure.",
+    "pdfPage": 55,
+    "docPage": 40,
+    "pdfUrl": "https://ncert.nic.in/pdf/notice/learning_outcomes.pdf#page=55",
+    "hookAction": "DEMO",
+    "hookDemo": "Clap two wooden boards together in an empty large hall versus a fully furnished carpeted room.",
+    "hookAsk": "Why does the clap echo multiple times in the empty hall while sounding dull and immediate in the carpeted room?",
+    "streamTitle": "Echo Distance Condition Checking",
+    "streamDo": "Observe speed of sound in air at 22°C (344 m/s).",
+    "streamTask": "Calculate the minimum distance required between a sound source and reflecting surface to hear a distinct echo (time delay >= 0.1 s).",
+    "mountainTitle": "Reverberation vs Echo Comparison",
+    "mountainTask": "Differentiate Echo (single distinct reflected sound) from Reverberation (persistence of sound due to multiple reflections) and list 2 acoustic absorbers.",
+    "skyTitle": "SONAR Depth Calculation Synthesis",
+    "skyTask": "A SONAR signal sent from a ship returns from the ocean floor after 3 seconds. Calculate sea depth if speed of sound in seawater is 1530 m/s.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Compression & Rarefaction", "Echo Distance (17.2 m)", "Reverberation", "SONAR", "Acoustic Absorbers"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Forgetting to divide the total round-trip time by 2 when calculating ocean depth using SONAR echo return signals.",
+          "correctionTrigger": "Ask: 'Did the ultrasonic wave travel down AND back up?' Divide time by 2 for one-way distance."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Marine Navigation & Architecture: Acoustics (Calculating ocean depths with SONAR and designing soundproof auditorium walls)"
+      ]
+    },
+    "metaSscCode": "S907",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "Secondary Science LO [NCERT Secondary LO Document p. 40]",
+    "metaNcertDesc": "Calculates speed of sound, echo distances, reverberation control, and SONAR applications.",
+    "metaNishthaText": "NISHTHA Module 8: Use slinky spring coils to demonstrate longitudinal compression wave movement."
+  },
+  {
+    "id": "g9_s1_8",
+    "grade": "9",
+    "subject": "science1",
+    "fullTitle": "Chapter 13: Carbon: An Important Element",
+    "loDesc": "Identifies allotropes of carbon (crystalline: diamond, graphite, fullerene; non-crystalline: coal, charcoal), understands covalent bonding in carbon, and uses of hydrocarbons.",
+    "pdfPage": 55,
+    "docPage": 55,
+    "pdfUrl": "https://ncert.nic.in/pdf/notice/learning_outcomes.pdf#page=55",
+    "hookAction": "SHOW",
+    "hookDemo": "Display a diamond model structure (tetrahedral 3D) alongside a graphite model structure (hexagonal layers).",
+    "hookAsk": "Why is diamond the hardest natural substance known while graphite is soft and slippery enough to use as a lubricant?",
+    "streamTitle": "Carbon Allotrope Sorting",
+    "streamDo": "Observe carbon forms: Diamond, Graphite, Buckyball Fullerene, Peat Coal, Anthracite.",
+    "streamTask": "Classify carbon forms into Crystalline Allotropes vs Non-crystalline / Amorphous forms.",
+    "mountainTitle": "Graphite Electrical Conductivity Explanation",
+    "mountainTask": "Explain why graphite conducts electricity despite being a non-metal, referring to free delocalized electrons in its layer structure.",
+    "skyTitle": "Methane Structural Bonding Analysis",
+    "skyTask": "Draw the electron-dot structure and covalent line structure for Methane (CH4) and state 3 physical properties of biogas.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Allotrope", "Crystalline vs Amorphous", "Covalent Bonding", "Delocalized Electron", "Hydrocarbon"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Assuming diamond and graphite are different chemical elements because their physical properties are completely opposite.",
+          "correctionTrigger": "Ask: 'If both burn in pure oxygen to produce identical CO2 gas, are they made of different atoms or different arrangements of carbon?'"
+        }
+      ],
+      "crossCurricularLinks": [
+        "Materials Science & Energy: Renewable Fuel (Evaluating methane biogas generation and carbon nanomaterial structures)"
+      ]
+    },
+    "metaSscCode": "S908",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "Secondary Science LO [NCERT Secondary LO Document p. 40]",
+    "metaNcertDesc": "Analyzes carbon allotropes, covalent bonding structures, and hydrocarbon applications.",
+    "metaNishthaText": "NISHTHA Module 8: Use pencil lead (graphite) in a simple circuit to test electrical conductivity."
+  },
+  {
+    "id": "g9_s1_9",
+    "grade": "9",
+    "subject": "science1",
+    "fullTitle": "Chapter 14: Substances in Common Use",
+    "loDesc": "Classifies important salts (NaCl, NaHCO3, Na2CO3, Bleaching Powder), radioactive isotopes, food colors, dyes, and artificial sweeteners in daily life.",
+    "pdfPage": 55,
+    "docPage": 40,
+    "pdfUrl": "https://ncert.nic.in/pdf/notice/learning_outcomes.pdf#page=55",
+    "hookAction": "DEMO",
+    "hookDemo": "Add a small amount of Baking Soda (NaHCO3) to dilute Hydrochloric Acid in a test tube.",
+    "hookAsk": "What gas causes the rapid effervescence, and why is baking soda used in fire extinguishers and cake baking?",
+    "streamTitle": "Common Salt Chemical Name Matching",
+    "streamDo": "Observe household substances: Baking Soda, Washing Soda, Bleaching Powder, Plaster of Paris.",
+    "streamTask": "Match household names with their correct chemical formulas (NaHCO3, Na2CO3.10H2O, CaOCl2, CaSO4.1/2H2O).",
+    "mountainTitle": "Washing Soda Preparation & Action",
+    "mountainTask": "Explain how washing soda cleans greasy clothes in hard water and state its water of crystallization.",
+    "skyTitle": "Radioactive Isotope Applications in Medicine & Industry",
+    "skyTask": "Explain industrial and medical applications of radioactive isotopes: Cobalt-60 (Cancer therapy), Iodine-131 (Goiter), and Carbon-14 (Dating).",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Water of Crystallization", "Bleaching Agent", "Effervescence", "Radioactive Isotope"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Confusing Baking Soda (NaHCO3) with Washing Soda (Na2CO3·10H2O).",
+          "correctionTrigger": "Ask: 'Which soda releases CO2 gas during baking to make bread rise?' Highlight sodium bicarbonate vs sodium carbonate."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Medicine & Industrial Chemistry: Nuclear Medicine (Utilizing radioactive tracer isotopes for medical diagnostics and cancer therapy)"
+      ]
+    },
+    "metaSscCode": "S909",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "Secondary Science LO [NCERT Secondary LO Document p. 40]",
+    "metaNcertDesc": "Understands chemical preparation and uses of salts, polymers, and radioactive isotopes.",
+    "metaNishthaText": "NISHTHA Module 8: Perform effervescence tests on household baking soda using vinegar."
+  },
+  {
+    "id": "g9_s1_10",
+    "grade": "9",
+    "subject": "science1",
+    "fullTitle": "Chapter 18: Observing Space: Telescopes",
+    "loDesc": "Understands electromagnetic spectrum, visible light telescopes (Refracting and Reflecting: Newtonian, Cassegrain), radio telescopes, and space-based observatories.",
+    "pdfPage": 55,
+    "docPage": 40,
+    "pdfUrl": "https://ncert.nic.in/pdf/notice/learning_outcomes.pdf#page=55",
+    "hookAction": "SHOW",
+    "hookDemo": "Display schematic diagrams of a Refracting Telescope (lenses) vs a Newtonian Reflecting Telescope (concave mirror).",
+    "hookAsk": "Why do giant modern research observatories use large concave mirrors instead of heavy glass lenses?",
+    "streamTitle": "Telescope Type Classification",
+    "streamDo": "Observe telescope designs: Refracting (Galilean), Reflecting (Newtonian), Reflecting (Cassegrain), Radio Telescope.",
+    "streamTask": "Classify telescopes based on whether they use Objective Lenses, Concave Mirrors, or Parabolic Dish Antennas.",
+    "mountainTitle": "Atmospheric Interference & Space Telescopes",
+    "mountainTask": "Explain why ground-based optical telescopes face atmospheric disturbance and state two advantages of space telescopes like Hubble and James Webb.",
+    "skyTitle": "ISRO Astrosat & Indian Space Observatories Analysis",
+    "skyTask": "Write a short technical note on India's multi-wavelength space observatory ASTROSAT and its role in observing celestial sources.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Refracting Telescope", "Reflecting Telescope (Newtonian)", "Radio Telescope", "Multi-Wavelength Astronomy"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Believing telescopes magnify objects purely by using stronger lenses rather than gathering light with larger objective apertures.",
+          "correctionTrigger": "Ask: 'Why do astronomical telescopes need giant primary mirrors or lenses?' Stress light-gathering power over magnification."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Aerospace Technology: Space Exploration (Analyzing ISRO's ASTROSAT mission and satellite observatory orbits)"
+      ]
+    },
+    "metaSscCode": "S910",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "Secondary Science LO [NCERT Secondary LO Document p. 40]",
+    "metaNcertDesc": "Understands optical and radio telescope designs and space-based astronomical observatories.",
+    "metaNishthaText": "NISHTHA Module 8: Use convex lens pairs to assemble a simple refracting telescope prototype in class."
+  }
+]

@@ -1,0 +1,298 @@
+[
+  {
+    "id": "g9_s2_1",
+    "grade": "9",
+    "subject": "science2",
+    "fullTitle": "Chapter 6: Classification of Plants",
+    "loDesc": "Classifies kingdom Plantae into Cryptogams (Thallophyta, Bryophyta, Pteridophyta) and Phanerogams (Gymnosperms, Angiosperms - Monocots vs Dicots) based on anatomical characteristics.",
+    "pdfPage": 55,
+    "docPage": 40,
+    "pdfUrl": "https://ncert.nic.in/pdf/notice/learning_outcomes.pdf#page=55",
+    "hookAction": "SHOW",
+    "hookDemo": "Display live specimens of Spirogyra (algae), Moss (Bryophyta), Fern (Pteridophyta), and a flowering plant branch.",
+    "hookAsk": "Why do mosses and ferns lack true flowers and seeds, and how do they reproduce without seed formation?",
+    "streamTitle": "Plant Kingdom Hierarchy Sorting",
+    "streamDo": "Observe 5 plant specimens (Spirogyra, Funaria, Nephrolepis, Cycas, Mustard).",
+    "streamTask": "Classify given plants into Thallophyta, Bryophyta, Pteridophyta, Gymnosperms, or Angiosperms.",
+    "mountainTitle": "Monocot vs Dicot Comparison",
+    "mountainTask": "Construct a 4-point comparison table contrasting Monocotyledonous and Dicotyledonous plants based on seeds, leaves, roots, and flowers.",
+    "skyTitle": "Cryptogams vs Phanerogams Evolutionary Analysis",
+    "skyTask": "Differentiate Cryptogams (hidden reproductive organs) from Phanerogams (specialized reproductive tissue and seeds) based on vascular tissue presence.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Cryptogams", "Phanerogams", "Thallophyta", "Vascular Bundle (Xylem/Phloem)", "Cotyledon"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Assuming Bryophytes (mosses) have true roots, stems, and leaves like terrestrial vascular plants.",
+          "correctionTrigger": "Ask: 'Do mosses have vascular tubes (xylem/phloem) to transport water upward?' Introduce rhizoids vs true roots."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Geography & Agriculture: Crop Botany (Identifying monocot grasses vs dicot legumes in regional farming systems)"
+      ]
+    },
+    "metaSscCode": "S911",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "Secondary Science LO [NCERT Secondary LO Document p. 40]",
+    "metaNcertDesc": "Classifies plant kingdom groups based on structural and reproductive features.",
+    "metaNishthaText": "NISHTHA Module 8: Conduct school garden walks to observe leaf venation and root types in monocots and dicots."
+  },
+  {
+    "id": "g9_s2_2",
+    "grade": "9",
+    "subject": "science2",
+    "fullTitle": "Chapter 7: Energy Flow in an Ecosystem",
+    "loDesc": "Analyzes food chains, food webs, ecological pyramids of energy, and biogeochemical cycles (Carbon, Nitrogen, and Oxygen cycles) in nature.",
+    "pdfPage": 55,
+    "docPage": 40,
+    "pdfUrl": "https://ncert.nic.in/pdf/notice/learning_outcomes.pdf#page=55",
+    "hookAction": "SHOW",
+    "hookDemo": "Display an ecological pyramid diagram showing energy transfer from Producers (10,000 kcal) to Primary, Secondary, and Tertiary Consumers.",
+    "hookAsk": "Why does energy available decrease at each successive trophic level, preventing food chains from exceeding 4 or 5 steps?",
+    "streamTitle": "Trophic Level Classification",
+    "streamDo": "Observe grassland food chain components (Grass, Grasshopper, Frog, Snake, Eagle).",
+    "streamTask": "Identify Producer, Primary Consumer, Secondary Consumer, Tertiary Consumer, and Apex Predator.",
+    "mountainTitle": "Carbon Cycle Process Flow",
+    "mountainTask": "Trace the movement of Carbon Dioxide from atmosphere to biotic world via Photosynthesis and back via Respiration and Combustion.",
+    "skyTitle": "Nitrogen Fixation & Bio-Geo Chemical Cycle Synthesis",
+    "skyTask": "Explain 4 major processes in the Nitrogen Cycle: Nitrogen Fixation, Ammonification, Nitrification, and Denitrification.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Trophic Level", "Ecological Pyramid of Energy", "Biogeochemical Cycle", "Nitrification & Denitrification"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Believing energy cycles continuously through an ecosystem like mineral nutrients do.",
+          "correctionTrigger": "Ask: 'Can heat energy lost to the environment by consumers be recycled back to the Sun?' Clarify unidirectional energy flow."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Environmental Science & Climate: Carbon Footprint (Tracing carbon cycle balance vs fossil fuel combustion emissions)"
+      ]
+    },
+    "metaSscCode": "S912",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "Secondary Science LO [NCERT Secondary LO Document p. 40]",
+    "metaNcertDesc": "Understands energy flow across trophic levels and traces biogeochemical cycles.",
+    "metaNishthaText": "NISHTHA Module 10: Use string web models to illustrate food web interconnectedness."
+  },
+  {
+    "id": "g9_s2_3",
+    "grade": "9",
+    "subject": "science2",
+    "fullTitle": "Chapter 8: Useful and Harmful Microbes",
+    "loDesc": "Investigates beneficial roles of Lactobacillus, Rhizobium, Azotobacter, and Yeast; examines fungal production of antibiotics (Penicillin) and pathogen diseases.",
+    "pdfPage": 55,
+    "docPage": 40,
+    "pdfUrl": "https://ncert.nic.in/pdf/notice/learning_outcomes.pdf#page=55",
+    "hookAction": "DEMO",
+    "hookDemo": "Add a spoonful of baker's yeast and sugar to warm water in a conical flask, fitting a balloon over the mouth.",
+    "hookAsk": "Why does the balloon inflate after 20 minutes, and what gas is released during yeast fermentation?",
+    "streamTitle": "Useful vs Harmful Microbe Sorting",
+    "streamDo": "Observe micro-organisms: Lactobacillus, Rhizobium, Penicillium, Clostridium, Dengue Virus, Ringworm Fungus.",
+    "streamTask": "Classify microbes into Beneficial (Industry/Agriculture) vs Pathogenic (Disease-causing) categories.",
+    "mountainTitle": "Symbiotic Nitrogen Fixation Explanation",
+    "mountainTask": "Explain how Rhizobium bacteria residing in leguminous plant root nodules fix atmospheric nitrogen into nitrates.",
+    "skyTitle": "Antibiotic Resistance & Penicillin Discovery Analysis",
+    "skyTask": "Explain Alexander Fleming's discovery of Penicillin and discuss why indiscriminate antibiotic overuse causes bacterial resistance.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Fermentation", "Bio-fertilizer", "Antibiotic Resistance", "Symbiosis", "Pathogen"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Taking antibiotics to cure viral infections like the common cold or influenza.",
+          "correctionTrigger": "Ask: 'Do antibiotics target bacterial cell walls or viral non-cellular structures?' Stress antibiotic specificity."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Pharmacology & Public Health: Medical Awareness (Understanding antibiotic stewardship and industrial fermentation processes)"
+      ]
+    },
+    "metaSscCode": "S913",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "Secondary Science LO [NCERT Secondary LO Document p. 40]",
+    "metaNcertDesc": "Investigates industrial fermentation, bio-fertilizers, antibiotics, and pathogen mechanisms.",
+    "metaNishthaText": "NISHTHA Module 8: Prepare temporary slides of curd to observe live Lactobacillus rod bacteria under a microscope."
+  },
+  {
+    "id": "g9_s2_4",
+    "grade": "9",
+    "subject": "science2",
+    "fullTitle": "Chapter 9: Environmental Management",
+    "loDesc": "Analyzes weather vs climate, meteorology, solid waste management (principles of 7 Rs), and disaster management protocols for first aid.",
+    "pdfPage": 55,
+    "docPage": 40,
+    "pdfUrl": "https://ncert.nic.in/pdf/notice/learning_outcomes.pdf#page=55",
+    "hookAction": "SHOW",
+    "hookDemo": "Display daily weather forecast report charts alongside a climate map of Maharashtra.",
+    "hookAsk": "What is the key difference between daily fluctuating Weather and long-term regional Climate?",
+    "streamTitle": "Waste Segregation Practice",
+    "streamDo": "Observe waste items: Vegetable peels, Glass bottles, Plastic wrappers, Dry leaves, Used batteries, Electronic circuit boards.",
+    "streamTask": "Segregate waste into Wet Degradable, Dry Non-degradable, and Hazardous E-waste bins.",
+    "mountainTitle": "Principles of Solid Waste Management (7 Rs)",
+    "mountainTask": "Explain 4 key principles from the 7 Rs of waste management: Refuse, Reduce, Reuse, Recycle, Rethink, Research, Regulation.",
+    "skyTitle": "First Aid & CPR Protocol Design",
+    "skyTask": "Outline first-aid emergency procedures for a person suffering from severe bleeding, burns, or sudden fainting (ABC rule).",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Weather vs Climate", "E-Waste", "Principles of 7 Rs", "Composting", "ABC First-Aid Rule"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Mixing hazardous electronic waste (batteries/circuit boards) in regular wet organic municipal garbage.",
+          "correctionTrigger": "Ask: 'What toxic heavy metals leach into groundwater if batteries break down in soil?' Highlight specialized E-waste handling."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Civic Administration & Public Safety: Disaster Management (Implementing 7 Rs waste audits and emergency first-aid protocols)"
+      ]
+    },
+    "metaSscCode": "S914",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "Secondary Science LO [NCERT Secondary LO Document p. 40]",
+    "metaNcertDesc": "Applies environmental management strategies, waste segregation, and first-aid protocols.",
+    "metaNishthaText": "NISHTHA Module 10: Organize school composting pits for organic wet waste processing."
+  },
+  {
+    "id": "g9_s2_5",
+    "grade": "9",
+    "subject": "science2",
+    "fullTitle": "Chapter 10: Information Communication Technology (ICT)",
+    "loDesc": "Identifies computer hardware components, software applications, operating systems, uses spread-sheets (Excel) for scientific data processing, and practices cyber safety.",
+    "pdfPage": 55,
+    "docPage": 40,
+    "pdfUrl": "https://ncert.nic.in/pdf/notice/learning_outcomes.pdf#page=55",
+    "hookAction": "SHOW",
+    "hookDemo": "Display a computer motherboard alongside CPU processor, RAM stick, and Hard Disk Drive.",
+    "hookAsk": "What is the structural difference between primary volatile memory (RAM) and secondary permanent storage (HDD/SSD)?",
+    "streamTitle": "Hardware vs Software Sorting",
+    "streamDo": "Observe components: Monitor, Windows OS, Keyboard, MS Excel, CPU, Antivirus Software.",
+    "streamTask": "Classify items into Hardware devices vs Software applications.",
+    "mountainTitle": "Spreadsheet Formula Application for Science Data",
+    "mountainTask": "Write down step-by-step MS Excel / Spreadsheet instructions to calculate average marks and plot a bar chart from student test data.",
+    "skyTitle": "Cyber Security & Digital Ethics Analysis",
+    "skyTask": "Explain cyber threats (Phishing, Malware, Password Theft) and list 4 best practices for safe internet browsing.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["RAM vs ROM / Storage", "Operating System", "Spreadsheet Formula", "Phishing & Malware"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Assuming RAM storage capacity determines how many permanent files/photos a computer can store indefinitely.",
+          "correctionTrigger": "Ask: 'What happens to data in RAM when power turns off?' Distinguish volatile workspace memory from persistent storage."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Computer Applications & Data Science: Spreadsheets (Using Excel charts and statistical formulas for scientific research presentation)"
+      ]
+    },
+    "metaSscCode": "S915",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "Secondary Science LO [NCERT Secondary LO Document p. 40]",
+    "metaNcertDesc": "Uses ICT tools for data representation, processing, and understands cyber security practices.",
+    "metaNishthaText": "NISHTHA Module 12: Conduct computer lab sessions on spreadsheet formula creation for scientific charts."
+  },
+  {
+    "id": "g9_s2_6",
+    "grade": "9",
+    "subject": "science2",
+    "fullTitle": "Chapter 15: Life Processes in Living Organisms",
+    "loDesc": "Explains transportation in plants (xylem and phloem), excretion in plants, human excretory system (nephron structure), and coordination in humans (nervous system and endocrine glands).",
+    "pdfPage": 55,
+    "docPage": 40,
+    "pdfUrl": "https://ncert.nic.in/pdf/notice/learning_outcomes.pdf#page=55",
+    "hookAction": "SHOW",
+    "hookDemo": "Place a celery stalk with leaves in water dyed with red ink for 2 hours, then cut a cross-section.",
+    "hookAsk": "Why do red streaks appear inside the stalk cross-section, and which vascular tissue transported the colored water?",
+    "streamTitle": "Xylem vs Phloem Sorting",
+    "streamDo": "Observe plant transport functions: Water & mineral conduction, Food (sugar) translocation, Unidirectional flow, Bidirectional flow.",
+    "streamTask": "Classify transport functions into Xylem tissue vs Phloem tissue.",
+    "mountainTitle": "Human Nephron Structure & Excretion",
+    "mountainTask": "Draw a schematic diagram of a human Nephron and trace the filtration of nitrogenous waste (urea) from blood into urine.",
+    "skyTitle": "Reflex Arc Mechanism Synthesis",
+    "skyTask": "Trace the pathway of a Reflex Arc when touching a hot object: Receptor -> Sensory Neuron -> Spinal Cord -> Motor Neuron -> Effector Muscle.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Translocation (Phloem)", "Nephron Filtration", "Reflex Arc", "Synapse", "Endocrine Hormones"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Believing that voluntary brain decisions control rapid emergency reflex actions like pulling a hand away from heat.",
+          "correctionTrigger": "Ask: 'Does your hand jump back BEFORE or AFTER you feel pain?' Show that spinal cord reflex arcs bypass brain delay."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Human Physiology & Health: Neurological Coordination (Mapping sensory-motor nerve pathways and hormonal endocrine feedback)"
+      ]
+    },
+    "metaSscCode": "S916",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "Secondary Science LO [NCERT Secondary LO Document p. 40]",
+    "metaNcertDesc": "Explains plant vascular transport, human excretion, and nervous coordination mechanisms.",
+    "metaNishthaText": "NISHTHA Module 8: Use knee-jerk reflex demonstrations to explain involuntary nervous pathways."
+  },
+  {
+    "id": "g9_s2_7",
+    "grade": "9",
+    "subject": "science2",
+    "fullTitle": "Chapter 16: Heredity and Variation",
+    "loDesc": "Understands inheritance of traits, DNA structure (Watson and Crick model), RNA types (mRNA, tRNA, rRNA), chromosomes (karyotype, autosomes, sex chromosomes), and genetic disorders (Down syndrome, Monosomy, Sickle-cell anemia).",
+    "pdfPage": 55,
+    "docPage": 40,
+    "pdfUrl": "https://ncert.nic.in/pdf/notice/learning_outcomes.pdf#page=55",
+    "hookAction": "SHOW",
+    "hookDemo": "Display a 3D double-helix DNA model alongside a human 23-pair chromosome karyotype chart.",
+    "hookAsk": "Why do children inherit physical traits from both parents while remaining unique individuals?",
+    "streamTitle": "RNA Type Function Matching",
+    "streamDo": "Observe RNA types: messenger RNA (mRNA), transfer RNA (tRNA), ribosomal RNA (rRNA).",
+    "streamTask": "Match each RNA type with its specific role during cellular protein synthesis.",
+    "mountainTitle": "Monohybrid Cross Genetics Calculation",
+    "mountainTask": "Construct a Punnett Square for a Monohybrid cross between pure tall (TT) and pure dwarf (tt) pea plants, stating F1 and F2 phenotypic ratios (3:1).",
+    "skyTitle": "Sickle-Cell Anemia & Genetic Disorder Analysis",
+    "skyTask": "Explain the cause of Sickle-cell anemia (hemoglobin gene mutation) and discuss why pre-marital genetic counseling is essential.",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["DNA Double Helix", "Karyotype (Autosomes/Sex Chromosomes)", "Monohybrid Cross", "Punnett Square", "Gene Mutation"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Thinking that dominant alleles are always more common or 'stronger' in a population than recessive alleles.",
+          "correctionTrigger": "Ask: 'If a trait is dominant, does it automatically mean 90% of people have it?' Discouple dominance from frequency."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Genetics & Healthcare: Pre-marital Counseling (Analyzing inheritance probability ratios using Mendelian Punnett squares)"
+      ]
+    },
+    "metaSscCode": "S917",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "Secondary Science LO [NCERT Secondary LO Document p. 40]",
+    "metaNcertDesc": "Understands DNA/RNA molecular structure, Mendelian genetics, and chromosomal disorders.",
+    "metaNishthaText": "NISHTHA Module 8: Use Punnett square grid boards for hands-on genetic ratio calculations."
+  },
+  {
+    "id": "g9_s2_8",
+    "grade": "9",
+    "subject": "science2",
+    "fullTitle": "Chapter 17: Introduction to Biotechnology",
+    "loDesc": "Understands plant and animal tissues (simple vs complex), tissue culture techniques, agribusiness applications (sericulture, apiculture, poultry, horticulture), and genetic engineering.",
+    "pdfPage": 55,
+    "docPage": 40,
+    "pdfUrl": "https://ncert.nic.in/pdf/notice/learning_outcomes.pdf#page=55",
+    "hookAction": "SHOW",
+    "hookDemo": "Display sterile test tubes containing plant callus culture growing on nutrient agar jelly.",
+    "hookAsk": "How can thousands of disease-free plantlets be produced from a tiny tissue explant in a sterile laboratory?",
+    "streamTitle": "Plant & Animal Tissue Classification",
+    "streamDo": "Observe tissues: Meristematic, Epithelial, Parenchyma, Xylem, Muscular, Nervous, Connective.",
+    "streamTask": "Classify tissues into Plant Tissues vs Animal Tissues and state their locations.",
+    "mountainTitle": "Tissue Culture Steps Explanation",
+    "mountainTask": "List the sequential stages of Tissue Culture: Explant selection, Sterilization, Callus formation, Organogenesis, and Hardening.",
+    "skyTitle": "Commercial Agribusiness Biotechnology Synthesis",
+    "skyTask": "Analyze economic benefits and modern techniques used in Sericulture (silkworm rearing) or Apiculture (honeybee farming).",
+    "chapterDiagnostics": {
+      "prerequisiteVocabulary": ["Meristematic vs Permanent Tissue", "Explant", "Callus Formation", "Tissue Culture", "Sericulture / Apiculture"],
+      "commonMisconceptions": [
+        {
+          "misconception": "Confusing meristematic dividing tissues with permanent specialized storage tissues in plants.",
+          "correctionTrigger": "Ask: 'Which plant tissues actively divide at root tips vs which ones store food?' Distinguish meristem from parenchyma."
+        }
+      ],
+      "crossCurricularLinks": [
+        "Agronomy & Rural Economy: Agribusiness Scaling (Applying micropropagation and sericulture for high-yield farming)"
+      ]
+    },
+    "metaSscCode": "S918",
+    "metaAlignmentStatus": "Identical Alignment",
+    "metaNcertCode": "Secondary Science LO [NCERT Secondary LO Document p. 40]",
+    "metaNcertDesc": "Understands tissue classification, tissue culture, and modern biotechnology applications in agriculture.",
+    "metaNishthaText": "NISHTHA Module 8: Conduct visits to local tissue culture labs or agricultural research centers."
+  }
+]
